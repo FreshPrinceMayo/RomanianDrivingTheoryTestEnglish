@@ -1,0 +1,1391 @@
+{
+    "sectionName": "",
+    "questions": [
+        {
+            "questionsNumber": "1",
+            "images": [],
+            "question": "You are required not to exceed 50 km/h outside towns, in the following situations:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When the roadway is covered with slime",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "While driving on a slope",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When meeting the indicator ‘Priority for circulation in opposite direction’.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "2",
+            "images": [],
+            "question": "What are your obligations on meeting this indicator?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Not to exceed a speed of 50 km/h, as there is a potentially dangerous curve to the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To reduce speed to 40 km/h and switch on the low beam",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Not to overtake vehicles that transport goods.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "3",
+            "images": [],
+            "question": "What is the maximum speed limit in cities?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "60 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "50 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "40 km/h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "4",
+            "images": [],
+            "question": "At what speed can you drive near a crossroad?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The maximum speed limit will be respected only in directed intersections",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At a speed that allows stopping to grant priority to traffic participants who have this right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The maximum speed limit in cities is 50 km/h and outside towns 130 km/h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "5",
+            "images": [],
+            "question": "What are the maximum speeds permitted for vehicles in the subcategory B1?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "90 km/h on highways, 80 km/h on expressways or European national roads and 70 km/h on other types of roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "110 km/h on highways, 90 km/h on expressways and European national, 80 km/h on other types of roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "130 km/h on highways and 90 km/h on other types of roads.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "6",
+            "images": [],
+            "question": "In which of these situations you are required to drive at reduced speeds?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When you are tired and the car has defective brakes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At railway level crossings",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "On county and municipal roads.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "7",
+            "images": [],
+            "question": "Where does high speed often lead to accidents?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In intersections.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In parking lots",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In driving polygons.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "8",
+            "images": [],
+            "question": "Is the driver required to use the additional lane when climbing a slope if the speed is lower than that of the road sign?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No, because the lane is for vehicles traveling at speeds equal to or greater than that specified by the indicator",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, because he has to always drive on the lane close to the margin.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "9",
+            "images": [],
+            "question": "What is the maximum speed limit outside localities, on national expressways or European roads (E)?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "100 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "110 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "90 km/h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "10",
+            "images": [],
+            "question": "At what speed will you make a left turn at an undirected intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "At a speed higher than the legal speed limit",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At a maximum speed of 80 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At a speed not exceeding 30 km/h in towns and 50 km/h outside towns.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "11",
+            "images": [],
+            "question": "What should you do when entering a poorly lit street from one that is well illuminated?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The speed must be adapted to the new lighting conditions",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You do not have any legal obligations",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Drive as usual, as the vision adapts instantly.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "12",
+            "images": [],
+            "question": "The speed must not exceed 30 km/h in towns and 50 km/h outside towns:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When visibility is less than 100 m in conditions of fog, heavy rain and snow",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When driving on and under bridges",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At the indicator ‘Priority for opposite traffic’.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "13",
+            "images": [],
+            "question": "What do you do, when driving at the maximum speed allowed by law, you notice another car trying to overtake?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Do not increase speed and drive on the right side of the road, allowing the car to overtake",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Signal using the lights that you understand the intention of the other vehicle to overtake",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Use the horn and light signals, to alert the other driver that he exceeds the speed limit.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "14",
+            "images": [],
+            "question": "The maximum speed allowed outside cities, when visibility is reduced below 100 m due to fog, is:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "70 km / h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "50 km / h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "90 km / h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "15",
+            "images": [],
+            "question": "If, for objective reasons, you drive slowly, you must:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Drive only on the lane close to the margin",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Drive only on the lane near the axis, signaling with the hazard warning lights",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Use the horn and light signals to prevent any possible event.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "16",
+            "images": [],
+            "question": "In which of the following situations are you forced to not exceed 30 km/h in towns?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Within the range of the warning indicator \"Accident\"",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When visibility is less than 100 m, due to fog",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At intersections, when there are vehicles coming from the opposite direction.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "17",
+            "images": [],
+            "question": "How do you drive carefully on icy roads, to avoid accidents?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Brake powerfully",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Drive at reduced speeds and brake carefully to gauge how your vehicle reacts",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Drive on the central axis of the road.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "18",
+            "images": [],
+            "question": "Are you permitted to drive at speeds greater than the legal limit, in case of overtaking?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, if you drive on the highway",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, if you make sure there is no oncoming vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "19",
+            "images": [],
+            "question": "With what speed should you drive on public roads outside towns, when the road is covered with wet cubic stone?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "At a speed not exceeding 50 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At a speed which allows you to maneuver safely",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At a speed not exceeding the maximum limit of 90 km/h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "20",
+            "images": [],
+            "question": "Speed must be reduced at the signal:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Of authorized workers on the public roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Of railway officers",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Of border guards.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "21",
+            "images": [],
+            "question": "The indicator means:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "A maximum allowed speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "A recommended speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "A mandatory minimum.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "22",
+            "images": [],
+            "question": "The speed for a car on a highway, if the driver has less than a year of driving experience is:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "130 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "100 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "110 km/h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "23",
+            "images": [],
+            "question": "The speed for a car on national roads, other than European roads(E), whose driver has less than a year of driving experience is;",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "70 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "90 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "80 km/h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "24",
+            "images": [],
+            "question": "What obligations do you have regarding speed while driving?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To comply with the maximum speed which corresponds to the category of vehicle you drive",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To comply with speed limits imposed by specific signaling",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To drive as far as possible in lower gears, not to pollute the environment.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "25",
+            "images": [],
+            "question": "When it is not allowed to increase the speed of a car?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When driving on the first lane",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When another vehicle is overtaking you",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In intersections.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "26",
+            "images": [],
+            "question": "A driver with less than a year of driving experience will drive at speeds lesser than maximum speed outside the city, by:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "10 km / h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "20 km / h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "25 km / h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "27",
+            "images": [],
+            "question": "What obligations do you have when you are overtaken by another vehicle?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To reduce the speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Not to increase speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To drive as close as possible to the margin of the road or lane you are driving.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "28",
+            "images": [],
+            "question": "Speed should be reduced to 30 km/h in towns and 50 km/h outside towns:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When you pass by organized groups, military columns or processions, when the road has only one lane in each direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At the indicator “Mandatory bicycle track”",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At railway level crossings with double or simple barriers.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "29",
+            "images": [],
+            "question": "When driving a car towing a trailer on a European national road (E), what is the speed at which you are allowed to drive outside city limits?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "70 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "110 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "90 km/h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "30",
+            "images": [],
+            "question": "In a pedestrian area, marked as such, you are required to drive at a speed:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Of not more than 30 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Of not more than 20 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Of not more than 5 km/h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "31",
+            "images": [],
+            "question": "What are you obligations regarding traffic speed?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To comply with the statutory speed applicable to the road you travel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Adapt speed depending on road conditions so that you can perform any maneuver safely",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No to exceed the speed limit in areas where radar equipment is installed.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "32",
+            "images": [],
+            "question": "In which situation are you obliged to reduce speed?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "At railway level crossings with barriers",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At railway level crossing without barriers",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At industrial railway level crossings.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "33",
+            "images": [],
+            "question": "The driver of the vehicle in the image should drive at a maximum the speed of:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "80 km / h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "90 km / h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "100 km / h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "34",
+            "images": [],
+            "question": "What is the maximum speed on highways?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "110 km / h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "100 km / h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "130 km / h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "35",
+            "images": [],
+            "question": "What are your obligations, as a driver?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To drive at a speed, at least, equal to that prescribed by the indicator ‘Mandatory minimum speed’",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Not to accelerate in intersections",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To drive at a speed lesser than the indicated minimum speed.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "36",
+            "images": [],
+            "question": "You are forced to drive at a speed not exceeding 30 km/h in towns, in the following situations:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In the action area of the warning indicator ‘Children between the hours 07.00-22.00’",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In residential areas",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When changing lanes.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "37",
+            "images": [],
+            "question": "You are driving in a row of cars. How do you behave?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Overtake the row, if possible in a single movement",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Maintain a proper distance from the car in front and watch out for other road users",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Drive very close to the vehicle in front, not to be left behind.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "38",
+            "images": [],
+            "question": "In which situation is it not permitted to increase the speed of a vehicle?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When another vehicle is overtaking you vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In the action area of the indicator ‘Recommended speed’",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When you drive on the first lane and there are vehicles moving with higher speeds on next lane, near the road axis.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "39",
+            "images": [],
+            "question": "Speed will be reduced to the legal limit in the following situations:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In crowded market areas",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At meeting the indicator ‘Stop’",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When the road is covered with frost, ice, snow, slime or wet cubic (cobble) stones.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "40",
+            "images": [],
+            "question": "After a heavy rain, it is necessary to maintain a significantly larger distance from the vehicle circulating in front?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, because the braking space increases",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, because this leads to congestion",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, because you do not see the traffic signs.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "41",
+            "images": [],
+            "question": "Travel speed must be reduced:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "At the indicator ‘Give Way’.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When travelling in the direction opposite to trams, trolleybuses and buses stopped in stations on roads with a single lane",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At the indicator ‘Priority over opposite traffic’.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "42",
+            "images": [],
+            "question": "What is the maximum speed at which vehicles in categories A and B can drive outside city limits?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "130 km/h on highways, 100 km/h on expressways or European national roads and 90 km/h on other types of roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "110 km/h on highways, 90 km/h on expressways or European national roads and 80 km/h on other types of roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "130 km/h on highways and 80 km/h on other types of roads.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "43",
+            "images": [],
+            "question": "At what speed should you drive when the road is covered with frost, ice, snow, slime or wet cubic stones?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The speed should be reduced to half of the speed limit.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The speed should not exceed 30 km/h in towns and 50 km/h outside towns",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The speed should be reduced depending on the atmospheric conditions.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "44",
+            "images": [],
+            "question": "What is forbidden in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The indicator is addressed only to drivers of public transport vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To drive at speeds slower than 60 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To drive at speeds greater than 60 km/h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "45",
+            "images": [],
+            "question": "In which of the following situations it is forbidden to increase speed?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When you are overtaken",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In the action area of radar speed detection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At night.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "46",
+            "images": [],
+            "question": "You drive in a row and maintain the distance from the vehicle in front. What else should to do?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To switch on the rear fog lamp",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To see the right edge of the roadway through the side window",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To stay in your lane and ensure your field of visibility.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "47",
+            "images": [],
+            "question": "In this situation you must:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Not to exceed the speed of 30 km/h between 7.00-22.00 am, being an area frequented by children",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Grant priority to cyclists crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Bypass the children’s playgrounds.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "48 The maximum speed on European national roadways (E), for a driver with less than a year of driving experience is:",
+            "images": [],
+            "question": "The maximum speed on European national roadways (E), for a driver with less than a year of driving experience is:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "110 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "80 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "90 km/h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "49 What is the maximum speed at which you can drive?",
+            "images": [],
+            "question": "What is the maximum speed at which you can drive?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "60 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "50 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "40 km/h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "50",
+            "images": [],
+            "question": "What is the speed on public roads that are wet or covered with slime or snow?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The speed specified by regulations for the category of car you drive",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The speed that will surely give you the safety to stop and without losing control",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In this case the speed should not exceed 20 km/h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "51",
+            "images": [],
+            "question": "The lowest speed limit that public road administrators can fix for certain sectors within localities cannot be lesser than:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "10 km/h for trams and 30 km/h for all vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "20 km/h for trams and 40 km/h for all vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "30 km/h for trams and 50 km/h for all vehicles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "52",
+            "images": [],
+            "question": "What is the lowest speed limit that can be set within localities?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Not lesser than 30 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Not less than 40 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "There is no legal provision.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "53",
+            "images": [],
+            "question": "What is the maximum speed for traffic in residential areas?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "5 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "10 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "20 km/h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "54",
+            "images": [],
+            "question": "What dangers may arise when not wearing a seatbelt?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "A collision even at a speed of about 20 km/h increases the risk of injury",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Dangers can occur at speeds above 60 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "There is no risk of injury.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "55",
+            "images": [],
+            "question": "You are required to reduce speed to the legal limit at pedestrian crossings without lights, but indicated by signs and markings, if:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The road has only one lane for each direction and pedestrians engage to cross",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The road has at least two lanes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The crossings are located next to tram stations.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "56",
+            "images": [],
+            "question": "You are forced to drive at a speed not exceeding 50 km/h outside towns, in the following situations:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When animals move alongside traffic on the road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When driving through tunnels",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In pedestrian areas, marked as such.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "57",
+            "images": [],
+            "question": "The maximum speed limit for a public road, a road administrator can set on certain sectors within localities, for vehicles in categories A and B cannot be greater than:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "50 km / h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "80 km / h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "110 km / h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "58",
+            "images": [],
+            "question": "At what speed can you travel in conditions of fog, heavy rain, heavy snow, if visibility is reduced below 100 m?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Up to 50 km/h in towns and 60 km/h outside towns",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed to a limit where danger can be avoided",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Up to 30 km/h in towns and 50 km/h outside towns.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "59",
+            "images": [],
+            "question": "What is the speed limit on roads outside towns, other than motorways, expressways and European national roads (E)?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "70 km / h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "90 km / h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "100 km / h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "60",
+            "images": [],
+            "question": "Why is it necessary to increase the distance to the vehicle in front of you, when driving on wet roads?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Because the tyre grip decreases and the braking space increases",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Because you cannot see the stop indicator lights of the vehicle in front of you in time, when it brakes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Because the wheels of the vehicle in front of you may spray gravel on your windshield",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "61",
+            "images": [],
+            "question": "It is compulsory to reduce speed:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "On pedestrian crossings",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At the signals of border policemen",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At the indicator ‘Dive Way’.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "62",
+            "images": [],
+            "question": "In a residential area, you must travel at:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "A compulsory minimum speed of 20 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "A speed of 20 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "A speed of 30 km/h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "63",
+            "images": [],
+            "question": "The phenomenon of aquaplaning generates the following hazards:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Splashing of water on the windscreen",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Splashing of water on buildings and pedestrians",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Loss of steering control.",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

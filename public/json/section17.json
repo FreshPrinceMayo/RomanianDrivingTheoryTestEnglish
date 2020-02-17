@@ -1,0 +1,1435 @@
+{
+    "sectionName": "",
+    "questions": [
+        {
+            "questionsNumber": "1",
+            "images": [],
+            "question": "What do you do to complete an overtaking maneuver?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Signal your return and maneuver safely to reenter the lane",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "After repositioning, start the hazard warning (blinking) lights",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Horn and engage on the right side, directly in front of the vehicle you want to overtake.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "2",
+            "images": [],
+            "question": "Turning (u-turn) the car is prohibited:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Where the axial marking is discontinuous",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In junctions (intersections) where it is necessary to maneuver back and forth",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In the action area of the indicator ‘Stationing prohibited’.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "3",
+            "images": [],
+            "question": "What is the recommended route to turn left?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Route 1",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Route 2",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Turning left is forbidden.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "4",
+            "images": [],
+            "question": "The indicator does not allow changing direction to the left:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "At the intersection prior to which it is installed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At all intersections, until you see the indicator \"End of all restrictions\"",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "200m from the place it is installed.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "5",
+            "images": [],
+            "question": "The car in the picture is stationed (parked) wrongly?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, because nobody is allowed to park on the emergency lane of the highway",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, as it is parked on the emergency lane.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "6",
+            "images": [],
+            "question": "Did you select the correct lane to turn left at the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You are allowed to only travel forward.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "7",
+            "images": [],
+            "question": "What is the sequence in which vehicles will pass through the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Truck, car, motorcycle, trolley",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Trolley, truck, motorcycle, car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Truck, car, trolley, motorcycle.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "8",
+            "images": [],
+            "question": "What do you do, if in a roundabout, you notice that an official cavalcade travels on a side road?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You will continue, as you have priority in the roundabout",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You stop and grant priority to the official vehicles.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You turn right and leave the intersection.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "9",
+            "images": [],
+            "question": "What is the correct way for a driver to pass from the first lane to the third lane?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed and move from one lane to the other, ensuring all the time using the rearview mirror",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "If the transition from one lane to the other is made 200 m before an intersection, then such a maneuver is not permitted",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Ensure from the back and signal the intention to move sequentially from the first lane to the second, and then the third.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "10",
+            "images": [],
+            "question": "Drivers who travel in the lane near the margin, the same lane as public transport vehicles shall:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Not overtake such vehicles when it stops at the station",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Allow the drivers of public transport vehicles to perform maneuvers to re-enter the lane, if the station is provided with a bay",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Allow passengers to climb into such vehicles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "11",
+            "images": [],
+            "question": "What obligation does a driver have when changing the direction of travel to the right, at a green traffic light, while pedestrians are crossing?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To signal the change of direction of travel and grant priority to pedestrians crossing the street",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To signal the change of direction of travel and continue moving cautiously, while pedestrians are obliged to grant him passage",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To signal the change of direction of travel and maintain sufficient lateral distance from the right border.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "12",
+            "images": [],
+            "question": "What do you do if you have positioned yourself on the left lane even though you intend to turn right?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Signal, horn and turn right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Turn left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Because there are no oncoming vehicles, hastily turn to the right.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "13",
+            "images": [],
+            "question": "Is it allowed to turn left if the vehicle is on the proper lane and the traffic light for this maneuver indicates green, while the signal for going forward is red?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, because the signal is green",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, because one of the signals is red",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, because the lights are not coordinated.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "14",
+            "images": [],
+            "question": "In this case, you intend to turn right. What obligations do you have?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop, ensure and then change direction to the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Bypass the roundabout and then change direction to the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Signal the intention to perform the maneuver, ensure, engage closer to the right edge of the road and then turn right.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "15",
+            "images": [],
+            "question": "What is meant by the distance of at least 50 m, when a driver is required to signal the intention to overtake, in the village?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The distance between the vehicle that overtakes and the one that will be overtaken",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The distance between the place where he has signaled his intention to overtake and the place where the vehicle changes position to start overtaking",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The distance between the vehicles engaged in overtaking and the place where the overtaking is done.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "16",
+            "images": [],
+            "question": "Which vehicle in the image can continue moving?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Truck",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Green car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Red car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "17",
+            "images": [],
+            "question": "Which car is positioned correctly to change the direction of travel?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Red car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Blue car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Both cars.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "18",
+            "images": [],
+            "question": "When is it prohibited to change direction to the left?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When the driver is positioned in the right lane",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When the street you are about to enter has the indicator ‘Circulation prohibited in both directions’.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When the street you are about to enter is signaled by the indicator ‘Dead end’.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "19",
+            "images": [],
+            "question": "How will you proceed if you intend to change direction to the right?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Signal the change of direction and pedestrians will grant you priority",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Signal the change of direction and give way to vehicles coming from the left side",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Signal the changing of direction and grant priority to pedestrians.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "20",
+            "images": [],
+            "question": "In what circumstances is it forbidden to turn (U-Turn)?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Near tram stations",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When the visibility is reduced below 100 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In places where the firmness of the road does not allow.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "21",
+            "images": [],
+            "question": "What is meant by the distance of 100 m for signaling the change of direction, outside city limits?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The distance from the vehicle circulating behind",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The distance from signaling the intent to perform the maneuver and the place from where you change the direction of travel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The distance from the place where overtaking is done.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "22",
+            "images": [],
+            "question": "You drive behind an animal drawn vehicle that intends to change the direction of travel. What do you do?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You signal you intention to overtake using the horn",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You allow the vehicle to perform the maneuver safely",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You have no obligation.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "23",
+            "images": [],
+            "question": "On a three-lane highway the traffic is blocked. Where will the emergency vehicles travel?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "On the emergency lane",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Between the left lane and the middle lane",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Between the right lane and the middle lane.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "24",
+            "images": [],
+            "question": "What do you do when the car skids with the rear end to the right?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Brake powerfully and straighten the vehicle by turning left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Pull the steering wheel quickly to the left, without braking",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Release the accelerator pedal and turn slightly to the right.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "25",
+            "images": [],
+            "question": "If the green signal is accompanied by the sign ‘Straight forward or right’, it is allowed to drive:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In all directions, as the lights prevail over road signs",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Only to the left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Only straight or right.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "26",
+            "images": [],
+            "question": "How should you change direction to the left at an intersection where trams circulate and the space between the rail and the right margin is sufficient for the vehicle to pass?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "On the tram line",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "On the only remaining available lane, by leaving the tram route free",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In this situation you cannot change direction to the left.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "27",
+            "images": [],
+            "question": "When is it allowed to cross over the discontinuous line?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In any situation, as it only indicative",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When such marking does not delimit two-way traffic",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When changing lanes, the direction of travel or when overtaking.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "28",
+            "images": [],
+            "question": "You are approaching an intersection without traffic signs. Visibility in both directions is impossible because vehicles are stationed (parked). What do you do?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Enter the intersection slowly and carefully with heightened attention",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Cross the intersection as quickly as possible",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Blink the lights and enter the intersection.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "29",
+            "images": [],
+            "question": "How can you park correctly in a roundabout?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Parallel to the kerb and close to it",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Partially on the sidewalk",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In this place it is not permitted to park.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "30",
+            "images": [],
+            "question": "What is the best route to turn in this crossroads?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Route 1",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Route 2",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Route 3.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "31",
+            "images": [],
+            "question": "What obligations do you have when crossing from one lane to another?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To signal in time and make sure that you perform the maneuver without disrupting traffic or endangering other road users",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Ensure from the rear",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Ensure from the front and back.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "32",
+            "images": [],
+            "question": "What is the distance of 50 m needed for signaling directional changes in localities?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The distance to the vehicle moving behind you",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The distance to the place where overtaking ends",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The distance between the place where you signal the intention to overtake and the place where the maneuver begins.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "33",
+            "images": [],
+            "question": "What do you do , if you are driving the red car?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "As you intend to turn left, you should do it last",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You can be the first to cross",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You allow the tram to pass.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "34",
+            "images": [],
+            "question": "What route should you follow to steer left?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Route 1",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Route 2",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Route 3.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "35",
+            "images": [],
+            "question": "On one-way streets it is prohibited:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To turn (u-turn) the vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To turn left or right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To steer the vehicle back.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "36",
+            "images": [],
+            "question": "Turning is prohibited:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "On ramps (slopes), if visibility is less than 50 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In front of a garage",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At pedestrian crossings.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "37",
+            "images": [],
+            "question": "What do you do when encountering obstacles on your road and you need to bypass them by crossing on to the opposite lane, in front of an approaching vehicle:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed and, if necessary, stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop and remove the obstacle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop and wait for the traffic police.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "38",
+            "images": [],
+            "question": "Which lane must a driver occupy and at what distance, to move forward in an unmarked intersection, outside a village?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The left lane, at a distance of at least 100 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The left or right lane at a distance of at least 50 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The right lane, at a distance of at least 100 m.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "39",
+            "images": [],
+            "question": "Are you required to signal any change in the direction of travel?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Only if there are vehicles behind you",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Only in localities",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "40",
+            "images": [],
+            "question": "One needs to alternate the high beam with the low beam, at night:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In intersections that are not directed by light signals or traffic policemen",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To signal drivers who are engaged in reckless overtaking maneuvers",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When meeting oncoming vehicles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "41",
+            "images": [],
+            "question": "What obligations do you have on a public road with several lanes, if your lane ends and you have to move to the left lane?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To allow vehicles traveling on the left lane to pass",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To signal, so vehicles behind grant to you the right of way",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To increase speed not to hinder other road users.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "42",
+            "images": [],
+            "question": "Can you approach the vehicle in front?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The law does not specify regarding this situation.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "43",
+            "images": [],
+            "question": "In which of these situations is it forbidden to turn (u-turn) the vehicle?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In places with the indicator “Forbidden Return “",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In places where stopping is prohibited, except for intersections",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In the action area of the indicator ‘Stationing prohibited’.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "44",
+            "images": [],
+            "question": "It is forbidden to turn the vehicle:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "On roads where speed restrictions apply",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "On roads with a single lane",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At intersections where left turns are prohibited.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "45",
+            "images": [],
+            "question": "Is the yellow car wrongly stationed (parked)?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No, because it is near a park",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, as it is permitted",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, because it is stationed (parked) on a pedestrian crossing and this is forbidden.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "46",
+            "images": [],
+            "question": "Which traffic participants are required to comply with road traffic regulations within localities?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "All participants in traffic, regardless of the situation",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Drivers, both amateur and professional, during the day and at night",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Drivers of public transport vehicles, since these vehicles have specific destinations.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "47",
+            "images": [],
+            "question": "For how long do you have to keep signaling the change of direction?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "For ten seconds after beginning the maneuver",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "During the entire execution of the maneuver",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The law is silent on this aspect.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "48",
+            "images": [],
+            "question": "In this situation, to signal your presence, will you alternate the high beam with the low beam?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, after the car has passed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, because during the day you can apply the right priority rule",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, only the high beam is used.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "49",
+            "images": [],
+            "question": "When meeting an oncoming vehicle at night, on an unlit road, the driver of the vehicle must:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Move closer to the right edge of the road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Sound the horn.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "50",
+            "images": [],
+            "question": "Which lane must you occupy and at what distance, to do a turn left at an undirected intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The lane nearest to the axis of the road, at a distance of at least 50 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The middle lane, at a distance of at least 100 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The lane near the margin, at a distance of at least 50 m.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "51",
+            "images": [],
+            "question": "Which car in the picture moves correctly through the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Red and purple cars.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Blue and red cars.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "All four cars.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "52",
+            "images": [],
+            "question": "Turning (u-turn) is prohibited:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In the action area of the indicator ‘Prohibited stationing (parking)’.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In the action area of the indicator ‘Overtaking forbidden’",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In front of access roads leading to properties adjacent to public roads.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "53",
+            "images": [],
+            "question": "On which of the two lanes must a driver position his vehicle and at what distance from the intersection, in order to turn right in a village?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "On the lane near the axis, at a distance of at least 100 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "On the right lane, at a distance of at least 50 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "On any lane, at a distance of at least 50 m.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "54",
+            "images": [],
+            "question": "On which lane should you be positioned to turn left at an intersection marked as such?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Lane 1",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Lanes 2 and 3",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Lane 4.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "55",
+            "images": [],
+            "question": "What should you expect if you drive behind a truck with a trailer, which intends to turn right on a narrow street?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Prior to turning, the truck stops",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Prior to turning, the truck initially moves to the left, because of its size (gauge)",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The truck maneuvers like any car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "56",
+            "images": [],
+            "question": "The change of direction to the left at an intersection without markings is made:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "By circumventing the imaginary center of the intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "By turning left of the imaginary center of the intersection without intersecting the paths of oncoming vehicles that turn left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "By an agreement with those from the opposite direction.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "57",
+            "images": [],
+            "question": "Is the black car in front of you stopped correctly?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, because the additional sign is indicating the end zone where stopping is prohibited",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, because it is within range of the indicator ‘Stopping prohibited’",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, as the indicator ‘Stopping prohibited’ does not permit such a stop, at a distance of less than 100 m from the road sign.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "58",
+            "images": [],
+            "question": "In this case, what do you do when changing from one lane to the other?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In this case you are not permitted to change lanes due to the continuous line",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You ensure from the front and back and cross",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You ensure, signal your intent to change direction and follow the significance of markings.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "59",
+            "images": [],
+            "question": "In what sequence will the three cars pass through the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Red, blue, green",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Green, red, blue",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Blue, red, green.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "60",
+            "images": [],
+            "question": "From which direction must a driver ensure before overtaking?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Front",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Back",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The front and back.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "61",
+            "images": [],
+            "question": "When is it prohibited to change direction to the right, although the green signal is on?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When the traffic light is not accompanied by an additional sign that contains an arrow to the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When there is a one-way street to the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When the lane on which the vehicle is moving is signaled by an indicator and directional marker to go forward.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "62",
+            "images": [],
+            "question": "When is a vehicle not allowed to turn (u-turn)?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When the public road is less than 7 m wide",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When climbing a slope",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "On pedestrian crossings.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "63",
+            "images": [],
+            "question": "Reversing is prohibited:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When the rear visibility is not ensured",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "There is no legal provision in this regard",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At less than 50 m from bus and tram stations.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "64",
+            "images": [],
+            "question": "If you intend to turn left:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You have selected the correct lane, but stopped as the traffic light is red",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You have selected the right lane, so you keep moving",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You cannot turn left, because you are on the lane to move forward or right and the green light obliges you to do so.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "65",
+            "images": [],
+            "question": "What do you do in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You follow the vehicle that is overtaking",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You ensure and change direction to the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The indicator is addressed to oncoming vehicles.",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

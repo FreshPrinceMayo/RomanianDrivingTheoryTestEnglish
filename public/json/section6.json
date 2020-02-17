@@ -1,0 +1,731 @@
+{
+    "sectionName": "",
+    "questions": [
+        {
+            "questionsNumber": "1",
+            "images": [],
+            "question": "When is it permitted to cross a level crossing, without barriers but signaled with lights, if a train just went by?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "After the flashing red lights stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "After the last wagon has passed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When vehicles on the other side of the railway track start moving.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "2",
+            "images": [],
+            "question": "At the warning indicator cross, placed on a railway crossing without barriers, drivers shall stop:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Close to the railroad, but not lesser than 5 m from it",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In a place with maximum visibility, without exceeding the indicator cross",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Within 5 m of the railway.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "3",
+            "images": [],
+            "question": "The signal flashing white, at slow pace, works:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When the red light signals at the railway level crossing are off",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When the light signals of defective traffic lights are off",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When the barriers or semi-barriers are being lowered or lifted.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "4",
+            "images": [],
+            "question": "How do you proceed when approaching a railway level crossing without barriers, with the red light and sound signals operating?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed and stop if a train is coming",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Speed, if you notice that a train is not approaching",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Reduce speed and stop, where there is maximum visibility, without passing signs or stop markings.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "5",
+            "images": [],
+            "question": "The interdiction of railway level crossings, provided with automatic signaling systems but without barriers, is achieved:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When the alternative flash-fire red lights are operating and the white flashing light is off.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When the white flashing light operates",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Alternating red and white lights operate.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "6",
+            "images": [],
+            "question": "What are your obligations at a railway level crossing if the barriers are raised?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Make sure you are not overtaken by other vehicles trying to drive through the railway crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Horn during the day and flash the high beam at night, then drive through the crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Reduce speed, make sure there is no train approaching from the left or right, then cross.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "7",
+            "images": [],
+            "question": "Where should you stop if you are at a railroad crossing and the barrier is lowered?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "At the two striped panel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In front of the indicator cross",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In front of the barrier.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "8",
+            "images": [],
+            "question": "You are approaching a railroad crossing and notice that the semi-barrier is being lowered. What do you do?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Accelerate and drive as quickly as possible over the railway crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop in front of the semi-barrier",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "If there is no train approaching, bypass the semi-barrier.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "9",
+            "images": [],
+            "question": "What do you do in the present situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed and stop where you have maximum visibility",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed and stop in front of the last additional panel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Reduce speed and make sure you can cross without any danger.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "10",
+            "images": [],
+            "question": "You have the obligation to stop the vehicle immediately at the signals of:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Officers and non-commissioned officers of the Romanian gendarmerie",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The police community",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Railway officers at level crossings.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "11",
+            "images": [],
+            "question": "Drivers at an industrial railroad crossing must:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Increase attention",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Comply with signals of railroad agents",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Ensure and stop if you notice a train approaching.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "12",
+            "images": [],
+            "question": "The signals of railways officers with red flags, at industrial railroad crossings oblige drivers to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed, ensure and cross carefully if the train is more than 50 m from the crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Continue driving as these signals are meant for train drivers.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "13",
+            "images": [],
+            "question": "On approaching a railway level crossing without barriers you notice a cart crossing in front of you. In this situation are you allowed to overtake?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, if the cart has not yet reached railway tracks",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, because the cart is a slow vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "14",
+            "images": [],
+            "question": "This indicator warns:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "It is 150 m from the railway crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "It is 80 m from the railway crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "It is 50 m from the railway crossing.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "15",
+            "images": [],
+            "question": "How will you proceed on approaching a level crossing fitted with semi-barriers, where the automatic audible signals and red lights are in operation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed and stop in front of the semi-barrier",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Bypass the semi-barrier and continue, if there is no train approaching",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Increase speed, not to be trapped under the closing semi-barrier.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "16 At a railway level crossing, if you find a vehicle immobilized on the tracks, how will you proceed?",
+            "images": [],
+            "question": "At a railway level crossing, if you find a vehicle immobilized on the tracks, how will you proceed?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Continue your journey because qualified railway personnel will handle the situation",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop and call the police about the incident",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Help in moving the vehicle off the tracks, or, if not possible, signal its presence.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "17",
+            "images": [],
+            "question": "What do you do in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Continue driving as the two alternating red lights indicate permission to cross railroad",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Continue driving if the semi-barriers have not yet descended.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "18",
+            "images": [],
+            "question": "What do you do when in the proximity of a railway level crossing without barriers and the red indicator lights are alternately switched on and off?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed and stop only if a train is approaching",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop the vehicle without exceeding indicator",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Reduce speed, and, after making sure there is no train approaching, continue moving.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "19",
+            "images": [],
+            "question": "When the audio signals and red lights are working at a railway crossing with barriers, you are warned that:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The closing and opening of the barrier is not working properly",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "A train is approaching and the barriers will close automatically",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You must cross the barrier urgently.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "20",
+            "images": [],
+            "question": "The additional panel indicates:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "A railway level crossing with barriers, equipped with automatic signaling devices",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "A narrow road sector",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Right of way for vehicles approaching from the opposite circulation.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "21",
+            "images": [],
+            "question": "When approaching an industrial railroad:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Motor vehicle drivers will show caution",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Motorists have no obligation, if there is no railroad officer",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Motorists shall respect the significance of the electric traffic light.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "22",
+            "images": [],
+            "question": "How do you proceed at a railway level crossing when the barriers are high?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed without exceeding the continuous stop line",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop the vehicle in the place where visibility is maximum, without exceeding the cross priority indicator.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Reduce vehicle speed and cross carefully, after ensuring from the left and right that there is no train approaching.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "23",
+            "images": [],
+            "question": "What obligations do you have in the situation shown in the picture?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Do not overtake other vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To reduce speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop 50 meters from the railway crossing.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "24",
+            "images": [],
+            "question": "At what distance from a railway level crossing are installed the additional warning signs?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The first at 90 m, second at 60 m and third at 30 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The first at 200 m, the second at 150m and third at 100 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The first at 150 m, the second at 100 m and the third at 50 m.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "25",
+            "images": [],
+            "question": "How do you proceed on approaching a railway level crossing, equipped with barriers or semibarrier, and the two red lights are flashing alternatively?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Continue driving if the barriers are not lowered",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop, because the barriers are down or will be lowered soon",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Continue to move without any restrictions, because the lights only signal the presence of a railway level crossing.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "26",
+            "images": [],
+            "question": "What obligations do you have when railway officers signal at level crossings?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No obligation because railway officers direct trains",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To comply with the meaning of their signals",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To reduce speed, to make sure there is no train moving and continue driving through the crossing.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "27",
+            "images": [],
+            "question": "How do you proceed when crossing a single track level crossing without barriers?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop, without exceeding the cross sign, traverse only after you have ensured that there is no danger",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed, make sure to the left and right, then traverse carefully",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop, or else, just reduce speed, make sure, then cross the rails and continue on.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "28",
+            "images": [],
+            "question": "Nearing a railway level crossing, you notice that the barriers are being lowered. What do you do?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Accelerate and drive without hesitation over the crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop in front of the barrier",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Carefully bypass from the left, to avoid being hit by the barrier.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "29",
+            "images": [],
+            "question": "If your vehicle remains immobilized on the railroad, you have the following obligations:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To immediately ask passengers to leave the vehicle. When this is not possible, signal the presence of the vehicle by any suitable means",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Call the police",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Start the vehicle by any means.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "30",
+            "images": [],
+            "question": "indicator warns about:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "A railway level crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "An industrial railway level crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "A tram depot.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "31",
+            "images": [],
+            "question": "At what distances are the three additional panels installed to warn motorists of a railway level crossing?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "300, 200 and, respectively, 100 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "90, 60 and, respectively, 30 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "150, 100 and, respectively, 50 m.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "32",
+            "images": [],
+            "question": "What obligations do you have in the present situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To drive at reduced speeds and cross the railroad, if the barrier or semi-barrier is high",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To stop at the sign",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To speed, not to be caught under the closing barriers.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "33",
+            "images": [],
+            "question": "In this situation, you are warned that:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You are approaching a railway level crossing equipped with barriers",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You are approaching an industrial railroad level crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You are approaching a steep shoreline.",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

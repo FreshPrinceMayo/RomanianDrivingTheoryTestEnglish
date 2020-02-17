@@ -1,0 +1,1413 @@
+{
+    "sectionName": "",
+    "questions": [
+        {
+            "questionsNumber": "1",
+            "images": [],
+            "question": "Nasal bleeding can be stopped if the victim:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Is lying down with the head pushed back",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Is standing and blocking the two nostrils for about 5-10 minutes",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Is raising the right hand.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "2",
+            "images": [],
+            "question": "Respiratory ways can be unblocked:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Only in medical units, using special instruments",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At the scene of the accident through specific interventions",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No matter where, if the victim supports this intervention.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "3",
+            "images": [],
+            "question": "What first aid measures are taken in case of spinal injuries, if the victim's respiratory ways are free?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Move the victim to the rear seat",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Try to turn the victim, if he is in an arched position",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Do not move the victim from the position where you found him until the arrival of emergency mobile services, except if there is a danger of fire or asphyxiation, providing the only vital functions.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "4",
+            "images": [],
+            "question": "Are you required to have a first aid kit, two warning triangles and a fire extinguisher, in the vehicle?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Only first aid medical kit",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Only first aid medical kit and two triangles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "All items listed must be available in the vehicle.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "5",
+            "images": [],
+            "question": "In case of an accident where the victim has lost consciousness, the first measure will be:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To administer medicines from the first aid kit",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To immobilize any fractures",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To control breathing and heartbeat.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "6",
+            "images": [],
+            "question": "What measures should a driver take on finding an overturned vehicle off the road, with injured people in it?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop, call the police, and, if necessary, carry the wounded to the nearest health facility",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Has no obligation",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Helps reposition the vehicle on its wheels.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "7",
+            "images": [],
+            "question": "You are required to have in the vehicle:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Only a first aid medical kit",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Only a first aid kit and warning triangles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "A first aid medical kit, two triangles and an approved fire extinguisher",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "8",
+            "images": [],
+            "question": "In case of a fracture of the clavicle (shoulder is in a hanging position, slightly forward and down), proceed as follows:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Place the arm in a scarf",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Bring the shoulder in a normal position",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Leave the arm free.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "9",
+            "images": [],
+            "question": "Disinfection of wounds that need to be bandaged is done with:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Hydrogen peroxide or iodine",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Saline serum",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Drinking water.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "10",
+            "images": [],
+            "question": "How do you act in case of an injured whose heart has stopped beating?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Leave, because no one can do anything",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Start artificial heart compression and artificial respiration",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Move the injured vigorously, to make him recover.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "11",
+            "images": [],
+            "question": "What should first intervention do, on the spot, to rescue a victim?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Wash the visible wounds",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Release respiratory ways and ensure respiratory function",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Clean and bandage the wounds.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "12",
+            "images": [],
+            "question": "Depending on the condition of the injured, first aid measures will be administered in the following order:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop the bleeding, bandage wounds, immobilize fractures, artificial respiration, cardiac massage",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Artificial respiration, CPR, stop the bleeding, bandage wounds, immobilize fractures",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Immobilize fractures, bandage wounds, artificial respiration, CPR, stop the bleeding.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "13",
+            "images": [],
+            "question": "You have injured a pedestrian who was crossing the street wrongly. What legal obligation do you have?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To immediately notify the police, do not modify or delete the traces of the accident and stay in place",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Report to the nearest emergency police unit",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Because the fault is not yours, you can continue driving if the accident is not serious.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "14",
+            "images": [],
+            "question": "What do you do immediately after an accident with a wild animal?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop, switch on the hazard warning (blinking) lights and secure the accident scene",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Notify animal protection societies",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Take the animal home and notify the insurance company about damages to your vehicle.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "15",
+            "images": [],
+            "question": "What should be used for immobilizing fractures of the upper limbs?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Makeshift splints",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "A simple scarf",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In this case you do not intervene.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "16",
+            "images": [],
+            "question": "In case of a massive bleeding injury, act as follows:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Place the person on the abdomen and give him plenty of fluids to drink",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Place the person in a sitting position, on a chair, and talk to him",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Place the person on his back with the legs elevated, immobilize possible fractures, do not give any fluids to drink and protect against cold.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "17",
+            "images": [],
+            "question": "How do you recognize an open fracture at the limbs?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The fractured area is swollen",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The skin is pierced in the fractured area",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The victim cannot move.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "18",
+            "images": [],
+            "question": "To immobilize a fracture the splint must be:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Rigid and long enough to cover the ends of the fracture",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Soft",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "It does not matter.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "19",
+            "images": [],
+            "question": "Respiratory arrest of injured persons can be caused by:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Multiple limb fractures",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Intense blood loss",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Respiratory way occlusion or blockage.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "20",
+            "images": [],
+            "question": "When bandaging a wound one has to apply:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "A sterile cotton compress",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "A sterile gauze compress",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Any kind of compress.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "21",
+            "images": [],
+            "question": "Immobilization of a fractured arm is made:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Right at the broken bone",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Including the fractured bone and the top joint",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Including the fractured bone and two joints, namely the upper and lower.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "22",
+            "images": [],
+            "question": "What information must a note attached to a tourniquet contain, when applied to an injured person?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The marital status of the person",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The position where the victim was found",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Hour and minute of tourniquet application.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "23",
+            "images": [],
+            "question": "How do you place an injured person, who shows spinal cord injury, in a transport vehicle?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In the sitting position",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Horizontal, face up",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The person must not be moved until the ambulance arrives.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "24",
+            "images": [],
+            "question": "A hemorrhage at one of the limbs of an injured person will be stopped by:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Disinfecting the wound, bandaging and applying splints",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Lifting the injured limb vertically",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Compressive action on the damaged vessel or tourniquet application.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "25",
+            "images": [],
+            "question": "When is it prohibited for motor vehicles to go on public roads?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When the registration plates are not compliant with standards",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When the windshield shows cracks",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When they have installed radar sensing devices.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "26",
+            "images": [],
+            "question": "A victim who has lost a lot of blood must be placed:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Face up",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Face down",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Feet higher than the body.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "27",
+            "images": [],
+            "question": "What should you do to avoid complications in case of a fracture?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Immobilize the fractured area",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Sterilize and bandage the fractured zone",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Apply a tourniquet above the fracture.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "28",
+            "images": [],
+            "question": "Which is the most vulnerable category of traffic participants, comprising most of the victims?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Drivers of vehicles without driving experience",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Drivers of vehicles with professional certification",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Pedestrians, especially children and the elderly.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "29",
+            "images": [],
+            "question": "What obligation does a driver have if he has injured a pedestrian who was crossing the road wrongly?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Transport the victim to the nearest health facility if transportation is not possible by other means, and return immediately to the scene of the accident",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Remain at the scene until the police and ambulance arrive, with the full names and addresses of witnesses",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Go to the nearest police station to report the accident.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "30",
+            "images": [],
+            "question": "The severity of bleeding is estimated by:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The amount of blood lost",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The color of blood lost",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The viscosity of blood flow.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "31",
+            "images": [],
+            "question": "Immobilization of fractures without splints is done with:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "A plastic foil",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Scarves and triangular cloth",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Rigid cardboard.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "32",
+            "images": [],
+            "question": "In case of an accident where victims cannot be released from a deformed vehicle:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Conscious victims are advised not to move and their release should be carried out quickly only by specialized teams",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Release victims as soon as possible by any means",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Administer painkillers to victims who are conscious.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "33",
+            "images": [],
+            "question": "A function of the bandage is:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To stop the bleeding",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To prevent soiling of clothes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To cover the unpleasant appearance of the wound.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "34",
+            "images": [],
+            "question": "The left arm of the police officer horizontally stretched out means stop for:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Vehicles coming from the front",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Vehicles coming from behind",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Vehicles coming from the front and back.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "35",
+            "images": [],
+            "question": "How does one act In case of a traffic accident where victims are immobilized inside a deformed vehicle whose doors are blocked?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Extract the victims quickly and firmly",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Turn to specialized service units with extrication equipment for emergency situations",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Ask others to help and quickly remove victims from the twisted structure.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "36",
+            "images": [],
+            "question": "How do you remove injured persons from a vehicle?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "By lifting",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "By pulling",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "By pushing.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "37",
+            "images": [],
+            "question": "For immobilizing fractures using splints, it should be considered that:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The splint is not rigid",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "There are no required criteria for immobilizing fractures with splints",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The splint should be sufficiently long.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "38",
+            "images": [],
+            "question": "In case of ankle sprains, proceed as follows:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Forbid to the victim to stand on that ankle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Raise the affected leg and apply a tight bandage",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Do not interfere and wait for the victim to be transported to a hospital.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "39",
+            "images": [],
+            "question": "How does one administer first aid in case of wounds from cuts?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Cover the wound and stop the bleeding, then transport the injured to a doctor or hospital",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop bleeding by stitching the wound",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Transport the injured to the doctor, without doing anything else.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "40",
+            "images": [],
+            "question": "How does one immobilize a fractured foot?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Suspend the leg in a rigid strap",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "With splints or a thick bandage from toes to knee",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "With a bandage from the ankle to the hip.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "41",
+            "images": [],
+            "question": "The immobilization of a victim’s fractured leg is done by:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Tightly bandaging the fracture",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "By using splints",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "By using compression bandages.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "42",
+            "images": [],
+            "question": "For bleeding wounds, in the initial phase you will:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Clean and bandage the wounds",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Bandage the wounds",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop the bleeding.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "43",
+            "images": [],
+            "question": "If there are several people injured it is important to establish priorities?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, first aid is given with priority to the most seriously injured persons",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, it doesn’t matter in which order first aid is given",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Administer first aid to victims nearest to the savior.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "44",
+            "images": [],
+            "question": "What obligations does a driver have on injuring a pedestrian who crossed the street in a forbidden place?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To present himself at the nearest police station",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Because he is not guilty of the accident, he can leave the scene",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To notify the police, and, in the absence of other means of transport, carry the victim to the nearest health facility, then return to the scene.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "45",
+            "images": [],
+            "question": "What type of bleeding is the most dangerous?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "One that causes slow and continuous bleeding",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "One that results in a rapid loss of blood",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Any small visible bleeding.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "46",
+            "images": [],
+            "question": "What does one do with a victim revived by cardio-respiratory resuscitation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Transport him to his home or place of work",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Always move him to a specialized medical unit",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Wait for the traffic police to arrive.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "47",
+            "images": [],
+            "question": "What should you consider before transporting a victim to the hospital?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Respiratory and circulatory function to be provided",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The health facility where you are going should not be at a distance exceeding 50 km",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The vehicle that will transport the victim should provide comfort.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "48",
+            "images": [],
+            "question": "What measures are taken in case of a serious injury to a person in a car accident?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Immediately transport to the nearest health facility, with any means of transport available",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Immediately transport to the nearest village and call an ambulance",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Administer first aid until the ambulance arrives.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "49",
+            "images": [],
+            "question": "When the mouth of the injured remains clenched, artificial respiration can be done:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Through the victim's shut mouth",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Through the victim's nostrils",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In this case artificial respiration is no longer required.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "50",
+            "images": [],
+            "question": "In order to provide first aid in case of fractures, do the following procedure:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Push the bone fragments that have pierced the skin",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Fix the fracture to prevent movement during immobilization of bone fragments. The splints need to be long enough to immobilize the joints above and below the fracture",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The fracture is immobilized using sterile bandage",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "51",
+            "images": [],
+            "question": "What should be done to a victim who has a pulse but the breathing has stopped?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Carry out a cardio-respiratory resuscitation",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Slap him in the face a few times, until he revives",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Begin artificial respiration.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "52",
+            "images": [],
+            "question": "If you know of a traffic accident resulting in death or injury to a person, you must:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Do nothing, legally you have no obligation",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop, notify the police immediately and call 112, the national emergency number",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Be informed about the circumstances that caused the accident.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "53",
+            "images": [],
+            "question": "Antiseptic substances are used for:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Disinfecting wounds",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Relieving pain",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stopping the bleeding.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "54",
+            "images": [],
+            "question": "When an accident victim's heart has stopped beating (cardiac arrest), CPR is performed:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "By pressing rhythmically with the heels of the palms, overlapping the chest (thorax) of the victim, at the level of his heart",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "By striking the victim's cheek with the palms",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "By rhythmically crossing the victim’s arms and simultaneously performing artificial respiration.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "55",
+            "images": [],
+            "question": "A victim with external bleeding should be placed:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Such that the bleeding wound is lower than the plane of the body",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Any which way, as it does not matter if the wound is located above or below the plane of the body",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Such that the bleeding is higher than the body.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "56",
+            "images": [],
+            "question": "Stopping the bleeding is done by tying the arm tightly:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Right at the wound",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Above the wound",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Below the wound.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "57",
+            "images": [],
+            "question": "For a victim with foreign bodies inside a wound, the correct procedure is:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Extraction of foreign bodies from wounds",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Washing foreign bodies with clean water",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Foreign bodies should not be removed from wounds, as it can cause complications.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "58",
+            "images": [],
+            "question": "In the case of injured persons, who have spine fractures, it is advisable to use:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Any means of transport, as long as they move in the direction of health units",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Any means of transport with a platform, vans or trucks, if the ambulance cannot come to the scene",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Cars, because they provide comfort and speed.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "59",
+            "images": [],
+            "question": "Respiratory ways can be blocked by:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Placing the victim on its back",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Placing the victim on its side",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The entry of foreign bodies in the respiratory tract.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "60",
+            "images": [],
+            "question": "Transporting victims to the hospital can be achieved by:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "An ambulance specially equipped for this purpose",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "An ambulance accompanied by a doctor",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The vehicle which caused the accident, if the state of the victim allows it.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "61",
+            "images": [],
+            "question": "Signs of a fracture are:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Pain in the affected area",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Pain and unnatural position",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Increased temperature and excessive sweating.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "62",
+            "images": [],
+            "question": "In case of a victim who is not breathing, the pulse is checked:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Under the mandible",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Near the ear",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "On the side of the epiglottis (Adam's apple), in the hollow between the trachea and neck muscles.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "63",
+            "images": [],
+            "question": "What should be done in case after cardio-respiratory resuscitation, the victim regains pulse?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop external chest compressions",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Continue external chest compressions",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Apply a bandage on the chest.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "64",
+            "images": [],
+            "question": "Cardio-respiratory resuscitation should be performed:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To any injured person",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To the injured who are unconscious, not breathing and have no pulse",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Only to the injured who have suffered minor fractures.",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

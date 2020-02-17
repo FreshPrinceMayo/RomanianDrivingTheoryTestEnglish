@@ -1,0 +1,1017 @@
+{
+    "sectionName": "",
+    "questions": [
+        {
+            "questionsNumber": "1",
+            "images": [],
+            "question": "In which of these cases, besides a fine for contravention, the driving license is also retained?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Failure to stop at signals of authorized workers on public roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Failure to respect a police signal when passing a police motorcade (official columns)",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Failure to stop at the signal of a railroad agent (railroad inspector).",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "2",
+            "images": [],
+            "question": "At the signal of an authorized worker on a public road, who rotates the arm, you have:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To increase the speed of the vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To bypass the obstacle on the road, circulating in a roundabout manner",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To bypass the obstacle indicated.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "3",
+            "images": [],
+            "question": "The signal of the policeman means:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Forward movement is not possible",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Traffic through the intersection will be at reduced speed.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "4",
+            "images": [],
+            "question": "In front of you there is a road accident being investigated by the police, due to which the traffic is jammed on one way. How do you proceed?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Continue your road carefully, respecting the indications of the traffic cop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Continue with increased speed not to block traffic",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Reduce speed and stop at the accident scene to see what happened.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "5",
+            "images": [],
+            "question": "What vehicles are allowed to be equipped with special blue warning lights?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The law does not specify",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Any vehicle that gets an approval from the traffic police",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Vehicles belonging to police, gendarmerie and border police.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "6",
+            "images": [],
+            "question": "What is the penalty for not complying with police signals and passing a police motorcade or joining such a column?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Criminal fine",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "By a fine and suspension of the right to drive",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "By a fine and penalty points.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "7",
+            "images": [],
+            "question": "What is the significance of the body position of a policeman who has the arms lowered, for traffic participants who move in front and behind?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No significance",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Permission to move",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "8",
+            "images": [],
+            "question": "When a policeman directing traffic extends his arms horizontally, it means:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop for all road users, irrespective of their direction, if their direction of travel intersects his outstretched arms",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop for all road users circulating behind him only",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop for all participants circulating in front of him only.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "9",
+            "images": [],
+            "question": "What do you do at the signal of policeman whose arm is raised vertically?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop, no matter from which direction you approach and wait for his next signal",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed and move in the direction of the arm",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Reduce speed and bypass him.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "10",
+            "images": [],
+            "question": "What obligations do you have when school traffic patrols at pedestrian crossings near schools signal to you?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To reduce speed and drive with care",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To switch to the next lane close to the road axis",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To stop.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "11",
+            "images": [],
+            "question": "If a policeman is facing an approaching vehicle, with his right arm outstretched horizontally, the driver of that vehicle must:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop, because the signal is addressed to him",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Continue moving, because the signal is not addressed to him",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Change direction of travel to the left.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "12",
+            "images": [],
+            "question": "If a policeman, at a crossing, is facing a driver and issuing a signal that differs from the traffic signal, which is signaling ‘stop’, the driver must:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Respect the signal of the police, even if it differs from that of the traffic signal",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Continue, because the policeman is issuing conflicting signs",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop and wait for the next signal to move further.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "13",
+            "images": [],
+            "question": "When the reflective police baton is shown from the right side of a police vehicle accompanying a vehicle motorcade, the drivers behind it are obliged to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed immediately and move closer to the margin of the road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop closer to the margin of the road and where possible remove the vehicle from the roadway",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Reduce speed and get off the road as soon as possible, by turning right.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "14",
+            "images": [],
+            "question": "Which vehicles can enter the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Trolleybus and motorcycle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Motorcycle and truck",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Trolleybus.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "15",
+            "images": [],
+            "question": "Which vehicles have the right to enter the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Truck and motorcycle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Car and truck",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Car and motorcycle.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "16",
+            "images": [],
+            "question": "What does the signal of the policeman indicate?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Speed up.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "17",
+            "images": [],
+            "question": "What obligations does a driver have when a traffic policeman is requesting documents?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To present the certificate of registration and identity card of the vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To submit personal documents",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To present the documents required by law.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "18",
+            "images": [],
+            "question": "The signals from a police vehicle, that accompanies a motorcade using sirens and warning lights, obliges drivers to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Leave the road on the first street to the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop immediately, beside the roadway or close to the margin, until the motorcade passes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Reduce speed and move closer to the border or margin.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "19",
+            "images": [],
+            "question": "What does this position of the traffic police mean?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You do not have any obligation",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Roadblock.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "20",
+            "images": [],
+            "question": "If a policeman at an intersection facing a motorcycle issues a signal different from that on the road sign, which means stop, the driver must:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Respect the signals of the policeman",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Continue as the policeman’s signals conflict with the road signs",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop and wait for another signal to travel further.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "21",
+            "images": [],
+            "question": "The driver of the truck may enter the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, only the tram and car can enter the intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, the sign “Give Way” obliges the truck to let other vehicles pass.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "22",
+            "images": [],
+            "question": "The signal of a policeman at an intersection, who has his arm raised straight, obliges you to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Drive with extreme caution",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop, no matter from which direction you drive.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "23",
+            "images": [],
+            "question": "The signal of the policeman in the police vehicle means:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Speed up",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Reduce speed.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "24",
+            "images": [],
+            "question": "What does the signal of the policeman indicate?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Speed up",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Reduce speed.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "25",
+            "images": [],
+            "question": "How will you proceed at this signal of the policeman when driving the car in the picture?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop because the signal is addressed to you",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Continue moving because the signal is not addressed to you",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Change the direction of travel to the left.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "26",
+            "images": [],
+            "question": "What do you do at an intersection when a policeman facing you signals to continue moving?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop until the police issues a signal",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The signal is not as per regulations, so you stop and wait for a signal that allows you to continue",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Comply with police signal.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "27",
+            "images": [],
+            "question": "At the policeman’s signal the following vehicles must stop:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Car and truck",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Truck and bike",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Bicycle and car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "28",
+            "images": [],
+            "question": "Who can pass through the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Tram 1 and car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Bicycle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Tram 1 and tram 2.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "29",
+            "images": [],
+            "question": "When a police vehicle accompanying a motorcade shows the reflective baton on the right side, you must:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed and move off the road as soon as possible",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed and move as close to the margin of the road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop the vehicle close to the margin of the road.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "30",
+            "images": [],
+            "question": "When a policeman signals with the left arm outstretched horizontally, when facing an approaching vehicle, the driver of the vehicle must:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop immediately",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Continue moving.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "31",
+            "images": [],
+            "question": "When a policeman rotates his arm quickly, it means:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Vehicles have to increase speed or pedestrians have to cross quickly",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To temporarily halt in traffic",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Reduce speed.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "32",
+            "images": [],
+            "question": "The car may enter the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Only in case of an emergency",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, only the bike may enter the intersection.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "33",
+            "images": [],
+            "question": "Who is allowed to enter the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Any vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Tram",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Motorcycle.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "34",
+            "images": [],
+            "question": "What do you do at an intersection when the policeman has the back to you with his left arm outstretched horizontally?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Turn left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Continue",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Reduce the vehicle’s speed and stop behind him.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "35",
+            "images": [],
+            "question": "What does the signal of a police officer mean, at an intersection, if his right arm is outstretched horizontally?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop, for vehicles and pedestrians coming from the front",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop, for vehicles and pedestrians coming from behind",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop, for vehicles and pedestrians coming from the front and the back.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "36",
+            "images": [],
+            "question": "What does this signal of the policeman mean?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Increase speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "37",
+            "images": [],
+            "question": "The policeman at the intersection signals the driver to speed up even though the traffic light is red. What should the driver do?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Comply with the signal of the police",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Wait for the green light",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Give way at first and then continue moving.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "38",
+            "images": [],
+            "question": "Which vehicles must stop at the signal of the policeman?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "All vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Trams and car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Bicycle.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "39",
+            "images": [],
+            "question": "Which vehicles is the police officer stopping form crossing the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Tram",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Truck",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Green car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "40",
+            "images": [],
+            "question": "When a policeman has his back to an approaching car, with his left arm outstretched horizontally, the driver must:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Continue to move as the stop signal is not addressed to him",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Change the direction of travel to the left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop, because the signal is addressed to him.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "41",
+            "images": [],
+            "question": "What do you do in case the red traffic light is on and the policeman signals for you to cross?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Wait for the green signal, which allows you to cross the intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Attract the policeman’s attention to the mismatch between his signal and that of the traffic light",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Comply with the signal of the policeman.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "42",
+            "images": [],
+            "question": "What do you do in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed and continue to move",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop and wait for the next signal of the policeman",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Drive in the direction of the policeman’s arm.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "43",
+            "images": [],
+            "question": "The signal of a policeman’s outstretched arm from the right side of a police car, means:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop, for drivers of vehicles behind the police car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed, for vehicles behind the police car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop, for drivers driving from the opposite direction.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "44",
+            "images": [],
+            "question": "Which of the following signals should be respected first?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Light signals",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Temporary signaling, which alters the regular movement of the traffic",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Signals and indications of traffic policemen.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "45",
+            "images": [],
+            "question": "You are required to stop the vehicle you are driving:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "At the signal of the policeman who directs traffic",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At the signal of the policeman, but only if it corresponds to the signal on the traffic light",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At the signal of pedestrians crossing the street, at the corner of unmarked intersection.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "46",
+            "images": [],
+            "question": "What should the driver do in the present situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Do not to overtake the police motorcycle.",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,753 @@
+{
+    "sectionName": "",
+    "questions": [
+        {
+            "questionsNumber": "1",
+            "images": [],
+            "question": "In which of the following situations can you use the lane near the axis of the road, on a highway?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When overtaking other vehicles and the other lanes are occupied",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When driving a car at maximum speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When you are not preceded by other vehicles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "2",
+            "images": [],
+            "question": "Is it allowed to tow a vehicle on the highway?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No, the law categorically prohibits this",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, if the combination can exceed the speed of 50 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, if the towed vehicle is a car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "3",
+            "images": [],
+            "question": "Can a car fitted with a trailer travel on the highway?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, if it can exceed the speed of 50 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, if you have obtained permission from the traffic police.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "4",
+            "images": [],
+            "question": "Are you properly placed to use the first exit on the highway?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, because you are driving on the right lane",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, because you will cross the continues line",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, because you are circulating on the emergency lane.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "5",
+            "images": [],
+            "question": "How do you enter the highway correctly using the entry lane (acceleration lane):",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You will speed up, as the lane is specially created for this purpose",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You will give way to vehicles that move on the first lane and do not hinder their circulation",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You have no obligation as the highway has many lanes for all the traffic.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "6",
+            "images": [],
+            "question": "On a motorway, using the speed limiter on vehicles equipped with such a system leads to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "An increase in fuel consumption",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "A reduction in fuel consumption",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No change in fuel consumption.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "7",
+            "images": [],
+            "question": "What do you do if you have a malfunction in the system when driving on a highway?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Leave the highway while the vehicle is functioning, stop on the emergency lane and signal",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Switch on the position (parking) lights",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Switch on the high beam.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "8",
+            "images": [],
+            "question": "What are your obligations when you leave the highway?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To reduce speed 300 m prior to exiting the highway, at the panel that marks this distance",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To drive on the first lane with a maximum speed of 60 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To signal in time and engage into the exit lane (deceleration).",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "9",
+            "images": [],
+            "question": "The maximum authorized speed on highways for vehicles in categories A and B is:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "90 km / h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "110 km / h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "130 km / h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "10",
+            "images": [],
+            "question": "What is the significance of this road marking?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Marking of a deceleration lane",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Temporary diversion of traffic",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Marking for prohibited areas.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "11",
+            "images": [],
+            "question": "Is it permitted to go in the connections between the two carriageways of a motorway?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, for emergency stops",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, for turning (u-turn) at intersections.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "12",
+            "images": [],
+            "question": "Is it allowed to do a U-turn on the highway?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, if the direction of travel is blocked.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "13",
+            "images": [],
+            "question": "If you want to leave the highway:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Speed up",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Drive at the same speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Reduce speed and drive on the deceleration lane created for this purpose;",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "14",
+            "images": [],
+            "question": "What maneuvers are prohibited on the highway?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To stop and replace a flat tire",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Learning to drive a vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Testing prototypes of chassis and motor vehicles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "15",
+            "images": [],
+            "question": "Which vehicles are prohibited from driving on highways?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Motorcycles and cars that cannot travel at speeds more than 60 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Those who, by construction or other reasons, cannot exceed 50 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Vehicles carrying hazardous cargo.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "16",
+            "images": [],
+            "question": "On highways it is prohibited to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To drive at a speed lesser than 80 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reverse",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Use the median lane near the separation between the two carriageways.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "17",
+            "images": [],
+            "question": "How do you proceed if you intend to leave the highway from this place?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Brake and exit at an indicative rate of 130 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Signal and engage on the exit lane",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Speed up, not to hinder vehicles travelling behind you.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "18",
+            "images": [],
+            "question": "Which categories of vehicles are not allowed to travel on highways?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Those by construction, which cannot exceed a speed of 50 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Motorcycles with or without sidecars",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Tractors and self-propelled agricultural machines.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "19",
+            "images": [],
+            "question": "On a highway, is it correct to overtake a vehicle using the lane on the right?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, but only if you horn and indicate using your lights.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "20",
+            "images": [],
+            "question": "You want to leave the highway. What do you do in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Turn sharply to the right to be sure that you leave the highway",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Signal your intention, ensure that you perform the maneuver safely and drive on the deceleration lane",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop the car with the hazard (blinking) lights on and wait for doing this maneuver quickly.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "21",
+            "images": [],
+            "question": "What obligations do you have when entering the motorway using the acceleration lane?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To give way to vehicles that run on the first lane of the highway, without disturbing their circulation in any way",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To signal left to let other drivers give you the right of way",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To stop and ensure from the front and back.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "22",
+            "images": [],
+            "question": "While driving on highways, it is forbidden:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To stay on the emergency lane, unless justified",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To stop to fix a fault",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To overtake other cars.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "23",
+            "images": [],
+            "question": "Which car continues to move through the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "White car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Red car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Blue car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "24",
+            "images": [],
+            "question": "What is a driver obliged to do if he intends to move his vehicle that is located between other stationed (parked) vehicles?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "He signals his intention to leave the place, so as to be seen by those who move in the same direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "He signals his intention to leave the place, ensuring he can perform the maneuver without disturbing traffic, without jeopardizing the safety of others, while granting the right of way to vehicles traveling on the road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "He maneuvers the vehicle carefully, not to hit vehicles in front or behind, and then starts to move.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "25",
+            "images": [],
+            "question": "Circulation on the lane reserved for public transport is allowed for:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Public transport vehicles and authorized governmental vehicles travelling on urgent missions",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Public transport vehicles only",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "All vehicles, if they do not disturb authorized governmental vehicles that have the right of way",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "26",
+            "images": [],
+            "question": "What is the correct route to be taken by the car in the picture?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Route 1",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Route 2",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Either of the two, if it complies with all provisions of the law.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "27",
+            "images": [],
+            "question": "When you are forced to keep a safe distance from the vehicle that runs in front of you?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Only when you have no experience in driving",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Only when the car you are driving has no effective braking system",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In any situation.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "28",
+            "images": [],
+            "question": "Drivers of vehicles on a public road with more than two lanes and a third lane for the tram located near the road axis:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Can use the tram lane without inconveniencing its circulation",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Cannot use the tram lane",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "legally, is not provided.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "29",
+            "images": [],
+            "question": "How should you adjust the lights for traffic, at night?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To see and be seen, without disturbing other road users",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To see as clearly as possible in front, irrespective of how it affects oncoming vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To ensure that the light on the right side works properly.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "30",
+            "images": [],
+            "question": "U-turning a vehicle is prohibited:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "At a distance lesser than 50 m from the bus, trolley or tram station",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "On slopes where visibility is less than 50 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "On streets where traffic runs both ways.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "31",
+            "images": [],
+            "question": "In which situation you are allowed to stop the vehicle or stay on the left side of road?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "On a one-way street, if at least one lane remains free",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "On secondary roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "On roads with at least two lanes in each direction.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "32",
+            "images": [],
+            "question": "Which of the cars is stationing (parking) correctly?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Red car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Blue blue",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Both cars.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "33",
+            "images": [],
+            "question": "The indicator states that:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "On the left lane, vehicles will travel at the maximum speed indicated",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "On the right lane, you can drive without any speed restriction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "On the left lane vehicles may travel if their speed is at least that which is mentioned.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "34",
+            "images": [],
+            "question": "What is the correct position while driving?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To be focused, to hold the wheel tight, to look only forward and stay close to the windshield",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To have a comfortable position, with the head leaning against the headrest and with both hands on the wheel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To have a position while driving that prevents the driver from sleeping at the wheel.",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

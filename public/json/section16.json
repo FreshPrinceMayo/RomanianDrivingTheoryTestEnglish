@@ -1,0 +1,995 @@
+{
+    "sectionName": "",
+    "questions": [
+        {
+            "questionsNumber": "1",
+            "images": [],
+            "question": "If the operating traffic light is on the other side of the intersection, the driver:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Is not bound to comply with the significance of the light signals as they are not addressed to him",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Is obliged to respect the significance of the light signals, only if it is accompanied by additional signs indicating directions for the signals",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Is required to comply with the light signals, if another traffic light is installed at the entrance of the intersection and has a similar signal.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "2",
+            "images": [],
+            "question": "What vehicles are allowed to enter an intersection on a red light?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No vehicle, except for firefighters, ambulances and the police acting on urgent or intervening missions",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Vehicles turning left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Police and other vehicles turning left.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "3",
+            "images": [],
+            "question": "If, at an intersection, near the traffic lights is also installed the indicator, STOP, you are bound:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "By the significance of the indicator",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "By the rule of right priority",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "By the meaning of the light.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "4",
+            "images": [],
+            "question": "How do you proceed if at an intersection the traffic light is green, but is blocked due to congestion?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You will continue moving as the green signal permits",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Horn and find a way to go forward among other vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop and wait for it to get decongested, and then proceed on the green light.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "5",
+            "images": [],
+            "question": "What obligations do you have at a yellow flashing traffic light?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop, because you cannot enter the intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed and move carefully avoiding pedestrians",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Reduce speed and circulate respecting the rules applicable in that intersection.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "6",
+            "images": [],
+            "question": "The flashing yellow traffic light:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Announces the appearance of red signal",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Obliges drivers to reduce speed and respect traffic rules applicable in that intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Prohibits from entering the intersection.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "7",
+            "images": [],
+            "question": "What obligations does a driver have on approaching an intersection where the green signal changes to yellow?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To speed up and cross the intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To slow down when crossing the intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To stop the vehicle before the stop marking, or at the marking for pedestrians, or at the light.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "8",
+            "images": [],
+            "question": "What obligations do you have on meeting vehicles belonging to Ambulance Services and the Romanian Intelligence Service, whose light and sound warning systems are on?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To stop immediately on the right side of the carriageway",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To circulate normally, but with caution, using the emergency flashing lights",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To reduce speed and take the vehicle off the lane or ride close to the kerb.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "9",
+            "images": [],
+            "question": "What are your obligations on encountering vehicles with special blue warning lights?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No obligation, because the blue signal is meant for official vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop as close as possible to the margin of the road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Grant priority to such vehicles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "10",
+            "images": [],
+            "question": "What obligation do you have, if at an intersection the indicator shows straight or left and the green light is on?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You can go forward or left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You only go forward",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You can go in any direction because the green signal allows you to.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "11",
+            "images": [],
+            "question": "What obligations do drivers have when there is a row of official vehicles moving with its red warning lights operating?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To stop immediately, close to the kerb or margin of the road, in the direction of travel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To reduce speed and move close to the margin of the road in the direction of travel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To take the vehicle off the road, by whatever means.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "12",
+            "images": [],
+            "question": "Traffic lights with flashing yellow oblige you:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To grant priority",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To drive at reduced speeds",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To stop in any situation.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "13",
+            "images": [],
+            "question": "At a traffic light, the green signal changes to yellow. The driver, who is very close to the traffic light, stops suddenly and is hit in the rear by the car behind him. Which of the two drivers is wrong?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The driver of the first car that stopped suddenly",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The driver of the car behind the car, as he has not kept a safe distance",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Both drivers.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "14",
+            "images": [],
+            "question": "The indicator warns you:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "That the next intersection is guided by light signals",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Of a public transport station",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "That the light signals in next intersection do not work.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "15",
+            "images": [],
+            "question": "What do you do on approaching an intersection, where the light signals or road signs grant to you the right of way to enter, but, there exists a risk of being immobilized due to traffic congestion?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You are prohibited from entering the intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Keep on moving because you have the right of way (priority)",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You have no obligation.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "16",
+            "images": [],
+            "question": "What is the significance of the red traffic light, both for drivers and pedestrians?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "It is forcing both, the drivers and pedestrians to stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "It is forcing drivers to stop and pedestrians to cross with caution",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Allows vehicles to turn right, while granting the right of way.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "17",
+            "images": [],
+            "question": "How will proceed when you encounter the flashing yellow signal?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "This signal does not allow you to pass",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You will drive at reduced speeds",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You shall comply with the road signs and traffic rules applicable in that place.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "18",
+            "images": [],
+            "question": "The green traffic light signal allows movement:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In any direction, if there aren’t other signals indicating other directions",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Only in the forward direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In any direction, if the vehicle is in the middle lane.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "19",
+            "images": [],
+            "question": "The flashing yellow signal warns that:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You must comply with the traffic rules applicable in that intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "It is prohibited to enter the intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Faulty traffic lights.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "20",
+            "images": [],
+            "question": "What do you do in this situation, if the light and sound signals are not in operation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop, without exceeding the railroad, ensure and keep moving if no train is approaching",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed and continue moving after ensuring that no train is approaching",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop only when a train is approaching.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "21",
+            "images": [],
+            "question": "What is the significance of the red traffic light?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Requires both vehicle drivers and pedestrians to stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Compels drivers to stop when moving forward, allowing a right turn in some cases. It is forbidden for pedestrians to cross.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Does not allow vehicles to enter an intersection, but allows pedestrians to cross the street.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "22",
+            "images": [],
+            "question": "The traffic light installed on the sidewalk has a red signal, the suspended traffic light on the direction of travel to the left, has the green signal. The driver who wants to go forward is allowed to enter the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, because the suspended traffic light is green",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, because the signal on the sidewalk is red.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, because it is allowed to move forward only when both the signals are green.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "23",
+            "images": [],
+            "question": "When changing the direction to the left, at the green light, the driver is required to grant priority:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Only to vehicles coming from the opposite direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To oncoming vehicles and pedestrians crossing the street he is entering",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "only to pedestrians who are engaged in crossing the street.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "24",
+            "images": [],
+            "question": "At an intersection, the presence of an ambulance with its blue lights on, compels other drivers:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To reduce speed and continue moving carefully",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To respect the indication of traffic lights",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To grant priority to the ambulance.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "25",
+            "images": [],
+            "question": "At an undirected intersection, is a driver required to grant priority to a firefighting vehicle that comes from the left, with its light and sound signaling in operation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No, because in this case the right of way (right priority) rule applies",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, as the fire-fighting vehicle is not part of the priority regime",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "26",
+            "images": [],
+            "question": "At the flashing yellow signal:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You should stop and wait for the green signal",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You should reduce speed and follow traffic rules",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You have no obligation.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "28 Which of the vehicles can continue moving?",
+            "images": [],
+            "question": "Which of the vehicles can continue moving?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "All three",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Bus and truck",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "29",
+            "images": [],
+            "question": "You are required to stop at the signals of:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Traffic inspectors from the Ministry of Defense",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Drivers of ambulances",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Inspectors of the city hall.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "30",
+            "images": [],
+            "question": "How many traffic lights are addressed to pedestrians and cyclists?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Two",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Three",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Four.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "31",
+            "images": [],
+            "question": "What do you do in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed and cross carefully",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop and wait for the green light",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Give way to pedestrians, and then continue moving.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "32",
+            "images": [],
+            "question": "When the traffic light is accompanied by a flashing green arrow on a black background pointing to the right, you have the following permissions:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "None, as the indicator is for information",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "None, because it is not addressed to you",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To travel only in that direction, regardless of the light signal.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "33",
+            "images": [],
+            "question": "When are you forced to stop the car?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "At the traffic signals of the Ministry of Defense",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At the signals of drivers turning right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At the signals of drivers coming from the opposite direction.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "34",
+            "images": [],
+            "question": "What is the color of the flashing (blinking) lights behind a car?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Red or white",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Red or yellow",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yellow or white.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "35",
+            "images": [],
+            "question": "When there is a traffic light above each lane, the driver must:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Respect the traffic light installed above the left lane",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Respect the traffic light installed on the sidewalk",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Respect the indication of light signal installed above the lane",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "36",
+            "images": [],
+            "question": "At an intersection you have the green traffic light and the stop indicator. What do you do?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Respect the traffic indicator",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Respect the indication of the traffic light",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Drive carefully and give way to vehicles on the transversal road.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "37",
+            "images": [],
+            "question": "The yellow blinking light installed at pedestrian crossings obliges you to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed, to protect pedestrians that are crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed and use headlights to deter pedestrians, who intend to cross",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Reduce speed and comply with the signaling and traffic rules applicable in that area.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "38",
+            "images": [],
+            "question": "The green traffic light allows:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To drive forward or left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To drive in any direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To drive forward or right.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "39",
+            "images": [],
+            "question": "What obligations do drivers have, when crossing a row of official vehicles that have their blue warning lights and sirens operating?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To reduce speed, move closer to the road margin in the direction of travel and grant priority",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To increase speed, not to inconvenience traffic",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To stop immediately, on the road, or close to the kerb, in direction of travel.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "40",
+            "images": [],
+            "question": "The car in front of you is crossing the intersection. What will you do?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Execute the same maneuver, if there are no other obligations",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop, because you must ensure",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Give way to vehicles coming from the right.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "41",
+            "images": [],
+            "question": "In which of the following situations are drivers not allowed to turn left at the green traffic light?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When they meet the “Straight or left” indicator",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When they are on a one way street",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When they meet the “Straight or right” indicator.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "42",
+            "images": [],
+            "question": "What obligations do you have if, at an intersection, you turn left on the green traffic light?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No obligation",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Grant priority to public transport vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Grant priority to both, oncoming vehicles and pedestrians crossing your direction of travel.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "43",
+            "images": [],
+            "question": "The yellow traffic light signal:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Allows entry into the intersection, if it just after the green light",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Allows changing direction to the right.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Prohibits from entering the intersection if the vehicle can be stopped safely.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "44",
+            "images": [],
+            "question": "Which of the vehicles can cross the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "None",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Truck and bus",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yellow car and red car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "45",
+            "images": [],
+            "question": "The red lights:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Require drivers traveling forward to stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Require drivers, regardless of the direction of travel, to stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Allow vehicles to pass if they change direction to the left.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "46",
+            "images": [],
+            "question": "How is it correct to proceed when traffic lights are flashing yellow?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed and cross the intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed and give way",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop and give way.",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

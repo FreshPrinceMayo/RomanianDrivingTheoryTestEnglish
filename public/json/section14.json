@@ -1,0 +1,2403 @@
+{
+    "sectionName": "",
+    "questions": [
+        {
+            "questionsNumber": "1",
+            "images": [],
+            "question": "You have the obligation to stop the vehicle immediately when signaled by:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Members of school traffic patrols at pedestrian crossings near schools;",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Authorized personnel from the Ministry of Transport",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Workers from the road administration.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "2",
+            "images": [],
+            "question": "Specify situations where voluntary parking (stationing) is forbidden?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In front of access roads leading to properties adjacent to public roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In crowded markets",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "On slopes and ramps.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "3 Is it allowed to stand (park) on the roadway during the night on an unlit country road?",
+            "images": [],
+            "question": "Is it allowed to stand (park) on the roadway during the night on an unlit country road?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, if the position (parking) lights are on",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, in all cases it is prohibited to park on the carriageway at night",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, if other than the position lights, the presence of the car is also indicated with reflective triangles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "4",
+            "images": [],
+            "question": "The driver is prohibited from:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Throwing objects, substances or other goods from the vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Opening the doors if the vehicle is stopped or stationed (parked) on the roadway",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Using the horn fitted to the car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "5",
+            "images": [],
+            "question": "Can a driver carry objects whose dimensions, together with load, exceed the dimensions of the car?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, if the extremities of the objects are marked with red flags",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, if the objects exceed do not the width of the vehicle.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "6",
+            "images": [],
+            "question": "On meeting the indicator, you will be required:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To move carefully as it follows a curve to the left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To change the direction of travel to the left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To reduce speed, as a dangerous intersection will follow.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "7",
+            "images": [],
+            "question": "On highways, at night, you will travel:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "With no lights",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "With the position lights on",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Using the low beam.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "8",
+            "images": [],
+            "question": "The horn is used:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Whenever necessary to avoid any immediate danger",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When you pass by cyclists",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In villages, in the vicinity of pedestrian crossings.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "9",
+            "images": [],
+            "question": "Is it allowed, to install or use systems that disrupt the functioning of traffic surveillance devices?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "This is not legally established.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "10",
+            "images": [],
+            "question": "Drivers of vehicles must obey traffic laws, general and specific, in the following order:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Signals, instructions and directives of traffic cops; special signs, light or sound warnings from priority traffic regime vehicles; temporary signs",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Signals, instructions and directives of traffic cop; temporary signs; special signs, light or sound warnings from priority traffic regime vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Special signs, light or sound warnings from priority traffic regime vehicles; signals, instructions and directives of traffic cop; temporary signs.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "11",
+            "images": [],
+            "question": "A traffic policeman has the right to confiscate:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Unauthorized seatbelts",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Gadgets that detect the speed of measuring devices",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Devices that disrupt the operation of traffic surveillance equipment.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "12",
+            "images": [],
+            "question": "What technical conditions must a vehicle meet in order to operate on public roads?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Not to exceed the maximum authorized total mass recorded in the certificate of incorporation",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Not to exceed the gauge (size, caliber) written in the certificate of incorporation",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To be registered and comply with technical regulations.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "13",
+            "images": [],
+            "question": "At the signal of blind people crossing the street you are required:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To reduce speed and drive carefully",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To stop the vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To reduce speed and horn.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "14",
+            "images": [],
+            "question": "Towing a car is done with:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "A technically approved (homologated) flexible connection of 3-5 m, if the steering mechanism and brakes are not defective",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "A rigid bar, up to 4 m long",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "A metal bar, accompanied by a safety chain.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "15",
+            "images": [],
+            "question": "At what distance must a driver use a horn to alert pedestrians and other drivers?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The law doesn’t provide a certain distance",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "From at most 30 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "From at least 25 m.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "16",
+            "images": [],
+            "question": "What will you do, when driving at night, in weather conditions that provide poor visibility?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop and wait for the atmospheric conditions to change",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Use the high beam and drive closer to the right edge of the road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Use the low beam and signal by changing low beam and high beam, when passing through undirected intersections.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "17",
+            "images": [],
+            "question": "In order to drive on public roads, vehicles must be equipped with:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "A fire extinguisher",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "A first aid medical kit",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Two reflective triangles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "18",
+            "images": [],
+            "question": "At the request of traffic police and other relevant authorities, the driver shall:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Present travel documents",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Transport them to the police",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Allow the inspection of the technical condition of the vehicle and the goods transported.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "19",
+            "images": [],
+            "question": "In which situation can a vehicle be immobilized?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When there is information or evidence that it is the object of a contravention",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When it has serious damage to the steering system",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When it is unable to move due to a damaged engine.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "20",
+            "images": [],
+            "question": "Is stationing (parking) prohibited in the area of a continuous longitudinal marking?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, if the drivers of other vehicles have to cross over that mark",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Legally it is not provided.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "21",
+            "images": [],
+            "question": "When it rains will you switch on the rear fog lights?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, if equipped",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "22",
+            "images": [],
+            "question": "What categories of persons are exempted from the obligation to wear seat belts?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Children under 3 years, but transported in approved restraints",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Drivers when performing the reverse maneuver or when stationary",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Young people who have not turned 14 years old.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "23",
+            "images": [],
+            "question": "Is it allowed to open the doors when stopping or stationing (parking) on a public road?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, only after the driver or passenger has ensured that it is not dangerous for the traffic",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, only on roads with low traffic",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, but only on the right side.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "24",
+            "images": [],
+            "question": "Alcohol, even in small amounts:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Can diminish a driver’s attention leading to risky situations during driving",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Can reduce the visual capacity",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Can reduce hearing.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "25",
+            "images": [],
+            "question": "The traffic police can Immobilize a vehicle when:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "They lack reflective triangles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "They lack a first aid medical kit",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The driver refuses to identify himself.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "26",
+            "images": [],
+            "question": "Which of the following types of road is the most dangerous in rain?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Paved surface roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Concrete roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Cubic (cobble) stone roads.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "27",
+            "images": [],
+            "question": "You intend to consult a roadmap at night. How is recommended to proceed?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop, with the low beam on",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop the vehicle outside the roadway",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You are not allowed to see the map at night.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "28",
+            "images": [],
+            "question": "What cars are allowed to stop on the second row, next to other stationed (parked vehicles) on the right side of the road?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "All those who have something urgent to solve",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Taxis, when boarding passengers, if traffic permits",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Any car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "29",
+            "images": [],
+            "question": "What should you consider when you allow children to get in or descend from the car you are driving?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Children are allowed to get in or descend only from the sidewalk",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Children are allowed to get in or descend from any side",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You should not do anything, because children always behave correctly in traffic.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "30",
+            "images": [],
+            "question": "What obligations does a driver have if he observes events threatening traffic safety?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To signal oncoming traffic, by alternating the high beam with the low beam",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To sound the horn whenever he meets oncoming vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To notify the nearest police station about obstacles or events that threaten traffic safety.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "31",
+            "images": [],
+            "question": "Who is not required to wear seat belts?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Passengers in taxis",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Persons who are suffering from ailments.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The examiner during the practical exam test.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "32",
+            "images": [],
+            "question": "The driver of a vehicle shall:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Not allow passengers to use the mobile phone while driving",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Have his identity card, driving license, registration certificate, and, where appropriate, professional certificate and other documents required by the law;",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Check tire pressure before every drive.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "33",
+            "images": [],
+            "question": "You drive through a locality, behind a vehicle whose registration number in from another city or from abroad. What can you expect?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The vehicle in front of you will travel correctly",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Before changing directions, the driver will signal in time",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The driver in front can brake or stop unexpectedly to ask for directions.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "34",
+            "images": [],
+            "question": "The owner of a vehicle is obliged to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Announce relocation details to state authorities within 24 hours",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Declare the value of the car insurance to the fiscal body",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Declare the loss, theft or destruction of registration certificate to the issuing authority, within 48h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "35",
+            "images": [],
+            "question": "During rain you will drive using the:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "High-beam",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Low-beam",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Parking (position) lights.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "36",
+            "images": [],
+            "question": "You are required to use the low beam during the day:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "On all types of roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "On county, municipal and local roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "On motorways, expressways and national European roads.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "37",
+            "images": [],
+            "question": "How will you signal that the vehicle has a failure and stalled on the carriageway?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "By using the parking (position) lights",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "By installing the reflective triangles and using the emergency (blinking) lights",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "By wearing a reflective vest.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "38",
+            "images": [],
+            "question": "How do you maintain the brightness of headlights in bad weather?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "By periodic adjustments to the headlights",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "By maintaining clean headlights at all times",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "By using only the high-beam.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "39",
+            "images": [],
+            "question": "What consequences may result from transporting luggage on the car?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You cannot make turns",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The instability of the vehicle increases during crosswinds",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The braking distance reduces.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "40",
+            "images": [],
+            "question": "What do you do to stay alert throughout the drive?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Drive tensed, with the face close to the windshield, to see everything that happens on the road in front of you",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Focus attention, but adopt a relaxed driving posture, with full control over all road maneuvers which impact the safety of your trip",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Find a more enjoyable pursuit, such as listening to the radio, discussions with passengers or using the cell phone.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "41",
+            "images": [],
+            "question": "What does a driver do at night, when blinded by the headlights of an oncoming vehicle?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Switches on or keeps the long beam in order to better observe the road in the direction of travel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Alternates the long beam and low beam, to warn the other driver of his incorrect driving",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Keeps driving with the short beam, reduces speed and stops if necessary.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "42",
+            "images": [],
+            "question": "Wearing a seatbelt is mandatory when driving on local roads?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, but only by the driver",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, by the driver and the passengers occupying seats equipped with seatbelts.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "43",
+            "images": [],
+            "question": "On a stretch of icy road, you realize the inevitable impact with a dog. How do you proceed to avoid an accident?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You consider that such a situation cannot be happening to you",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Release the throttle, hold the steering wheel firmly in the direction of travel, being prepared to stabilize the vehicle after the impact by smoothly handling the steering wheel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Try, if possible, to avoid frontal impact by handling the steering wheel in the opposite direction of the dog.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "44",
+            "images": [],
+            "question": "In which of the situations, at night, must drivers change from the high beam to the low beam?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When the road is unlit",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When they travel in towns, on roads with several lanes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "If an oncoming vehicle is approaching, at a distance of at least 200 m.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "45",
+            "images": [],
+            "question": "What do you do when you enter a poorly lit tunnel during the day?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Horn",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Switch on the low beam",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Start flashing the warning lights.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "46",
+            "images": [],
+            "question": "Which vehicles have the right of way (priority) when crossing an undirected intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Heavy trucks",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Vehicles belonging to the Civil Protection, marked as such",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Ambulances, with special light and sound signals.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "47",
+            "images": [],
+            "question": "What is forbidden in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To stop or station (park)",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To overtake other vehicles, except bicycles or carts",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To drive on the marking applied on the carriageway.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "48",
+            "images": [],
+            "question": "A damaged vehicle cannot move in traffic if:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "It has broken car body parts",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "More than 30 days have passed from the date of damage",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "More than 3 days have passed from the reporting date.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "49",
+            "images": [],
+            "question": "What do you do to use your cell phone when you do not have a hands-free system?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop on the lane meant for stationing (parking)",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop in the parking lot of a service complex",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Phones can be used without restrictions.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "50",
+            "images": [],
+            "question": "A car is equipped with safety belts for all seats. Who is required to use them?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "People in rear seat",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "All persons",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "People in the front seats.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "51",
+            "images": [],
+            "question": "What substances have an effect similar to that of alcohol and may reduce a driver’s ability to concentrate?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Very hot spices",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Medicines or substances with a psychoactive effect",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Caffeine.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "52",
+            "images": [],
+            "question": "When travelling on public roads it is prohibited:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To transport children, under the age of 12 years, on the back seat",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To smoke while driving",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "For occupants in the front seat to keep pets in their arms.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "53",
+            "images": [],
+            "question": "Hazard (blinking) warning lights are used in the following situation:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When you are confused about the route to follow",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When the vehicle is immobilized on the carriageway or while you are towed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When the lights are broken.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "54 The cautious driver is considering:",
+            "images": [],
+            "question": "The cautious driver is considering:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Being rested, and, for the vehicle to be in good technical condition",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To maintain normal pressure at the spare tire",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To find out from other drivers where RADAR units are located.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "55",
+            "images": [],
+            "question": "What types of vehicles are required to use the low beam during daytime?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Vehicles towing other vehicles or when transporting dangerous goods",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Vehicles that move at high speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Public transport vehicles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "56",
+            "images": [],
+            "question": "The driver's field of vision is reduced when:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The speed is increased",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The dimensions of the windscreen and the rear window are smaller",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Road signs are small.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "57",
+            "images": [],
+            "question": "What is the specific signaling for reverse driving?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Honking intermittently to warn road users behind the vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Signaling the reverse movement with the reversing lights of the vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Using of emergency lights.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "58",
+            "images": [],
+            "question": "What obligations do you have when driving a car at night and you approach another vehicle in front of you?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To reduce speed and drive carefully",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No to engage in overtaking it",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Use the low beam at a distance of at least 100 m.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "59",
+            "images": [],
+            "question": "Is the holder of a category B driving license allowed to drive a car with trailer?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, provided he has had a driving license for at least three years",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, if the trailer weight doesn’t exceed 750 kg",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, because for such a trailer you require a driving license for the category BE.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "60",
+            "images": [],
+            "question": "The incorrect use of the high beam, at night, when meeting an oncoming vehicle is sanctioned by:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The Suspension of the right to drive, if the offence was committed repeatedly",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The cancellation of driving license",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Fine and penalty points.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "61",
+            "images": [],
+            "question": "How is a B category vehicle defined correctly?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "A vehicle not exceeding 5000 kg, whose number of seats, excluding that of the driver’s is less than 8",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "A vehicle not exceeding 3500 kg, whose number of seats, excluding that of the driver’s is not more than 8",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "A vehicle not exceeding 3500 kg, whose number of seats, excluding that of the driver’s, is not more than 5.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "62",
+            "images": [],
+            "question": "Children aged up to 12 years can be transported:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In the front seat of the vehicle, if they are held in the arms by an adult",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In the front seat of the car, having the seatbelt fixed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In the back seat of the vehicle with the seatbelt fixed and adapted to their weight and size.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "63",
+            "images": [],
+            "question": "In which of the situations is it forbidden to drive on public roads?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When the registration certificate is damaged",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When the vehicle is not insured against third party property damage in traffic accidents, as specified by the law",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When the driver has not paid the tax to use public roads.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "64",
+            "images": [],
+            "question": "Driver fatigue and nervous tension can be reduced if:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You drive at a speed that is safe, by maintaining a constant driving pace",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You drive at the same speed, in both localities and outside them",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You use calming or energizing drugs which are not prohibited for drivers.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "65",
+            "images": [],
+            "question": "What obligations do you have, if you observe events endangering traffic safety?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To signal oncoming traffic",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To use the horn",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To notify the nearest police station about events that endanger traffic safety.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "66",
+            "images": [],
+            "question": "What do you keep in mind to avoid an accident, in this case?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The person is walking correctly on the crosswalk",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The person may turn around and run on the crosswalk without any reason",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The person is carefully following the traffic and acts as such.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "67",
+            "images": [],
+            "question": "In this case, besides the low beam you must use:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Fog lights",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "High-beam",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Signaling lights.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "68 What do you do when a school bus stops with the hazard (blinking) lights on?",
+            "images": [],
+            "question": "What do you do when a school bus stops with the hazard (blinking) lights on?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The flashing of warning lights requires you to stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Travel with heightened attention",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You have no obligation.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "69",
+            "images": [],
+            "question": "When is a driver obliged to stop?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When signaled by leaders of organized groups travelling on roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When signaled by traffic school patrols at pedestrian crossings near schools",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When approaching an intersection or when signaled by another road user.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "70",
+            "images": [],
+            "question": "When a heavy vehicle meets a lighter vehicle on a narrow road, to facilitate crossing, the reversemaneuver has to be performed by:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The lighter vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The heavy vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "They negotiate.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "71",
+            "images": [],
+            "question": "Wearing seatbelts is not compulsory in towns for:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Children up to 12 years of age",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Persons who possess a document to this effect, issued by a specialized medical institution",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Women with visible pregnancy.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "72",
+            "images": [],
+            "question": "How should you signal the intention to overtake another vehicle at night, on an unlit road, in a city?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "With the headlights",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "By using the high-beam and horn",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "With the direction indicating lights.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "73",
+            "images": [],
+            "question": "Are you allowed to horn a cyclist before overtaking?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, if the distance is more than 25 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Only in short bursts.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "74",
+            "images": [],
+            "question": "What types of vehicles are required to drive using the low beam during the day?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Motorcycles and mopeds",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Vehicles accompanying military vehicles or transporting groups of people",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Vehicles towing other vehicles or when transporting dangerous goods.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "75",
+            "images": [],
+            "question": "What is prohibited for drivers and tram drivers?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To use mobile phones while driving, without the hands-free system",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To use the hazard warning lights within localities",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To engage in discussions with other passengers.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "76",
+            "images": [],
+            "question": "When must you measure tire pressure?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Before leaving on a trip, when the tires are cold",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "After the completion of at least 400-500 km, when the tires are warm",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Only when we see that the vehicle is leaning to one side.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "77",
+            "images": [],
+            "question": "What should you do to avoid a traffic accident?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Do not drive the car unless some serious problem warrants it",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Always have a good partner, who knows the route",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Anticipate and counter reckless driving maneuvers by other drivers and always follow the rules.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "78",
+            "images": [],
+            "question": "At what distance, to a vehicle approaching from the opposite direction, is a driver required to use the low beam, at night?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "At least 100 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At least 150 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At least 200 m.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "79",
+            "images": [],
+            "question": "What should you consider when entering into a car?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To enter only from side of the sidewalk",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To open the door only when traffic permits",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Enter without any concern, because vehicles traveling from behind are forced to wait.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "80",
+            "images": [],
+            "question": "The validity of periodic technical inspection can be found:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In a document issued by the service",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In the annexure to a vehicle’s registration certificate",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In the technical manual of your vehicle or trailer.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "81",
+            "images": [],
+            "question": "Is parking a car on the sidewalk allowed, if you provide a space of at least 1 m on the footpath for pedestrians?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No, as the sidewalk is reserved exclusively for pedestrians",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, but only in areas where regulations permit",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, when the vehicle must be removed from the carriageway not to hinder moving vehicles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "82",
+            "images": [],
+            "question": "In which of the situations below is it not allowed to voluntarily stop a vehicle?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "At a distance of less than 50 m from railway level crossings",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "On mandatory pedestrian lanes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "On railway or tramway platforms, if it is impeding rail or tram traffic.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "83",
+            "images": [],
+            "question": "Where is stationing (parking) on the left side allowed?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "On one-way streets",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Under no situation",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "On roads with consolidated side panels.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "84",
+            "images": [],
+            "question": "The horizontally outstretched left arm of a cyclist, means:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The intention to change the direction of travel to the left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The intention to stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "That he must not be overtaken.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "85",
+            "images": [],
+            "question": "You can drive in a pedestrian area if:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You provide commercial services",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Your lighting system is working",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You live in that area.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "86",
+            "images": [],
+            "question": "What action is recommended when driving on a road covered with cubic stone?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To use only the hand brake to prevent slippage",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To reduce the speed in time, to avoid hasty driving maneuvers",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To ride as close as possible to the axis to avoid hitting the margin of the road.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "87",
+            "images": [],
+            "question": "Where do you declare the loss, theft or destruction of the driving license:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "At the issuing unit",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At the police station within the jurisdiction of your residence",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At the nearest police station.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "88",
+            "images": [],
+            "question": "At the request of an owner, when the record of a vehicle be deleted?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "At any change in data regarding vehicle identification",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At the change of residence or premises of the owner",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When the owner provides proof of dismantling, scrapping or giving away a vehicle to specialized units, for dismantling.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "89",
+            "images": [],
+            "question": "Can a car trailer be parked at night on the highway?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, if the road is illuminated",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, if it is marked with reflective triangles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "90",
+            "images": [],
+            "question": "How will you proceed if the intersection is blocked by congested traffic?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop and wait for the intersection to be decongested and then continue moving if the traffic lights are still green",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Continue moving as the green signal allows you to",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Horn and advance to join other vehicles in front.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "91",
+            "images": [],
+            "question": "How can you park (station) a vehicle on a road which is illuminated, at night?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "With all lights off",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Only with the position (parking) lights on",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Only with the hazard warning (blinking) lights on.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "92",
+            "images": [],
+            "question": "What obligations does a driver have, if he has obtained the driving license less than a year ago?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To drive with the approved beginners sign stuck on the windshield",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To horn when overtaking",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To drive with the high beam, during daytime.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "93",
+            "images": [],
+            "question": "Is it allowed to stop beside a tram station that has a pedestrian platform?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, if the tram is not in station",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, because in such stations overtaking is allowed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "94",
+            "images": [],
+            "question": "In a residential area, marked as such:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Children cannot play on the road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Pedestrians can use the full width of the carriageway",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The maximum speed is 30 km/h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "95",
+            "images": [],
+            "question": "It is forbidden to voluntarily stop:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "At pedestrian crossings or less than 25 m, before and after them",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At a distance of less than 100 m before and after the railway level crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At a distance of less than 50 m before and after public transport stations.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "96",
+            "images": [],
+            "question": "A category B driving license is valid for a vehicle with more than eight seats, other than that of the driver?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, if the driver has a driving experience of at least one year",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, if the driver has a category BE driving license.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "97",
+            "images": [],
+            "question": "Specify when driving instructors are exempt from wearing a seat belt:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "During the hours of training with students",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At all times, while driving in vehicles with the inscription ‘SCHOOL’",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Legally, is not provided.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "98",
+            "images": [],
+            "question": "The main factors that help a driver drive carefully are:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "A positive attitude in traffic, calmness, knowledge and politeness",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The skill and the ability to display the physical qualities acquired",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Traffic signs and traffic policemen.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "99",
+            "images": [],
+            "question": "In which of the situations is it forbidden to stop?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "At a distance of less than 25 m before and after public transport stations",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At a distance of less than 25 m from the corner of the intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At a distance of 5 m behind a tram stopped at a station that has no pedestrian platform.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "100",
+            "images": [],
+            "question": "How should a driver drive on a road which has more than three or more lanes?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To drive on the lane located close to the margin",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Not to drive on the tram lines",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To drive at a speed lesser than 100 km/h on the second and third lane.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "101",
+            "images": [],
+            "question": "A vehicle's hazard warning (blinking) lights are on. What should you consider?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The vehicle will turn right or left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The vehicle is parked",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The vehicle has a failure or is being towed.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "102",
+            "images": [],
+            "question": "What obligations does a driver have when travelling in a border area?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To stop the vehicle promptly when a border guard signals so",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To reduce speed below the legal limit",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To drive with the low beam, as it is a border area.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "103",
+            "images": [],
+            "question": "What should a driver do, if medication was prescribed to him?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To ensure that it will not affect the ability to drive",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Not to take the medication before driving",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To be aware of the lowest dose that can be taken while driving a vehicle.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "104",
+            "images": [],
+            "question": "A white cane, raised by a pedestrian crossing a street on a marked or unmarked place, will:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Impose no obligation on you, because the place is not marked or signaled",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Require you to stop the vehicle immediately to allow the pedestrian to cross",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Require you to reduce speed and drive carefully.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "105",
+            "images": [],
+            "question": "Stopping vehicles is prohibited:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "On the carriageway of national roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In the action area of the indicator ‘Stopping prohibited’ until the first intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In front of access roads, leading to properties adjacent to public roads.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "106",
+            "images": [],
+            "question": "You cannot drive a car if:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "It exceeds the maximum allowed weight, registered in the registration certificate",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The tires are of different sizes and characteristics, than those in the registration certificate",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The vehicle’s height exceeds the height recorded in the certificate of registration.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "107",
+            "images": [],
+            "question": "A bus in front signals to exit from a station that has a bus bay. What do you do?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You go around it, to avoid pedestrians",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You reduce speed and stop if necessary, to permit its departure from the bus station",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Keep driving, because you have no restrictions.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "108",
+            "images": [],
+            "question": "In what situations, during daytime, are drivers forced to use the low beam?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When they are towing other vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When they travel on county roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When driving at low speeds.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "109",
+            "images": [],
+            "question": "In which situation is it allowed to use the horn, when horning is prohibited?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "At pedestrian crossings",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In undirected intersections",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Whenever necessary to avoid any immediate danger.",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

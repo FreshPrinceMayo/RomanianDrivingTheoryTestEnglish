@@ -1,0 +1,599 @@
+{
+    "sectionName": "",
+    "questions": [
+        {
+            "questionsNumber": "1",
+            "images": [],
+            "question": "What does the mobile motor mechanism include?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The engine block, cylinder, cylinder head and crankcase",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Pistons, the rings, pin, connecting rod, crankshaft and flywheel",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Wheels and axle.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "2",
+            "images": [],
+            "question": "Blue smoke emitted from an exhaust indicates:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "An excessive consumption of oil",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Partial clogging of the silencer",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Use of colored gasoline.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "3",
+            "images": [],
+            "question": "What obligations do drivers have, when the headlights do not light up at night?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Use the position (parking) lights to get into a parking lot where the fault can be fixed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Make at least one headlight, on the left, be available along with one rear position light",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To move carefully to the first workshop.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "4",
+            "images": [],
+            "question": "What does the gearbox do?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Ensures transmission of power to the wheels",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Allow the free reverse rotation of the engine",
+                    "correct":  true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Allows standing with the engine running.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "5",
+            "images": [],
+            "question": "The free movement of a brake pedal, lower than normal, indicates:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Blocking of the brake pedal",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Insufficient space between clogs and drums",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Leaks in the seals.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "6",
+            "images": [],
+            "question": "What are the factors that make the diesel engine of a car emit excessive smoke?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Lack of fuel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Fuel tank cap fully closed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Damage to the injection system.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "7",
+            "images": [],
+            "question": "Which fact is an indication that the battery pack is discharging?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The lights and their intensity gradually decreases",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The horn emits a faint interrupted sound",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When the battery is removed, you can see that it is lighter than usual.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "8",
+            "images": [],
+            "question": "When the current generator display on the instrument cluster comes on, it may indicate:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "That the water pump impeller may be blocked",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "That the drive belt of the water pump, fan and alternator is broken",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Leakage of electrolyte from the battery.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "9",
+            "images": [],
+            "question": "The oil and filter is changed:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "According to the periodicity set by the manufacturer",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Between 3 to 5 years",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Every three years.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "10",
+            "images": [],
+            "question": "What do the symbols Euro I, Euro II, Euro III and Euro IV indicate?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The technical characteristics of vehicles in the European Union.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Pollution standards in the European Union",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Classification of vehicles based on different fuel consumption norms.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "11",
+            "images": [],
+            "question": "What is the role of motor oil?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Ensures the easy removal of engine parts",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduces engine wear by creating a resistant lubricant film between the surfaces of moving parts",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Protects the engine by preventing the fuel mixture from entering into the oil pan.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "12",
+            "images": [],
+            "question": "Why should you repair a faulty exhaust unconditionally?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Because it produces too much noise",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "It is not necessary as it is not an emergency",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "It destabilizes the vehicle.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "13",
+            "images": [],
+            "question": "If the effort to steer the vehicle is greater than usual, you should first check:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The state of the steering wheel shaft mounting",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The pressure in the rear tyres",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The pressure in the front tyres.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "14",
+            "images": [],
+            "question": "What causes environmental pollution by motor vehicles?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Driving at low speeds, without reason",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Incomplete and poor fuel combustion",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Failure of the gasoline or diesel filter.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "15",
+            "images": [],
+            "question": "The premature wear of front tyres is primarily due to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "A disorder in the steering geometry",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Frequently driving at reduced speeds",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "A condition specific to vehicles with a four-wheeled rear axle.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "16",
+            "images": [],
+            "question": "The soot on the surface of exhaust plugs (spark plugs) and blue smoke indicates that:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The motor mechanism (piston-cylinder group) is overused",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The vehicle has been driven frequently at speeds lower than the speed limits",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The spark is inadequate.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "17",
+            "images": [],
+            "question": "Is the owner of a vehicle allowed to mount a buzzer (horn) other than the one approved by the competent authority?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The regulation is silent in this regard",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, provided it is not disruptive in terms of sound",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "18",
+            "images": [],
+            "question": "Not releasing the parking (hand) brake completely leads to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Noise in the handbrake lever",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Additional fuel consumption",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Excessive heating of the rear hub.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "19",
+            "images": [],
+            "question": "Using the air conditioning system has the effect of:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Increasing the fuel consumption",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reducing fuel consumption",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Decreasing the degree of comfort.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "20",
+            "images": [],
+            "question": "Which factor influences the life of tyres most?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Tyre pressure",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Ambient temperature",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Technical condition of the brake.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "21",
+            "images": [],
+            "question": "Which driver habit often causes damage to the clutch?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Driving on slopes with the engine turned off or changing into neutral gear",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When there is a big play on the clutch pedal or steering mechanism",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Waiting at traffic lights with the clutch pedal pressed.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "22",
+            "images": [],
+            "question": "You can stop or station (park) with all the lights off, on a road with street lights, if the vehicle you are driving is visible from a distance of at least:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "50 m",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "100 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "150m.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "23",
+            "images": [],
+            "question": "Tyre wear greatly increases:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "As a consequence of an aggressive driving style that includes intense starting and braking",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When driving in a preventive-defensive way",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When driving in bad weather.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "24",
+            "images": [],
+            "question": "Which of the choices below represent qualities of engine oil?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Color",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Viscosity",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Freezing point.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "25",
+            "images": [],
+            "question": "What are the main advantages of radial tires?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Flanks are more flexible",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Comfort is superior because the tyres are capable of absorbing shocks better",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Greater cornering stability even at high speeds and less noisy.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "26",
+            "images": [],
+            "question": "When does a diesel engine emit bluish smoke?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When the rings are worn out",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When the pistons are worn out",
+                    "correct": true
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When excess oil enters the combustion chamber.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionsNumber": "27",
+            "images": [],
+            "question": "What is the operating cycle of a 4-stroke diesel engine?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Combustion and expansion, intake, compression, exhaust",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Exhaust, combustion and expansion, intake and compression",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Intake, compression, combustion and expansion, exhaust",
+                    "correct": true
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1677 @@
+{
+    "sectionName": "",
+    "questions": [
+        {
+            "questionsNumber": "1",
+            "images": [],
+            "question": "In which situations are you forced to give way?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "At an undirected intersection, when you enter a national road, coming from a county road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At the indicator “Priority Road”",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When meeting pedestrians who are on the opposite direction of travel.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "2",
+            "images": [],
+            "question": "What obligations do you have when meeting the indicator “Animals”?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To reduce speed at the signal of people accompany animals",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Drive carefully, and, if necessary, reduce speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You have no obligation, as the indicator is addressed to persons accompanying animals.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "3",
+            "images": [],
+            "question": "You can cross over a continuous line with the vehicle if:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The continuous line is accompanied by a discontinuous one, closer to your direction of travel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "They are applied on roads with more than one lane on each direction of travel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "It separates the traffic lanes in opposite directions.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "4",
+            "images": [],
+            "question": "The marking applied on the right edge of the roadway, consisting of a zigzag line:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Prohibits stationing (parking) in that area",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Prohibits stopping",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Indicates other hazards.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "5",
+            "images": [],
+            "question": "The ending zone where stopping was banned is announced by:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Both indicators",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Indicator 1",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Indicator 2, followed by the additional panel.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "6",
+            "images": [],
+            "question": "Which of the two indicators signals a mandatory change of direction to the right, after crossing the place where it is installed?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Indicator 2",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Indicator 1",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Both indicators.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "7",
+            "images": [],
+            "question": "Which of these signs announces the end of a priority road?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "None",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Both",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Indicator 1.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "8",
+            "images": [],
+            "question": "This indicator means:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Traffic in both directions",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Circulation restricted in both directions",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Priority of circulation from opposite direction .",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "9",
+            "images": [],
+            "question": "What vehicles are you allowed to overtake in the given situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Animal-drawn vehicles, bicycles and motorcycles without sidecar",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Cars, motorcycles without sidecar and animal-drawn vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Motor vehicles except motorcycles without sidecar.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "10",
+            "images": [],
+            "question": "Which of these indicators obliges you to change direction to the right?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Indicator 1",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Indicator 2",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Both indicators.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "11",
+            "images": [],
+            "question": "The indicator warns that:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The road intersects a tramline",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The road follows a tram station with pedestrian platform",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The road meets a railway crossing without barriers or semi-barriers, with automated signaling.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "12",
+            "images": [],
+            "question": "What is the significance of this indicator?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Ferry over water",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Bumpy road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Forbidden entry for vehicles carrying hazardous substances that can pollute waters.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "13",
+            "images": [],
+            "question": "The indicator informs you about:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "An exit from the highway",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "A toll station for highways",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "A special place where you can take a break and rest.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "14",
+            "images": [],
+            "question": "The significance of a road sign installed above a lane is applicable:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Only for traffic in tunnels",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Only for the lane on top of which it is installed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "For the full width of the carriageway.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "15",
+            "images": [],
+            "question": "What is the significance of the longitudinal marking applied as a continuous line on the axis of roads?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Helps drivers focus at night",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Does not allow crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Allows overtaking of vehicles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "16",
+            "images": [],
+            "question": "What should you do when you are behind a tram stopped at a station, which has not platform for pedestrians?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To stop in front of the last door",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To stop behind the tram and resume driving only after the tram doors have closed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To stop at a distance of 25 m from the tram.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "17",
+            "images": [],
+            "question": "In which of the situations is stopping prohibited?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In the action area of the indicator “Prohibition to overtake”",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "On one-way streets",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Beside another vehicle which is stopped, if it is disturbing the movement of two vehicles coming from the opposite directions.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "18",
+            "images": [],
+            "question": "Is it allowed to cross over the longitudinal marking of a continuous and a discontinuous line?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, if the marking is not in a curve",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, if the discontinuous line is the one nearest to the direction of travel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, if the discontinuous line is on the other side of the continuous line.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "19",
+            "images": [],
+            "question": "What is the significance of the indicator accompanied by the additional panel?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Marks the end of the area where it is forbidden to stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Marks the beginning of the area where it is forbidden to stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Marks the beginning of the area where stationing (parking) is forbidden.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "20",
+            "images": [],
+            "question": "Which of the following signs indicates a one-way road?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Indicator 1",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Indicator 2",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Both indicators.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "21",
+            "images": [],
+            "question": "What should you do when you meet this indicator?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Register that it signals entry into a curve",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed and drive carefully, because you are entering a particularly dangerous curve",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Sound the horn and enter the curve.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "22",
+            "images": [],
+            "question": "What should you do when you come across this indicator?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop, without exceeding the corner of the intersection, ensure and grant priority to all vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed, ensure, and if at that time other vehicles travel on the priority road, stop to give way",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Ensure to left and right and then continue on the road.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "23",
+            "images": [],
+            "question": "This indicator signals:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You have the right of way over vehicles traveling from the opposite direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "A one-way road begins",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You must give way to vehicles traveling from the opposite direction.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "24",
+            "images": [],
+            "question": "What is the significance of this indicator?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Priority for vehicles coming from the front",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Priority road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Access for all vehicles is banned",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "25",
+            "images": [],
+            "question": "What is the significance of these panels?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Additional panels at motorway junctions",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Additional panels for railway junctions",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Successive panels near European roads.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "26",
+            "images": [],
+            "question": "What will you respect at this crossroad?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The indication of the traffic light",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The right priority rule",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The road signals.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "27",
+            "images": [],
+            "question": "On meeting this indicator, you have to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Travel with caution, because at a distance of 50 m is an intersection with a priority road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You have no obligation, because you are travelling on a priority road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Grant right priority at the next indicator.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "28",
+            "images": [],
+            "question": "At which indicator do you have right of way?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "“Traffic in both directions”",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "“Priority over traffic from the opposite direction\"",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "“Priority for traffic from the opposite direction. \"",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "29",
+            "images": [],
+            "question": "What is the significance of the continuous longitudinal marking?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "It directs drivers in conditions of poor visibility",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "It prohibits its crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "It prohibits overtaking on the sector it is applied.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "30",
+            "images": [],
+            "question": "What is the role of resonator markings?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To double the conventional markings in hazardous areas",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To warn drivers that they exceed the marked roadway",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To warn motorists that they are about enter an area monitored by radar.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "31",
+            "images": [],
+            "question": "Which indicator will appear at the intersection located 100 m from the first indicator?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Indicator 3",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Indicator 2",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Any of the two indicators.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "32",
+            "images": [],
+            "question": "Which vehicle passes through the intersection first?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Truck",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "bus.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "33",
+            "images": [],
+            "question": "What is the significance of this indicator?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Roundabout",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Collection of recyclable materials",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Pre-signaling a roundabout intersection.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "34",
+            "images": [],
+            "question": "What is the significance of this road marking?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Marking lanes with reversible traffic",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Crowded public road marking",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Resonator marking.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "35",
+            "images": [],
+            "question": "Should you respect the significance of indicators installed on the left side of the road, facing drivers approaching?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No, because it addresses drivers from the opposite direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, but only those who travel on the lane nearest to the road axis",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, all drivers of vehicles who meet the indicator.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "36",
+            "images": [],
+            "question": "Where do you see this indicator?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In hilly and mountain areas",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At the beginning of road sectors covered by snow or ice",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "On all slippery roads.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "37",
+            "images": [],
+            "question": "On meeting this indicator you will be required:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To drive carefully on the narrow road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To give way only to trucks and buses that travel in the opposite direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To give way to vehicles traveling in the opposite direction.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "38",
+            "images": [],
+            "question": "In this situation you will not:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Park on the carriageway",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Overtake",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "U-turn;",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "39",
+            "images": [],
+            "question": "Which of these signs is addressed to vehicle drivers?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Indicator 1",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Indicator 2",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Both indicators.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "40",
+            "images": [],
+            "question": "The indicator and its additional panel mean that:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stopping and parking is prohibited",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stopping is allowed for not more than 30 minutes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stationing (parking) is allowed for not more than 30 minutes.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "41",
+            "images": [],
+            "question": "What is the significance of the road marking?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Dedicated lane for voluntary stopping",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Space for emergency stopping",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Transversal marking for stopping.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "42",
+            "images": [],
+            "question": "The indicator warns you about:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "A sequence of curves over a distance of 1.5 km, with the first to the left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "A sequence of curves on a hill, at a distance of 1.5 km from the indicator, with the first to the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "A double curve, first to the right, at a distance of 1.5 km from the indicator.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "43",
+            "images": [],
+            "question": "What is the significance of the indicator?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Obliges to circumvent from the right, the place where it is installed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Obliges to change direction to the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Obliges to use the lane near the sidewalk.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "44",
+            "images": [],
+            "question": "Are you allowed to drive on the lane opposite to the direction of travel, over such a road marking?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Legally, this is not mentioned",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "45",
+            "images": [],
+            "question": "At unmarked intersections, drivers who want to drive forward will occupy:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The left lane",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The right lane",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Any of the lanes.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "46",
+            "images": [],
+            "question": "Which right of way rule is applicable when meeting this indicator?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Left priority rule",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The one who has reached the intersection first",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Right priority rule.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "47",
+            "images": [],
+            "question": "The panel below the indicator allows:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Standing (parking) of public transport vehicles during the time interval mentioned",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Parking during the specified hours",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Standing (parking) outside the time frame mentioned.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "48",
+            "images": [],
+            "question": "At which of the indicators is turning (U-turn) allowed?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "One way",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Forward",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stationing (parking) prohibited.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "49",
+            "images": [],
+            "question": "Which indicator does not allow the change of direction to the right or left?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Indicator 1",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Indicator 2",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Both indicators.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "50",
+            "images": [],
+            "question": "Are you obliged to respect the significance of an indicator located on the left side of the road?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, but only if there are works on the road, in your driving direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, because their significance is for your direction of travel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, because they are meant for traffic from the opposite direction.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "51",
+            "images": [],
+            "question": "What information does this indicator provide?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Indicates a road open to international traffic",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Bans cars from entering a city and indicates the route to bypass it",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Indicates a route to bypass the locality.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "52",
+            "images": [],
+            "question": "What is the significance of the indicator?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Slippery road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Works on the road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Uneven road.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "53",
+            "images": [],
+            "question": "How will you cross an intersection if you meet indicator “Give way”?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed, only when a vehicle is approaching",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed, ensure, and if other vehicles are passing on the transversal road, stop to grant them the right of way",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Reduce speed and ensure, to give way to vehicles that drive from the right side.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "54",
+            "images": [],
+            "question": "In this roundabout you are properly placed for:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Turning right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Turning left or moving forward",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Going forward.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "55",
+            "images": [],
+            "question": "How do you proceed in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You grant priority for the truck to pass",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You reduce speed and signal with the lights",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You continue driving.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "56",
+            "images": [],
+            "question": "How will you proceed on meeting this indicator?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Drive carefully, as an intersection with a priority road follows in 300 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed, ensure and give way to all vehicles traveling on a distance of 300 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Drive carefully, in order to stop safely in a maximum of 300 m.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "57 In this situation, you have to:",
+            "images": [],
+            "question": "In this situation, you have to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Bypass the indicator from the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Bypass the indicator from the left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Go forward in the first intersection.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "58",
+            "images": [],
+            "question": "In what sequence will vehicles pass through the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Car, motorbike, bus",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Bike, bus, car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Motorcycle, car, bus.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "59",
+            "images": [],
+            "question": "What is the meaning of this indicator?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Area where the recommended speed is 30 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Area where circulation below 30 km/h is restricted",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Area where vehicles transporting goods are forbidden to travel with more than 30 km/h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "60",
+            "images": [],
+            "question": "Is it forbidden to park along the continuous longitudinal mark separating the directions of traffic?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, when other drivers are required to cross over that mark",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Legally, is not specified.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "61",
+            "images": [],
+            "question": "In this situation, you are forbidden:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To continue driving",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To bypass an obstacle from the left.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "62",
+            "images": [],
+            "question": "What is the significance of this indicator?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Antenna",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Radar",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Lateral winds.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "63",
+            "images": [],
+            "question": "What are the obligations of drivers when meeting this sign?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To give way to vehicles driving in the intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To bypass the center of the intersection and drive closer to the edge of the street",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To grant right priority.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "64",
+            "images": [],
+            "question": "The interdiction of this indicator addresses:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "All vehicles except motorcycles without sidecars",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Cars and motorcycles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "All vehicles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "65",
+            "images": [],
+            "question": "The indicator warns of:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "A road with bumps",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "A road segment with works",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "A speed breaker where the speed limit is 30 km/h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "66",
+            "images": [],
+            "question": "In what situations are you permitted to cross the continuous longitudinal marking on the axis of the road?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When it consists of a single line",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When the continuous line is accompanied by a discontinuous one, placed on the side of the driver",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When the road is straight and visibility in front is clear.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "67",
+            "images": [],
+            "question": "Which of the indicators grants the right of way?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Indicator 1",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Indicator 2",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "indicator 3.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "68",
+            "images": [],
+            "question": "What does the indicator mean?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Follows a road sector with works on the carriageway",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Follows a road sector with the danger of loose gravel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Pre-signaling a road section with alternating traffic.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "69",
+            "images": [],
+            "question": "The indicator does not grant access to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Cars, motorcycles without sidecar and animal-drawn vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Vehicles and animal-drawn vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Cars, motorcycles and vehicles pushed or pulled by hand.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "70",
+            "images": [],
+            "question": "This indicator warns of:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Other hazards",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "A road with no markings",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "A road with markings.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "71",
+            "images": [],
+            "question": "The indicator obliges you:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To drive straight or right at the first intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To turn left, because access is denied in other directions",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To follow the detour route, pre-signaled to the right.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "72",
+            "images": [],
+            "question": "The indicator prohibits:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Overtaking",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Turning left or right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Turning back.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "73",
+            "images": [],
+            "question": "What does the indicator mean?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Busy road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Mandatory distance between vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Mandatory distance to stop.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "74",
+            "images": [],
+            "question": "The continuous longitudinal marking on the axis of the road, can be crossed:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Only by the drivers of motorcycles and mopeds",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Only by oversized vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In no situation.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "75",
+            "images": [],
+            "question": "In this situation:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You will drive with caution until the first intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You will drive at a maximum of 30 km/h on the uneven road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You will drive at a speed of at least 30 km/h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "76",
+            "images": [],
+            "question": "In this case you will stop:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Behind the car in front of you",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Beside the traffic light",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "On the pedestrian crossing.",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

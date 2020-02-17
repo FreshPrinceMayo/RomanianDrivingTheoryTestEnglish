@@ -1,0 +1,841 @@
+{
+    "sectionName": "",
+    "questions": [
+        {
+            "questionsNumber": "1",
+            "images": [],
+            "question": "Voluntary stopping is prohibited:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In intersections",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "On priority roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "On non-illuminated road sectors.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "2",
+            "images": [],
+            "question": "What is this indicator with the additional panel?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "End of zone prohibiting stationing (parking)",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "End of zone prohibiting Stopping",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Beginning of zone where stopping is prohibited.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "3",
+            "images": [],
+            "question": "On what roads is stopping and stationing (parking) of vehicles allowed on the left side?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Low traffic roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "One-way roads, if at least one lane remains free",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "On any road.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "4",
+            "images": [],
+            "question": "Are you allowed to station (park) near narrow road indicators?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The law is silent in this aspect.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "5",
+            "images": [],
+            "question": "Is standing (parking) permitted on access routes leading to properties adjacent to public roads?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Legally, it is not mentioned",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, but only for vehicles with a maximum authorized mass of up to 1.5 t",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, standing in such places is prohibited.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "6",
+            "images": [],
+            "question": "It is prohibited to voluntary stop:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Less than 100 m from an industrial railway junction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "On the sidewalk",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In the action area of the indicator “Priority for opposite traffic \".",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "7",
+            "images": [],
+            "question": "Is the car stationing (parking) properly?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, because there are no restrictions in the area",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, because it is on a national road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, because it is forcing the truck to triple overtake.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "8",
+            "images": [],
+            "question": "Is it allowed to stop in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, because you are in front of a traffic light and the indicator bans this.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, if there is a tram in the station.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "9",
+            "images": [],
+            "question": "The voluntary immobilization of a vehicle is considered a ‘stop’ if:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "It lasts for more than five minutes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The vehicle was stopped when people are boarding or getting of, without disturbing traffic",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Vehicles up to 3.5 tons supply goods.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "10",
+            "images": [],
+            "question": "You are driving behind a bus and you approach an intersection marked with a stop sign. How do you cross the intersection safely?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You continue moving, crossing the intersection once the bus driver has made sure that there are no other vehicles in the intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You stop at the intersection, and then continue on your way, because, if the bus ahead has passed there are no dangers",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You stop in the place where you have maximum visibility and make sure, even if the same was done by the bus ahead of you.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "11",
+            "images": [],
+            "question": "Which of the three vehicles is parked as per regulations?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "None",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The vehicle 3",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The vehicles 1 and 2.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "12",
+            "images": [],
+            "question": "Is it forbidden to park a car on a public road whose width is less than 6 m?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Legally, is not mentioned.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "13",
+            "images": [],
+            "question": "How will you proceed at a stop sign near a double railway crossing without barriers?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop 1 m from the railway crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed and cross the railway line carefully",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop where there is maximum visibility of the railway crossing, without exceeding signs or markings to stop.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "14",
+            "images": [],
+            "question": "How do you proceed in the intersection, if you see the stop sign?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "If the bus has stopped at the sign, you can continue right after it",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Overtake the bus, which has stopped and proceeded at the sign",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "After the bus leaves, stop at the point where visibility is maximum, ensure there is no danger and then continue on.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "15",
+            "images": [],
+            "question": "What does the additional panel indicate?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Beginning zone of indicator ‘Prohibited stationing (parking)’",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Beginning zone of indicator ‘Prohibited stopping’",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Standing (parking) is prohibited up to this indicator.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "16",
+            "images": [],
+            "question": "The traffic signs “Stop” and “Yield” installed in intersections with traffic lights must be complied with:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When traffic is low",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When the traffic lights do not work",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When the signs are installed on the same support along with the traffic lights.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "17",
+            "images": [],
+            "question": "Has the car stopped as per regulations?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, because the road is not heavily circulated",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, as there is enough space to overtake",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, because on this category of road stopping and parking is prohibited.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "18",
+            "images": [],
+            "question": "When traveling on a European national road you will not:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Use the horn",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Tow another vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Voluntarily park on the carriageway.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "19",
+            "images": [],
+            "question": "Is it allowed to voluntarily stop a vehicle on the sidewalk?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, if you provide a space of at least 1 m for pedestrians and if the road signs allow this",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Legally, is not provided for",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "20",
+            "images": [],
+            "question": "Which vehicles are parked (stationed) as per regulations?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Car and truck",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "All three vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Bus.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "21",
+            "images": [],
+            "question": "Are you allowed to voluntarily stop vehicles in tunnels?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Only if the tunnel length exceeds 1000 m.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "22",
+            "images": [],
+            "question": "It is prohibited to voluntarily station (park):",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "On roads with less than two lanes per direction of travel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "If the indicator says “Traffic in both directions \"",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "On access roads leading to properties adjacent to public roads.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "23",
+            "images": [],
+            "question": "Have you stopped correctly in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, because the bus is not in the station",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, because this space is reserved only for the bus to stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, if you indicate this by flashing the yellow lights.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "24",
+            "images": [],
+            "question": "Where do you stop in the present situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In a place with maximum visibility, without exceeding the indicator",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At least 5 m behind the indicator",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At least 10 m behind the indicator.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "25",
+            "images": [],
+            "question": "Stationing (parking) is prohibited:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In the action of the indicator “Traffic in both directions”",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "On road sectors where overtaking is forbidden by indicators",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "On the carriageway of national roads.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "26",
+            "images": [],
+            "question": "What are the obligations of a driver whose car is stationed (parked) on the public road, if he is moving away from the car?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To engage the handbrake, switch of the engine and shift into a lower gear",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To signal the presence of the car at night using the lights",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Not to stop too close to the next car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "27",
+            "images": [],
+            "question": "Is the car parked properly immediately after the indicator?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, because it is fully parked on the sidewalk",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, because it did not fully comply with the meaning of the indicator",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, because it respects, both, the significance of the indicator and the additional signal.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "28",
+            "images": [],
+            "question": "If traveling on a European national road (E), it is forbidden:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To use the low beam during daytime",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To stop on the carriageway",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To overtake.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "29",
+            "images": [],
+            "question": "Can you leave the trailer of your car on the road at night?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No, because it is prohibited to leave a trailer on the road at night",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, because the trailer is not part of the vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, if the position (parking) lights are on.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "30",
+            "images": [],
+            "question": "Which of the three cars is parked properly?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Blue car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Red car and the blue car, because they are not beyond the indicator",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Green car and red car as they respect the significance of the indicator.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "31",
+            "images": [],
+            "question": "What is the difference between stopping and stationing?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "None",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The difference lies in the duration of immobilization of a vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The difference lies in the manner in which a vehicle is placed on a road.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "32",
+            "images": [],
+            "question": "How will you proceed on encountering the stop sign?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop in the place where you have the best visibility to ensure and continue if no another vehicle crosses the road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed to avoid any danger and then cross the intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Reduce speed and enter the intersection only if there is no other vehicle coming from the right.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "33",
+            "images": [],
+            "question": "Voluntary stopping of a vehicle is prohibited:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "On one-way roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "On roads with a width of less than 6 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In places where you would block another driver’s view of an indicator or light signal.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "34",
+            "images": [],
+            "question": "In which of the situations is stopping prohibited:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "On one-way streets",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In roundabouts",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In the action area of the indicator “Parking prohibited. \"",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "35",
+            "images": [],
+            "question": "It is allowed to park a vehicle on public roads:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In special places marked by signs and road markings",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Where there is no parking space",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Where traffic runs both ways without difficulty.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "36",
+            "images": [],
+            "question": "“Stop” and “Yield” signs installed in intersections with traffic lights must be respected:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When traffic is low",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When the lights do not work",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When signs are installed along with the lights on the same support.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "37",
+            "images": [],
+            "question": "Is parking allowed on a public road with a continuous longitudinal marking between the directions of movement?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No, if other vehicles are forced to pass over the continuous marking",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The is no legal provision",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, because it is not prohibited by law.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "38",
+            "images": [],
+            "question": "In which of the cases is voluntary stationary (parking) forbidden?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "On access roads leading to properties adjacent to public roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In a residential area properly marked",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "On county roads.",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

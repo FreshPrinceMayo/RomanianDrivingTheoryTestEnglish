@@ -1,0 +1,1215 @@
+{
+    "questions": [
+        {
+            "sectionName": "",
+            "questionsNumber": "1",
+            "images": [],
+            "question": "What does a driver do, if he is involved in an accident that resulted in damage?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "He waits for the police to arrive",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "He removes the vehicle from the roadway and notifies the police within 24 hours",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "He calls the police, without changing the position of the vehicle.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "2",
+            "images": [],
+            "question": "What measures will be taken against a driver who is driving a vehicle on public roads with serious damage to the steering?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Contravention fine, withholding the registration certificate and driving license in order to suspend the right to drive",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Contravention fine",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Contravention fine and retention of the registration certificate.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "3",
+            "images": [],
+            "question": "The certificate of registration is retained:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "If the braking system is damaged",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "If the tires are not inflated to the minimum pressure allowed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "If the centralized locking system is faulty.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "4",
+            "images": [],
+            "question": "Is it permitted to change the position of a vehicle, if it was involved in an accident that resulted in death or injury to people?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, with the consent of the policemen investigating the accident",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, if the injured person can move by himself",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, until the arrival of an ambulance.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "5",
+            "images": [],
+            "question": "Entrusting a vehicle knowingly, to be driven on public highway, to a person who does not possess a driving license is punishable:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Penally",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "By a fine",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "By a fine and cancellation of the driving license.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "6",
+            "images": [],
+            "question": "What is the penalty for entering an intersection directed by traffic lights and blocking traffic in the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "By a fine and penalty points",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Suspending the right to drive for a period of 30 days",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "By a fine.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "7",
+            "images": [],
+            "question": "Which of the following acts constitute a crime?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Failure to respond to police signals of a passing police motorcade",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Driving under the influence of drugs or substances with similar effects",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Exceeding the legal speed limit by 50 km/h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "8",
+            "images": [],
+            "question": "Which of the following entails a suspension of the right to drive for a period of 90 days?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Driving under the influence of alcohol",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Driving under the influence of drugs",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Driving an unregistered vehicle.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "9",
+            "images": [],
+            "question": "Which of the following acts is considered a crime and is punishable as such?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Not carrying out the periodic technical inspection the vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Leaving the scene of an accident that resulted in damage",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Repairing a vehicle involved in an accident, without police authorization.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "10",
+            "images": [],
+            "question": "A driver gets the license back after the expiry of the period of suspension and passing the test of traffic rules, if he was retained for:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Failure to grant priority to vehicles, if it resulted in an accident resulting in property damage",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Failing to use a seat belt while driving",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Excessively using the windscreen wipers.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "11",
+            "images": [],
+            "question": "Which of the following acts committed within a period of one year after the return of the license, attracts an increase in the period of suspension of the right to drive?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Infringement of legal provisions on changing the direction of travel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Infringement of legal provisions on the use of lights at night",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Accumulating at least 15 penalty points, again.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "12",
+            "images": [],
+            "question": "For which of the following actions do sanctions apply?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Driving under the influence of alcohol, having below 0.8 g/l of pure alcohol in the blood",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Putting into circulation or driving an unregistered vehicle on public roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Driving a vehicle on public roads by a person who does not have a license.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "13",
+            "images": [],
+            "question": "Intentionally destroying, damaging or bringing into an unusable state; indicators, traffic lights and road features is punishable:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "By a fine and penalty points",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Penally",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "By a suspension of the right to drive.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "14",
+            "images": [],
+            "question": "Which of the following acts is a criminal offense and punishable as such?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Driving an unregistered motor vehicle on a public highway",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Driving a vehicle on a public road without a certificate of registration",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Driving a vehicle on a public road with a fake registration number.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "15",
+            "images": [],
+            "question": "For which of the following acts do penalty points apply?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "For driving a car by a person other than the owner",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "For driving without one registration number plate",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When engine emissions (NOXE) reach the legally allowed limit.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "16",
+            "images": [],
+            "question": "The right to drive is suspended for a period of 60 days when:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Driving in the opposite direction, unless the overtaking is performed legally",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Exceeding speed limits by more than 30 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Accumulating 10 penalty points.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "17",
+            "images": [],
+            "question": "The right to drive is suspended for a period of 30 days for:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Failing to comply with rules regarding towing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Excessively using the horn",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Overtaking a row of vehicles stopped at a red light.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "18",
+            "images": [],
+            "question": "In what circumstances is the driving license retained?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When you do not respect the obligation to reduce speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When you do not grant the right of way to pedestrians",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When you violate laws regarding stationing (parking).",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "19",
+            "images": [],
+            "question": "What are the sanctions?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Criminal",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Fine, and, if necessary, warning",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Fine, penalty points, and suspension of the right to drive.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "20",
+            "images": [],
+            "question": "A driver involved in a traffic accident that resulted only in damage to property is required to submit biological samples, if his breath tested with an authorized device shows a concentration of:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Less than 0.40 mg / l of pure alcohol",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Greater than 0.80 mg / l of pure alcohol",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "More than 0.40 mg / l of pure alcohol.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "21",
+            "images": [],
+            "question": "When involved in an accident, can you leave the place without the consent of the police, if there is an injured person?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, if the accident was not your fault",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, if your car was not damaged",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "22",
+            "images": [],
+            "question": "The traffic police may order to immobilize a vehicle if:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The vehicle has no technical inspection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The tyres have different dimensions than those registered in the vehicle identity card",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The driver refuses to identify himself.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "23",
+            "images": [],
+            "question": "Penalty points apply when:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Failing to respect the “Kids” indicator",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Failing to respect the “uneven road” indicator",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Failing to respect the “Stop” indicator installed at a railway level crossing.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "24",
+            "images": [],
+            "question": "While driving on public roads you refuse the collection of biological samples to establish alcohol levels. Will you be punished criminally?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Only if you are involved in a traffic accident",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "25",
+            "images": [],
+            "question": "In which of the situations is the right to drive suspended?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In case of repeatedly exceeding the maximum speed by more than 20 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Not stopping at the signal of railway officers",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In case of not reporting at the police station, an accident with vehicle damage, within 24 hours.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "26",
+            "images": [],
+            "question": "The driver involved in an accident that resulted in death or injury to a person may leave the scene without police consent?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, if his vehicle has blocked the traffic",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, if the accident was not his fault",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, because the offense is a crime.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "27",
+            "images": [],
+            "question": "What are the symptoms of a cardiac arrest in a person involved in a traffic accident?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Deep lesions in the chest",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Lack of pulse",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Bleeding from the mouth.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "28",
+            "images": [],
+            "question": "What is the procedure when a driver has been declared unfit to drive, by an authorized medical institution:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The driving license is withdrawn",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Complementary sanctions are applied",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "He will be re-examined by a competent authority.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "29",
+            "images": [],
+            "question": "Refusal to submit biological samples, in order to determine the alcohol level is:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "An offense (INFRACTIUNE), and cancellation of the license",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "An offense (CONTRAVENTIE), punishable by imprisonment",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "An offense, where the driving license is retained.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "30",
+            "images": [],
+            "question": "A suspension of the right to drive for 90 days applies to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Driving under the influence of alcohol",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Not giving priority to vehicles which have this right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Not respecting the signals of traffic police.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "31",
+            "images": [],
+            "question": "In what circumstances is a driver fined and handed a suspension of the right to drive?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When exceeding the speed limit by 20 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When exceeding the speed limit by 30 km/h",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When exceeding the speed limit by 50 km/h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "32",
+            "images": [],
+            "question": "Penalty points are applied for:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Failing to stop at the stop indicator installed at railway level crossings",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Exceeding the speed limit by 31-40 km/h for that category the vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Exceeding the speed limit by 10 to 20 km/h for that category of vehicle.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "33",
+            "images": [],
+            "question": "In which of the following situations is a driver's license canceled?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Driving a motor vehicle under the influence of alcohol",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "For offenses resulting in death or serious injury to persons, committed by breaking traffic rules",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "For failure to comply with police signals when passing a police motorcade.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "34",
+            "images": [],
+            "question": "The certificate of registration is retained when:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The vehicle has not performed the technical inspection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stickers are applied on the windshield",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "There is damage to the air-conditioning system.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "35",
+            "images": [],
+            "question": "It is not allowed for a vehicle to circulate when:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "It is polluting above the threshold allowed by law, while moving or when stationary",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "It does not have a spare wheel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The registration number plates are damaged.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "36",
+            "images": [],
+            "question": "In what situation it is prohibited for cars to go on roads?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When they do not have fog lights",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When the engine pollutes over the legal limit",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When they are not equipped with a hook to tow.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "37",
+            "images": [],
+            "question": "What is the blood alcohol level for criminal penalty?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "0.5 g/l",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "0.8 g/l",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "1 g/l.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "38",
+            "images": [],
+            "question": "People injured, with multiple burns on the body and limbs, must be:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Quickly removed from their clothes after extinguishing the flames",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Transported immediately to a medical facility",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Cleaned, bandaged and transported to the nearest health facility.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "39",
+            "images": [],
+            "question": "The driving of a vehicle, by a person with a blood alcohol level over 0.8 g/l results in:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Contravention offense and retention of driving license",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Criminal offense and cancellation of driving license",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Criminal offense and suspension the right to drive for a period of 90 days.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "40",
+            "images": [],
+            "question": "What are the sanctions for overtaking a row of waiting cars, thereby entering oncoming traffic?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Retention of the registration certificate",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Contravention fine and suspension of the right to drive",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Contravention fine.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "41",
+            "images": [],
+            "question": "When is the driving license returned, after being withheld by police for a suspension of the right to drive?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "It is the free decision of the traffic police",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At the expiration of the suspension period, after passing the knowledge verification test",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When the report of offence is annulled by a final judgment of the courts.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "42",
+            "images": [],
+            "question": "What should you consider when removing injured persons from a vehicle?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "That the operation should be carried out quickly, without causing other injury",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Not to aggravate injuries",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Not to remove clues that might help explain how the accident occurred.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "43",
+            "images": [],
+            "question": "In which of these situations is a driver's license canceled?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "After a conviction by final judgment for an offence regarding driving",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "For a violation of the legal provisions on the use of headlights at night, outside city limits",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "For a violation of the legal provisions on the obligation to signal the change of direction of travel.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "44",
+            "images": [],
+            "question": "The following actions are punishable criminally:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Installation or modification of road signs, changing their position without legal authorization",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Organizing or participating, as drivers of cars or animal drawn vehicles, in unauthorized road races",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Blocking a public road intentionally and putting the safety of traffic in great danger. .",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "45",
+            "images": [],
+            "question": "In what situations can a certificate of registration be retained?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When the vehicle has advertising posters stuck on it",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When data in the certificate of registration is not consistent with the technical characteristics of the vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When one does not have auto liability insurance.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "46",
+            "images": [],
+            "question": "Is it allowed for a driver, involved in an traffic accident that resulted in death or injury a person, to leave the scene?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, provided you leave the vehicle at the scene",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, if the victim was transported to the hospital",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Not without the consent of the police authorities.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "47",
+            "images": [],
+            "question": "For which of the situations below is the driving license retained?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "For not giving priority",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "If the driving license is damaged",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "If the driving license shows changes, deletions or additions.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "48",
+            "images": [],
+            "question": "For which of the following actions can the driving license be retained?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Failure to stop at the signal of the police",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "For failing to comply with the legal provisions relating to overtaking",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "For non-compliance on the use of lights at night.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "49",
+            "images": [],
+            "question": "What is the punishment for driving a vehicle in the category C, by a person whose license is valid for category B?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Criminal",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Contravention fine",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Contravention fine and retention of the license.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "50",
+            "images": [],
+            "question": "In which of the situations is the certificate of registration retained?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When the technical inspection has expired",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "If the noise exceeds the legal limit allowed, whether moving or stationary",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When the engine emits noxious pollutants over the legal limits allowed.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "51",
+            "images": [],
+            "question": "Which of the following acts committed within a period of 12 months from the return of driving license leads to suspension of the right to drive for 60 days?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Violating the legal provisions on signaling to change the direction of travel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Violating the legal provisions regarding the use of lights at night",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Accumulating 15 penalty points.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "52",
+            "images": [],
+            "question": "Passing on a red light is sanctioned as follows:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Criminal fine",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "By a fine and penalty points",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "By a fine and suspension of the right to drive the vehicle.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "53",
+            "images": [],
+            "question": "In which situation can the registration number plates of a vehicle be withdrawn?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When the number registration plates do not comply with standards applicable",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When the registration certificate is lost",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When the driver cannot present the identity card and driving license.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "54",
+            "images": [],
+            "question": "A vehicle will be immobilized if:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The registration number is false",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The technical condition of the tires is inappropriate",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The driver refuses to wear a seatbelt.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "55",
+            "images": [],
+            "question": "Can the police retain a registration certificate?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No, because the law permits such a measure only for the driving license",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, if the vehicle or trailer show technical malfunctions that threaten traffic safety",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, but only for a period of 15 days.",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

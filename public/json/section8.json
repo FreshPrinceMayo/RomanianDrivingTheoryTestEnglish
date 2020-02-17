@@ -1,0 +1,1237 @@
+{
+    "sectionName": "",
+    "questions": [
+        {
+            "questionsNumber": "1",
+            "images": [],
+            "question": "The airbag provides:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Rapid cushioning from vibrations due to unevenness on roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Additional protection to occupants of a vehicle in the event of an impact",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The possibility of relaxed driving, with the head resting on it.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "2",
+            "images": [],
+            "question": "In which situation can a vehicle be immobilized?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When the driver is not carrying a driving license",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When the technical condition of a vehicle damages public roads or affects the environment",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When the driver is not carrying the registration certificate.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "3",
+            "images": [],
+            "question": "If the car stalls in a tunnel:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop using the engine",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The engine has to work, to use the hazard warning lights",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Shut the doors and walk away.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "4",
+            "images": [],
+            "question": "The light signals of a vehicle must:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Operate only at night",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Correspond to the technical conditions imposed and approved (homologated) by the competent authority",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Not to be used in urban areas.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "5",
+            "images": [],
+            "question": "When are the hazard (blinking) lights used?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When driving in a row of vehicles at low speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When the vehicle is moving very slowly, for objective reasons",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When driving on slippery roads.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "6",
+            "images": [],
+            "question": "In what situation is it prohibited to drive a vehicle on public roads?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When the noise, whether in motion or when stationary exceeds the legal limit allowed for that type of vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When they do not follow rules regarding the transport of dangerous goods",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When they have mounted warning sound devices other than those approved (homologated) by the competent authority.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "7",
+            "images": [],
+            "question": "It is prohibited for vehicles to be equipped with:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Radar jamming devices",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Navigation systems",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Anti theft sound systems.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "8",
+            "images": [],
+            "question": "Which vehicles must carry out their technical inspection before term?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Vehicles older than 10 years",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Vehicles with braking and steering systems badly damaged",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Vehicles with the Inscription SCHOOL.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "9",
+            "images": [],
+            "question": "The most common malfunction of the engine cooling system is:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Weakening or breaking of the drive belt for the fan and water pump",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Clogging of the air intake that feeds the fan",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "A slipping clutch.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "10",
+            "images": [],
+            "question": "Afetr using antifreeze solutions over long periods of time, you should apply the following rules:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Always check the optimal fluid level in the expansion tank",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "After more than 3 years of usage the antifreeze solution should be replaced completely, even if it’s density meets the requirements",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Check the color of the liquid in the expansion tank.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "11",
+            "images": [],
+            "question": "How do you use the engine braking capacity optimally when driving on a long downhill slope?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Change into a higher gear",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Change in time into a lower gear",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "After shifting, immediately engage the neutral gear.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "12",
+            "images": [],
+            "question": "The Coolant temperature which ensures maximum performance and minimum engine wear is in the range:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "100-120 ° C",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "60-70 ° C",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "90-95 ° C.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "13",
+            "images": [],
+            "question": "On encountering technical failures of the steering mechanism, you should:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Ask people who have encountered such situations",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Keep moving, because the fault is due to state of the public road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Address the problem immediately at specialized workshops with trained personnel.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "14 What does a RWD car (rear way drive) do if you accelerate aggressively on a curve?",
+            "images": [],
+            "question": "What does a RWD car (rear way drive) do if you accelerate aggressively on a curve?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The car follows the wheel without any deviation",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The car tends to swerve back to the outside of the curve",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The front wheels rotate quickly.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "15",
+            "images": [],
+            "question": "How should you drive, to reduce pollution?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Start the engine pressing the acceleration pedal to a quarter of its full range and wait for it to heat up, to further reduce fuel consumption",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Start the engine without pressing on the accelerator and immediately start",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Press the acceleration pedal all the way, start the engine and drive speedily.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "16",
+            "images": [],
+            "question": "When is it best to check tire pressure?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Always at 300 km",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "As a rule, before you hit the road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Only in winter, when the tires are cold.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "17",
+            "images": [],
+            "question": "To which part of a road does a vehicle tend to skid, when performing a left turn at a high speed?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To the right, to the outside (the exterior) of a curve",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To the inside of the curve, in the opposite direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The vehicle does not skid in any situation.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "18",
+            "images": [],
+            "question": "Driving long periods with a defective thermostat and a coolant temperature of less than 60 degrees C leads to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Increased fuel consumption",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Inability to warm the engine compartment cabin",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Blocking of the water pump.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "19",
+            "images": [],
+            "question": "Driving ability can be reduced after consuming a relatively small amount of alcohol?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Not if you consume a cup of coffee as well",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Even small amounts of alcohol can reduce driving ability",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, small quantities do no harm.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "20",
+            "images": [],
+            "question": "When a cyclist raises the right arm vertically, it indicates:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "An intention to change direction to the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "An intention to stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "That motorists can overtake the cyclist.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "21",
+            "images": [],
+            "question": "You intend to tow a car whose power steering motor has stopped functioning. What should you consider?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To block the direction of travel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The steering requires greater physical effort, so you have to tow very carefully",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You are not allowed to tow it in this situation.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "22",
+            "images": [],
+            "question": "How do you park a car using the gears, so that it does not move on a slope?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Use the regular service brake",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Engage the gear into neutral",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Engage into a lower gear lever and use the hand brake.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "23",
+            "images": [],
+            "question": "Does tire pressure have an effect on fuel consumption?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Only on heavy vehicles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "24",
+            "images": [],
+            "question": "When you brake, you notice that you vehicle skids. How do you react correctly?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Brake to the maximum",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Release the brake pedal and turn the steering wheel in the direction opposite to the skidding",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop the engine.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "25",
+            "images": [],
+            "question": "Black smoke emitted from an exhaust indicates:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Damage to the exhaust valves",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "An excessive consumption of fuel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "An excessive consumption of oil.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "26",
+            "images": [],
+            "question": "Motor vehicles are prohibited to travel on public roads when:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The registration certificate is damaged",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "They do not meet the technical conditions relating to road safety and environmental protection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The validity of the periodic technical inspection has expired.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "27",
+            "images": [],
+            "question": "To drive on icy roads, it is recommended to equip the car with:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Snow chains",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Special tires or snow chains",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Sand and shovel.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "28",
+            "images": [],
+            "question": "Under what circumstances can vehicles and trailers move on public roads?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When they look decent",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When they do not exceed the weight and gauge specified in the certificate of incorporation",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When they are in good condition and meet the technical requirements established by law.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "29",
+            "images": [],
+            "question": "It is prohibited to circulate on public roads if:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The braking equipment is faulty",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Gas emissions reach the legal limit allowed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You mount lighting and signaling devices other than those approved by the competent authority.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "30",
+            "images": [],
+            "question": "The main cause for the explosion of tires while driving is:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Insufficient air",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Too much air",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Moderate wear.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "31",
+            "images": [],
+            "question": "In which of these situations does the consumption of fuel increase?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When the engine does not reach its operating temperature",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When the exhaust smoke is black",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When the engine functions with interruptions.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "32",
+            "images": [],
+            "question": "A vehicle is not allowed to travel on roads when:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "One of the lights does not work",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The windshield is cracked",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Toxic gas from the vehicle is beyond the legally allowed limit.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "33",
+            "images": [],
+            "question": "When you realize that you have vision problems, you should:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Buy spectacles with superior characteristics",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Avoid driving until you consult the doctor, and follow his counsel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Drive using the high beam even in cities or when approaching other oncoming vehicles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "34",
+            "images": [],
+            "question": "What precautionary measures should you take when using antifreeze solution?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No measures, because the liquid is not harmful",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Avoid contact with it, because it is toxic",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Do not combine with water, because it emits too much heat.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "35",
+            "images": [],
+            "question": "Fuel consumption increases if:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The coolant does not contain antifreeze",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The steering is manual",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Any device powered by the electric generator is used.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "36",
+            "images": [],
+            "question": "The thermostat belongs to which category of installations:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Cooling",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Lubrication",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Fueling.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "37",
+            "images": [],
+            "question": "Vehicles are prohibited to travel on public roads if:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The steering mechanism presents wear over the limits",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The vehicle has inscriptions, designs, distinctive signs or advertisements likely to prevent or lessen the effectiveness of the vehicles lighting, or reading of the license plate numbers",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The vehicle has accessories on the windshield or side windows that restrict or blur the vision of the driver.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "38",
+            "images": [],
+            "question": "Causes that may increase the oil level in the oil bath/case are:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Frequently travelling on unpaved roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Water or fuel leakage into the oil bath/case",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Failure of the oil pump.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "39",
+            "images": [],
+            "question": "The periodic technical inspection of vehicles and trailers must be made:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Annually, in any garage",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Periodically, by law",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Not later than two years, at a licensed inspection station.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "40",
+            "images": [],
+            "question": "What are the criteria for assessing the effectiveness of brakes?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Braking distance",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Shape of brake pedal",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Size of braking marks imprinted on roads.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "41",
+            "images": [],
+            "question": "For maintaining the lubrication system you must:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Check and replenish the oil bath",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Replace the oil after the expiration date",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Clean the radiator vent.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "42",
+            "images": [],
+            "question": "You may travel on public roads with a damaged vehicle:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "For a of maximum of 10 days from the date of event",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Until the expiry of the compulsory insurance",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "For not more than 30 days from the date of damage.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "43",
+            "images": [],
+            "question": "How should a driver proceed if technical problems make it impossible to continue the journey?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "If it problems cannot be rectified, drive to the nearest service facility",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Pull the vehicle off the roadway, till a service team reaches the vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Ensure that the vehicle is protected against burglary and go in search of help.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "44",
+            "images": [],
+            "question": "What types of collisions have the most destructive force?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Lateral collisions",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Frontal collisions",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Rear collisions.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "45",
+            "images": [],
+            "question": "The criterion for choosing a gasoline type for spark ignition engines is:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Color and consistency",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Octane (CO)",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Figure Catania (DC)",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "46",
+            "images": [],
+            "question": "What do you check on a car attached to a trailer before you drive on public road?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "That the water supply system of the trailer works",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "That rear visibility through the rearview mirrors is provided",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "That the persons travelling in the trailer are wearing seatbelts.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "47",
+            "images": [],
+            "question": "What can be attached to a vehicle in category B?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "A light trailer, whose weight does not exceed 750 kg",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "A trailer or semi-trailer with GVW (maximum weight) of up to 1 t",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "A trailer, which along with the category B car should not exceed 4250 kg.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "48",
+            "images": [],
+            "question": "Motorists have the following obligations before starting on the road:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To check the lights and signaling system",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To verify the installation of air conditioning",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To always maintain a clean windshield.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "49",
+            "images": [],
+            "question": "What happens when braking effectiveness is very different on the wheels of an axle?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "It reduces speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The vehicle stability is maintained",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The vehicle could skid sideways.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "50",
+            "images": [],
+            "question": "Vehicles must be inspected technically, even if the due date has not been exceeded:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "If the vehicle had severe damage to the steering, as result of an accident",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "If the owner’s driving license was withdrawn for a period exceeding 12 months",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "If the registration certificate is lost.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "51",
+            "images": [],
+            "question": "Hydroplaning is the apparent floating of a tire on a thin film of water. When does hydroplaning occur?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "At high speed on a wet surface",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Due to jerking movements in the driving direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When doing left and right turns or in tight curves.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "52",
+            "images": [],
+            "question": "Measuring pollutants from vehicles with petrol engine involves:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Checking the firmness of the exhaust system;",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Determining the concentration of CO when idling the engine;",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Determining the concentration of CO at an engine speed of at least 2000 revolutions/minute",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "53",
+            "images": [],
+            "question": "What is necessary and helpful to check before leaving on trip?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "If there is enough fluid in the windshield washer reservoir;",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "If the light-signaling system properly works;",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "If tyre pressure is as per the technical book.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "54",
+            "images": [],
+            "question": "What are the reasons due to which pollutant emissions occur in a motor vehicle?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Incomplete combustion of fuel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Imperfect sealing of fuel tank",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Imperfect sealing of supply pipes.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "55",
+            "images": [],
+            "question": "The authenticity of cars and trailers is certified by:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Road Police",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Romanian Auto Register (RAR)",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Romanian Road Authority.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "56",
+            "images": [],
+            "question": "What is meant by maximum authorized mass?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Total mass of freight that can be transported",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The weight of a vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Total laden weight declared admissible by a competent authority.",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

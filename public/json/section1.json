@@ -1,0 +1,819 @@
+{
+	"sectionName": "DUTIES AND OBLIGATIONS OF DRIVERS",
+	"questions": [
+		{
+			"questionsNumber": "1",
+			"images": [],
+			"question": "What is the main risk when driving through road tunnels?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "Driving at low-speeds, in a row of vehicles",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "Difficulty in adapting vision during entry and exit from such passages",
+					"correct": true
+				},
+				{
+					"questionLetter": "C",
+					"text": "The possibility of an uneven roadway.",
+					"correct": false
+				}
+			]
+		},
+		{
+			"questionsNumber": "2",
+			"images": [],
+			"question": "Using the service brake (hand brake) is indicated by:",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "Orange lights",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "Front and rear hazard warning (blinking) lights",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "Rear red lights.",
+					"correct": true
+				}
+			]
+		},
+		{
+			"questionsNumber": "3",
+			"images": ["public/images/section1/3.jpg"],
+			"question": "Where will you park your vehicle on meeting this indicator?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "In the direction of the indicator, in specially designed lots for parking vehicles",
+					"correct": true
+				},
+				{
+					"questionLetter": "B",
+					"text": "On the sidewalk, perpendicular to it",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "On the sidewalk, parallel to it.",
+					"correct": false
+				}
+			]
+		},
+		{
+			"questionsNumber": "4",
+			"images": [],
+			"question": "What are the obligations of drivers?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "To reduce speed when passing a traffic police officer in service, on the public highway",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "To keep the license plates clean and visible",
+					"correct": true
+				},
+				{
+					"questionLetter": "C",
+					"text": "To drive at speeds lesser than that prescribed by the minimum speed indicator.",
+					"correct": false
+				}
+			]
+		},
+		{
+			"questionsNumber": "5",
+			"images": [],
+			"question": "In which of the following situations is it forbidden to stop?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "On road sectors not illuminated",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "At a distance of 5m from the rear of a tram",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "On European national roads.",
+					"correct": true
+				}
+			]
+		},
+		{
+			"questionsNumber": "6",
+			"images": [],
+			"question": "Where should drivers involved in car accidents go, to record their damages?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "To the nearest police station, within 24 hours",
+					"correct": true
+				},
+				{
+					"questionLetter": "B",
+					"text": "At the county traffic police",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "At the police station, in the jurisdiction of their residence.",
+					"correct": false
+				}
+			]
+		},
+		{
+			"questionsNumber": "7",
+			"images": [],
+			"question": "What obligations do you have, if you encounter a police vehicle with blue warning signal lights and siren?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "No obligation, because the blue signal is addressed to official vehicles",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "Stop as close as possible to the margin of the road",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "Reduce speed, ride as close to the kerb or margin and grant priority to the vehicle.",
+					"correct": true
+				}
+			]
+		},
+		{
+			"questionsNumber": "8",
+			"images": [],
+			"question": "Parking is allowed:",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "Only in specially designated places, indicated by signs or markings",
+					"correct": true
+				},
+				{
+					"questionLetter": "B",
+					"text": "On any public road, where stopping is not prohibited, provided it does not hinder the movement of other vehicles",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "Only on streets with a width of at least 6m.",
+					"correct": false
+				}
+			]
+		},
+		{
+			"questionsNumber": "9",
+			"images": [],
+			"question": "What measures should you take when driving in weather conditions that prevent good visibility?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "Drive short distances with the position lights (parking lights) in operation",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "Use the position lights and drive closer to the right edge of the road",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "Use the low beam.",
+					"correct": true
+				}
+			]
+		},
+		{
+			"questionsNumber": "10",
+			"images": [],
+			"question": "What are your obligations if you are stopped by a policeman?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "To remain in the vehicle, hands on the wheel and follow the indications of the policeman",
+					"correct": true
+				},
+				{
+					"questionLetter": "B",
+					"text": "To step out of the vehicle to show your driving license",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "To step out of the vehicle to enquire about the nature of offence you have committed.",
+					"correct": false
+				}
+			]
+		},
+		{
+			"questionsNumber": "11",
+			"images": [],
+			"question": "Can you change the position of the vehicle if you are involved in a car accident?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "Yes, after you have administered first aid to the victims",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "Yes, after you have called the police",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "Yes, if the accident resulted only in damage.",
+					"correct": true
+				}
+			]
+		},
+		{
+			"questionsNumber": "12",
+			"images": [],
+			"question": "Are you required to submit biological samples, in case of a traffic accident that resulted in death or injury to people?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "Yes, but only if you are guilty of causing the accident",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "No, if you have been tested with an authorized device",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "Yes.",
+					"correct": true
+				}
+			]
+		},
+		{
+			"questionsNumber": "13",
+			"images": [],
+			"question": "The driver is obliged:",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "Not to drive after consuming drugs (medicines) for chronic diseases",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "To be present in time, at the police station that summoned him to resolve any issues related to driving",
+					"correct": true
+				},
+				{
+					"questionLetter": "C",
+					"text": "To immediately notify the nearest police station if he got sick.",
+					"correct": false
+				}
+			]
+		},
+		{
+			"questionsNumber": "14",
+			"images": [],
+			"question": "It is prohibited for drivers:",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "To carry in, or, on the car, objects whose length or width exceeds, along with loads, the dimensions of the vehicle",
+					"correct": true
+				},
+				{
+					"questionLetter": "B",
+					"text": "To apply chemical treatments or foils on the windscreen, rear or side windows, that reduces visibility",
+					"correct": true
+				},
+				{
+					"questionLetter": "C",
+					"text": "To drive a damaged vehicle for more than 30 days.",
+					"correct": true
+				}
+			]
+		},
+		{
+			"questionsNumber": "15",
+			"images": [],
+			"question": "How does one ensure that there is no danger when reversing a car?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "Switch on the rear fog lamp",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "Horn before reversing",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "Ensure from the front, rear and side.",
+					"correct": true
+				}
+			]
+		},
+		{
+			"questionsNumber": "16",
+			"images": [],
+			"question": "If a vehicle meets a column of many vehicles on a narrow public road, where traffic in both directions is impossible or dangerous, who will maneuver backwards:",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "The column of many vehicles",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "The vehicle",
+					"correct": true
+				},
+				{
+					"questionLetter": "C",
+					"text": "The drivers negotiate.",
+					"correct": false
+				}
+			]
+		},
+		{
+			"questionsNumber": "17",
+			"images": [],
+			"question": "Is it allowed to use fog lights at night, if the sky is clear?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "The law does not specify",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "Yes",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "No.",
+					"correct": true
+				}
+			]
+		},
+		{
+			"questionsNumber": "18",
+			"images": [],
+			"question": "What obligation does a driver have if his vehicle is immobilized in an underground passage?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "To switch off the engine and turn on the hazard warning (blinking) lights",
+					"correct": true
+				},
+				{
+					"questionLetter": "B",
+					"text": "To tow the vehicle up to the exit of the underground passage",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "To immediately notify the fire department of that area.",
+					"correct": false
+				}
+			]
+		},
+		{
+			"questionsNumber": "19",
+			"images": [],
+			"question": "What are the obligations when driving on roads covered with snow or ice?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "Not to drive in such sectors without the authorization from the administration of roads",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "To drive a vehicle, whose total mass is more than 3.5 tons, only after mounting antiskid chains or other approved equipment on the wheels",
+					"correct": true
+				},
+				{
+					"questionLetter": "C",
+					"text": "Not to overtake.",
+					"correct": false
+				}
+			]
+		},
+		{
+			"questionsNumber": "20",
+			"images": [],
+			"question": "Wearing a seatbelt is mandatory when driving on roads outside towns?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "Yes",
+					"correct": true
+				},
+				{
+					"questionLetter": "B",
+					"text": "No",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "The law does not provide an answer.",
+					"correct": false
+				}
+			]
+		},
+		{
+			"questionsNumber": "21",
+			"images": [],
+			"question": "Drivers can use their own means to detect devices that measure speed?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "Yes",
+					"correct": true
+				},
+				{
+					"questionLetter": "B",
+					"text": "No",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "This is not legally established.",
+					"correct": false
+				}
+			]
+		},
+		{
+			"questionsNumber": "22",
+			"images": [],
+			"question": "When are you allowed to be aggressive while driving on public roads?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "When the car in front is running at low speeds, without good reason",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "In no situation, no matter what happens to other road users",
+					"correct": true
+				},
+				{
+					"questionLetter": "C",
+					"text": "When the driver in the car in front is gesticulating obscenely.",
+					"correct": false
+				}
+			]
+		},
+		{
+			"questionsNumber": "23",
+			"images": [],
+			"question": "The voluntary stopping of vehicles is prohibited:",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "On one-way roads",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "In residential areas marked as such",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "Less than 25m before and after public transport stops.",
+					"correct": true
+				}
+			]
+		},
+		{
+			"questionsNumber": "24",
+			"images": [],
+			"question": "In which of the following situations is it forbidden to U-turn (turn)?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "In curves with visibility reduced below 50 m",
+					"correct": true
+				},
+				{
+					"questionLetter": "B",
+					"text": "At meeting the indicator “Road with priority “",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "At meeting the indicator “Narrow road”.",
+					"correct": true
+				}
+			]
+		},
+		{
+			"questionsNumber": "25",
+			"images": [],
+			"question": "Before performing a U-turn on a road, you need to:",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "Signal and ensure from the front, back and side",
+					"correct": true
+				},
+				{
+					"questionLetter": "B",
+					"text": "Stop and signal the intention to turn",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "Ensure and move on the lane near the road axis.",
+					"correct": false
+				}
+			]
+		},
+		{
+			"questionsNumber": "26",
+			"images": [],
+			"question": "What is forbidden for drivers when travelling on public roads?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "To carry more people than the number of seats in the certificate of incorporation or registration",
+					"correct": true
+				},
+				{
+					"questionLetter": "B",
+					"text": "To allow the inspection of the technical condition of the vehicle and goods transported",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "To open the doors when the car is parked.",
+					"correct": false
+				}
+			]
+		},
+		{
+			"questionsNumber": "27",
+			"images": [],
+			"question": "What are the obligations of a driver when traveling on a public road?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "To drive only if the monthly medical check is made",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "To drive only on sections of the road that are allowed and to comply with the rules pertaining to maximum permissible total weight established by the competent authority",
+					"correct": true
+				},
+				{
+					"questionLetter": "C",
+					"text": "To be informed by road administrators, about minimum and maximum speed limits.",
+					"correct": false
+				}
+			]
+		},
+		{
+			"questionsNumber": "28",
+			"images": [],
+			"question": "In which of the following situations it is prohibited to stop vehicles on public roads?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "In roundabouts",
+					"correct": true
+				},
+				{
+					"questionLetter": "B",
+					"text": "In the action area of the indicator “Prohibited Stationing (parking),”",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "On roads with a single direction of movement.",
+					"correct": false
+				}
+			]
+		},
+		{
+			"questionsNumber": "29",
+			"images": [],
+			"question": "You are prohibited from driving on public roads when:",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "The noise, while moving or stationary, exceeds the legally allowed limit",
+					"correct": true
+				},
+				{
+					"questionLetter": "B",
+					"text": "The mirrors are large",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "The sound warning device (horn) is not appropriate.",
+					"correct": false
+				}
+			]
+		},
+		{
+			"questionsNumber": "30",
+			"images": [],
+			"question": "While driving on public roads, the vehicle is more visible to other road users if:",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "It is adorned with stickers or colorful accessories fixed on the windshield and rear window",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "White or yellow paint is applied on the front and rear of the car",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "You clean the outside of the car, the number plates and lights.",
+					"correct": true
+				}
+			]
+		},
+		{
+			"questionsNumber": "31",
+			"images": [],
+			"question": "When it snows a lot, you will use:",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "The position (parking) lights",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "The horn",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "The low beam while driving.",
+					"correct": true
+				}
+			]
+		},
+		{
+			"questionsNumber": "32",
+			"images": [],
+			"question": "If you intend to carry a load using a personal vehicle, what should you consider?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "The load can exceed by one meter, in front of the vehicle",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "That the load is not voluminous",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "It should not exceed the allowed length, width and weight.",
+					"correct": true
+				}
+			]
+		},
+		{
+			"questionsNumber": "33",
+			"images": [],
+			"question": "If a road is not lit, is it allowed to station (park) vehicles on the carriageway?",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "Yes, if the position (parking) lights are on",
+					"correct": true
+				},
+				{
+					"questionLetter": "B",
+					"text": "Yes, but only within localities",
+					"correct": false
+				},
+				{
+					"questionLetter": "C",
+					"text": "No.",
+					"correct": false
+				}
+			]
+		},
+		{
+			"questionsNumber": "34",
+			"images": [],
+			"question": "Drivers of vehicles are prohibited:",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "From uttering insults",
+					"correct": true
+				},
+				{
+					"questionLetter": "B",
+					"text": "From performing obscene gestures",
+					"correct": true
+				},
+				{
+					"questionLetter": "C",
+					"text": "From addressing other road users with offensive or vulgar language.",
+					"correct": true
+				}
+			]
+		},
+		{
+			"questionsNumber": "35",
+			"images": [],
+			"question": "Specify which vehicles are exempt from the obligation to grant priority to pass:",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "Vehicles that begin to move in the way of those already circulating",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "Public transport services, which are exiting stations provided with bays",
+					"correct": true
+				},
+				{
+					"questionLetter": "C",
+					"text": "Vehicles which exit yards, passages or garages.",
+					"correct": false
+				}
+			]
+		},
+		{
+			"questionsNumber": "36",
+			"images": [],
+			"question": "Drivers are prohibited while driving:",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "To smoke",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "To throw objects on public roads",
+					"correct": true
+				},
+				{
+					"questionLetter": "C",
+					"text": "To engage in discussions with other occupants of the vehicle.",
+					"correct": false
+				}
+			]
+		},
+		{
+			"questionsNumber": "37",
+			"images": [],
+			"question": "While driving, the driver is forbidden:",
+			"options": [
+				{
+					"questionLetter": "A",
+					"text": "To smoke",
+					"correct": false
+				},
+				{
+					"questionLetter": "B",
+					"text": "To have interests that might distract his attention in a dangerous manner",
+					"correct": true
+				},
+				{
+					"questionLetter": "C",
+					"text": "To sound the horn.",
+					"correct": false
+				}
+			]
+		}
+	]
+}

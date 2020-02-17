@@ -1,0 +1,1633 @@
+{
+    "sectionName": "",
+    "questions": [
+        {
+            "questionsNumber": "1",
+            "images": [],
+            "question": "A driver can overtake a car from the right, if the other driver has signaled his intention to change direction.",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, if the vehicle in front has properly engaged to change the direction of travel to the left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, if enough space was created this for maneuver",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "2",
+            "images": [],
+            "question": "Overtaking is not allowed:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When the vehicle to be overtaken has a speed allowed by the law",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In any place and situation where visibility does not allow for such a maneuver",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When traffic is heavy.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "3",
+            "images": [],
+            "question": "Can you overtake, if you are driving the car?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No, because you have to cross the road axis",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, because the discontinuous line permits this maneuver",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, because the horizontal marking prohibits this maneuver.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "4",
+            "images": [],
+            "question": "Overtaking on public roads is prohibited:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "On roads where a column of cars has formed, forcing you to enter oncoming traffic",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In intersections directed only with road signs",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When the vehicle to be overtaken is towed and has switched on the hazard warning lights.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "5",
+            "images": [],
+            "question": "In which of the following situations is overtaking forbidden?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In the action area of the indicator ‘Other hazards’.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Less than 50 m from an intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In curves where visibility is reduced below 50 m.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "6",
+            "images": [],
+            "question": "In which of the situations is overtaking permitted?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In intersections marked with a priority indicator",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In intersections directed by lights",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In intersections directed by police.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "7",
+            "images": [],
+            "question": "What category of vehicles can be overtaken by exception, on a bridge?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Animal-drawn vehicles, bicycles and motorcycles without sidecars",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Tractors and other slow vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No vehicles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "8",
+            "images": [],
+            "question": "In which situation is it forbidden to overtake a moped?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "At pedestrian crossings, signaled by indicators or markers",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Less than 50 m from railway level crossings",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In the action area of the indicator ‘Overtaking prohibited’, except motorcycles without sidecar.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "9",
+            "images": [],
+            "question": "When can you start overtaking a tram stopped at a station without a platform?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When passengers get off the tram and cross the road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "After granting priority to pedestrians and when the tram doors have closed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When the vehicle in front of you starts to move.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "10",
+            "images": [],
+            "question": "In which of the following situations is overtaking forbidden:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "On slopes exceeding an angle of 10%",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "On pedestrian crossings, at railway level crossings and less than 50 m from them",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In situations where oncoming vehicles are forced to execute a maneuver to avoid a collision.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "11",
+            "images": [],
+            "question": "Is it considered overtaking when vehicles on a lane move faster than vehicles on other lanes?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, if you move on the left lane",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, if you travel on the right lane.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "12",
+            "images": [],
+            "question": "In which of the situations is overtaking forbidden on public roads?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "At meeting the indicator ‘Circulation in both directions’",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At a distance lesser than 50 m from a tram station, when the tram is stopped",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At pedestrian crossings with signs and markings.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "13",
+            "images": [],
+            "question": "How do you signal at night the intention to overtake another vehicle in a village, on an unlit road?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Using the high beam",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Using the direction indicator lights",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Using the low beam and horning.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "14",
+            "images": [],
+            "question": "Can a tram be overtaken from the left?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, in stations without platforms, to protect passengers getting in or alighting",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, when there is not enough space for overtaking between the right rail of the tracks and the border.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "15",
+            "images": [],
+            "question": "What do you do when driving outside the city, on a road with a single lane, and you encounter a slow, long or heavy vehicle which cannot be overtaken by you?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You signal the driver using the horn and lights",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop and allow the vehicle to move away",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You drive behind it until you can overtake the vehicle safely.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "16",
+            "images": [],
+            "question": "A moving tram can be generally overtaken:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "From either side",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "From the left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "From the right.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "17",
+            "images": [],
+            "question": "What should a driver do for overtaking to be considered legal?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To ensure that the maneuver can be performed safely, signal the intention to change direction and then overtake",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To signal in time the intention to change direction of travel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To speed up, to shorten the time to overtake.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "18",
+            "images": [],
+            "question": "Can you overtake in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No, because you are in the area of a railway level crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, because you are less than 150 m from a railway crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "19",
+            "images": [],
+            "question": "In this situation, you can continue to overtake?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, if the driver of the truck reduces speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, because there are three lanes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "20",
+            "images": [],
+            "question": "Can you overtake many vehicles in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Only if there are more than two lanes.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "21",
+            "images": [],
+            "question": "The Indicator prohibits overtaking?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The indicator is not addressed to you.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "22",
+            "images": [],
+            "question": "How is it recommended to safely overtake a tram stopped at a station with a platform?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To warn bystanders and signal you presence using the horn",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To signal the intention to overtake the tram",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To reduce speed.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "23",
+            "images": [],
+            "question": "The bus is stationed (parked). Which of the two drivers is acting illegally?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The driver of the bus, as he is forcing the car to make a dangerous maneuver over the continuous line",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The driver of the car, as he doing a dangerous maneuver over the continuous line",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Both are acting illegally.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "24",
+            "images": [],
+            "question": "Can the driver of a vehicle overtake at meeting the indicator “Speed limit”?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, if during the maneuver the speed is not higher than that stated on the indicator",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Not until reaching the indicator signaling the end zone of speed limit",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, if overtaking takes places outside localities.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "25",
+            "images": [],
+            "question": "It is forbidden to overtake:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "All vehicles, within 100 m of railway level crossings",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Animal-drawn vehicles, motorcycles without sidecars, mopeds and bicycles, if visibility on the road is greater than 20 m, and the width of the road is at least 7 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In unattended intersections.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "26",
+            "images": [],
+            "question": "You are driving the blue car. Have you engaged correctly in overtaking the motorbike?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, because there is no oncoming vehicle.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, because the bike does not go over the road axis",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, because the bike overtakes the truck.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "27",
+            "images": [],
+            "question": "In the picture, is it correct to overtake the truck?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, because there is no other vehicle approaching from the opposite side",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, because the overtaking would be done in a curve with poor visibility, below 50 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, because the continuous line forbids.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "28",
+            "images": [],
+            "question": "What do you do on a curve with poor visibility, below 50 m, and you notice an animal-drawn vehicle in front of you?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Horn, to force the animal-drawn vehicle out of the road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You overtake because it is permitted by law",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You drive behind the animal-drawn vehicle until you have good visibility and can overtake safely.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "29",
+            "images": [],
+            "question": "In which of the situations is overtaking prohibited?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In unattended intersections and signaled pedestrian crossings",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In intersections and at a distance of 50 m from them",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In the action area of the speed limit indicator.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "30",
+            "images": [],
+            "question": "Can you overtake the tram stopped at the station?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No, because you have to overtake the tram on the left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, because the station has no platform for pedestrians",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, because between the rail and sidewalk there is sufficient space for overtaking.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "31",
+            "images": [],
+            "question": "The car signals its intention to start moving. Can you overtake?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No, because it signals correctly",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, vehicles leaving a place have the right of way",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "32",
+            "images": [],
+            "question": "You may overtake in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, the law does not prohibit",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, because there is no vehicle approaching from the opposite direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, because you are on a curve.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "33",
+            "images": [],
+            "question": "What should you consider when overtaking cyclists and pedestrians moving in groups on the road?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You can overtake only after pedestrians and cyclists have signaled to you",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Comply with the law",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Cyclists and pedestrians can be overtaken only if the lateral distance is 3 m.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "34",
+            "images": [],
+            "question": "How are you sanctioned (penalized) for overtaking from the right side, without indicating and while being inappropriately positioned for such a maneuver?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "By a fine and penalty points",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "By a fine",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "By a fine and the suspension of the right to drive the vehicle.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "35",
+            "images": [],
+            "question": "What are obligations of drivers before overtaking?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To signal the intention and overtake",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To ensure from the front and reduce speed accordingly",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To ensure and signal the intention to overtake.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "36",
+            "images": [],
+            "question": "In which situation are you not allowed to overtake a bicycle?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "In the action area of the indicator ‘Overtaking prohibited’, except motorcycles without sidecar",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "On signaled pedestrian crossings",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Less than 100 m from a railway level crossing.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "37",
+            "images": [],
+            "question": "You are overtaken by a vehicle which has misjudged the distance and speed of a vehicle approaching from the opposite direction. What do you do to avoid an accident?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Increase speed, to force the vehicle behind you to give up overtaking",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Horn and signal with the hand, not to overtake",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Reduce speed immediately and move closer to the right edge of the carriageway, to allow the vehicle to overtake and reenter the lane.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "38",
+            "images": [],
+            "question": "It is forbidden to overtake:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When you cross the continuous longitudinal marking",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In high-traffic areas",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When you cross the discontinuous longitudinal marking.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "39",
+            "images": [],
+            "question": "Can you overtake a tram stopped at a station without a pedestrian platform, on a one-way street?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, but only from the left side",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, but only if there are no pedestrians in the tram station",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, because overtaking is prohibited in such circumstances.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "40",
+            "images": [],
+            "question": "In which of the following situations is overtaking prohibited?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "On roads with one lane in each direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Less than 150 m from railway level crossings",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At the indicator ‘Overtaking forbidden’.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "41",
+            "images": [],
+            "question": "Can you overtake in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, if you ensure that the maneuver can be executed after signaling properly",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, as visibility is reduced",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, because this maneuver will make you go over the axis of the road.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "42",
+            "images": [],
+            "question": "Are you allowed to overtake in the present situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No, as you have to maneuver on a bridge",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, because the road axis is not marked with a continuous line",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, because the bridge has no concrete railings.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "43",
+            "images": [],
+            "question": "When is it permitted to overtake trams in motion from the left side?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When the road is one-way",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When there isn’t enough space for overtaking between the rails of the tram and the right margin",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "In any situation.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "44",
+            "images": [],
+            "question": "Is it legal to overtake the bus stopped at the station?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, if you ensure and signal",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, only if the bus has a bay for pedestrians",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Not until the bus leaves the station.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "45",
+            "images": [],
+            "question": "Can the red car overtake in the given situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, because it signaled its intention and there is no vehicle approaching from the opposite direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, because it is more than 150 m from the railway crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, as a row of vehicles have stopped at the railway crossing and cannot be overtaken.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "46",
+            "images": [],
+            "question": "Is there any exception to the rule for overtaking from the left?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, if the vehicle intends to turn left, and in case of trams",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, only if the overtaking is done on a street with a dead end.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "47",
+            "images": [],
+            "question": "Is the car overtaking correctly?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No, because the bus leaving the station has the right of way",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, because such a maneuver is not allowed near public transport stations",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "48",
+            "images": [],
+            "question": "Is the driver of the red car overtaking the truck properly?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No, because he did not ensure and did not signal his intention to overtake",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, because there is no oncoming vehicle from the opposite direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, because it violates the indicator.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "49",
+            "images": [],
+            "question": "How is overtaking defined?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Passing a vehicle from the side, if both vehicles travel in the same direction, but on separate lanes.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The maneuver by a vehicle to pass in front of another vehicle or beside an obstacle located on the same direction of movement, by changing the direction of travel and exiting the lane or row of vehicles where it was originally travelling",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Passing by another vehicle.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "50",
+            "images": [],
+            "question": "While driving, you may overtake a bus stopped at a station while passengers are boarding or alighting?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, only if the public road is greater than 6 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, in this case overtaking is prohibited.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "51",
+            "images": [],
+            "question": "If you had a car in front, are you allowed to overtake it?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No, because you do not have enough visibility",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, since the prohibition to overtake refers only to freight vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, as the indicator does not permit, as you are approaching a bridge",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "52",
+            "images": [],
+            "question": "Are you allowed to overtake when another oncoming vehicle is approaching?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, if the vehicle has reduced its speed to allow you to overtake",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, if the vehicle from the opposite direction is required to perform a maneuver to avoid a collision",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, if the lateral space is sufficient.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "53",
+            "images": [],
+            "question": "Can you overtake in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, the law does not prohibit",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, because the road narrows",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, as it leads to a road with works.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "54",
+            "images": [],
+            "question": "Can you overtake in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, because the car is moving very slowly",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, because it is forbidden in this situation",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, if the lights are flashing white color.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "55",
+            "images": [],
+            "question": "Is it allowed to overtake when another vehicle is approaching from the opposite direction at a short distance?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, if by overtaking you cross over the road axis",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, if the road is wide enough, and by overtaking you do not go over the road axis",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, if there is no indicator prohibiting you from overtaking.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "56",
+            "images": [],
+            "question": "Which of the drivers is overtaking the moving tram correctly?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Both",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The rider of the bike",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The driver of the car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "57",
+            "images": [],
+            "question": "Is the truck overtaking the car correctly?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, because the car signaled its intention to turn left and the remaining space allows the truck to pass from the right side",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, because in such intersections overtaking is prohibited",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, because overtaking has to be done only from the left.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "58",
+            "images": [],
+            "question": "Is it allowed to overtake vehicles at intersections?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, if the intersections are controlled/directed.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, by bicycles and mopeds.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "59",
+            "images": [],
+            "question": "What should a driver do in a village, near a pedestrian crossing, if he intends to overtake a moving vehicle?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "He should overtake at low speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "He should not overtake",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "He should overtake with increased speed.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "60",
+            "images": [],
+            "question": "Is it allowed to overtake in the given situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, because the axis of the road is marked with a continuous line",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, because the discontinuous line is nearest to the direction of travel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, because the car in front will not allow you.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "61",
+            "images": [],
+            "question": "Is it allowed to overtake in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, but only after the oncoming car has stopped",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, but only if visibility permits.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "62",
+            "images": [],
+            "question": "Are you allowed to overtake the cyclists?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, if after honking, the cyclists move to the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Cyclists can be overtaken without restrictions.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "63",
+            "images": [],
+            "question": "Is the motorcyclist overtaking the truck correctly?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, he is proceeding correctly",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, as another vehicle is coming from the opposite direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, as the indicator forbids this.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "64",
+            "images": [],
+            "question": "What does a driver do when the vehicle in front is changing direction to the left, and on the right side there is not enough room for overtaking?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "He signals and overtakes at low speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "He speeds to try and overtake from the left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "He waits for the lane to be free to continue driving.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "65",
+            "images": [],
+            "question": "How are cars and trucks overtaken on an unmarked road that is one-way?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "From the left side",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "From the right side",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "From both sides.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "66",
+            "images": [],
+            "question": "In which of the following situations must you not overtake?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When a bus is stopped at a station",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "When nearing an uphill climb, when the visibility is less than 50 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At an intersection which is not controlled/directed.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "67",
+            "images": [],
+            "question": "In which situations will you not overtake?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "When a bus is stopped in the station",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "On an uphill slope, when visibility is over 50 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At an intersection which is not controlled/directed.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "68",
+            "images": [],
+            "question": "A driver has overtaken you more than once as he is not maintaining a constant speed. What do you do when he is overtaking again?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Create conditions for him to overtake, go closer to the right side of the road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Alert him with the horn and with your left hand, to prevent him from overtaking",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You move to the left, to prevent him from overtaking.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "69",
+            "images": [],
+            "question": "An oncoming vehicle overtakes another and cannot return to its lane. How do you behave responsibly?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Move forward with increased speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed and engage more to the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Warn the vehicle using the headlights.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "70",
+            "images": [],
+            "question": "In which of the situations is overtaking forbidden?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Near an uphill climb, when visibility is reduced below 50 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "In curves, if visibility is reduced below 50 m",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At the indicator ‘Road with priority’.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "71",
+            "images": [],
+            "question": "Can vehicles be overtaken from the right?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No, not in any situation",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, if the lateral space allows it",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, when vehicles in front turn left and there is sufficient space on the right to overtake.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "72",
+            "images": [],
+            "question": "In which of the situations below is the right to drive suspended?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Speeding with more than 20 km/h, over the maximum speed limit",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Failure to respect rules regarding overtaking",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Failing to use fog lights after dark.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "73",
+            "images": [],
+            "question": "What should a driver do before overtaking?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Signal and move as close to the road axis, in order to ensure visibility of oncoming traffic",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Horn and signal using the lights to alert the driver of the vehicle to be overtaken",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Ensure that it can be done safely and signal the intention to change the direction of travel.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "74",
+            "images": [],
+            "question": "In front of you is a tractor with two trailers. On the last trailer is written “Without signals”. You plan to overtake it near an intersection. What do you do?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You wait until you pass that intersection, even if you lose time planned for the trip",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You overtake, as your vehicle is capable of moving at a higher speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You signal and overtake at a high speed so that the maneuver takes as little time as possible.",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

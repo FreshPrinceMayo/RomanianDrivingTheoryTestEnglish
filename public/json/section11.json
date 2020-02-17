@@ -1,0 +1,2382 @@
+{
+    
+    "sectionName": "",
+    "questions": [
+        {
+            "questionsNumber": "1",
+            "images": [],
+            "question": "At an undirected intersection between a national road and county, municipal or local road, the right of way is granted to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Vehicles traveling on the county, municipal or local road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Traffic coming from the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Vehicles circulating on the national road.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "2",
+            "images": [],
+            "question": "When leaving a residential or pedestrian area, you are forced to give way to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Cars",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Pedestrians coming from the opposite direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "All the vehicles you intersect.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "3",
+            "images": [],
+            "question": "At which indicator does the driver lose priority?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Priority for traffic from the opposite direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Priority for your direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "When meeting the indicator ‘Road with priority’.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "4",
+            "images": [],
+            "question": "Which of the three vehicles will pass through the intersection last?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Truck",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "motorcycle.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "5",
+            "images": [],
+            "question": "What will you do on meeting the indicator and this panel?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop, ensure and give way to all vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Give way only to vehicles driving from the left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Give way only to public transport vehicles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "6",
+            "images": [],
+            "question": "What does a driver do, when exiting a yard or garage onto a public road?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Give way to pedestrians and vehicles that are in motion",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Request to be guided by another person",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Uses the horn during the day and light signals at night.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "7",
+            "images": [],
+            "question": "On a priority road, the driver at the intersection sees a pedestrian marking. Is he obliged to give way?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, to pedestrians crossing the road in his driving direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, because he is driving on a priority road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, both to pedestrians and vehicles approaching from the opposite direction and those who change the direction of travel to the left.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "8",
+            "images": [],
+            "question": "What is order in which vehicles move through the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Trolleybus, tram, car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Tram car, trolley",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Tram, trolleybus, car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "9",
+            "images": [],
+            "question": "Which vehicles have the right of way?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Bus and motorcycle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Motorcycle and truck",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Bus and car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "10",
+            "images": [],
+            "question": "What is the order in which vehicles pass through the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Tram, bike, car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Bike, car, tram",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Bike, tram, car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "11",
+            "images": [],
+            "question": "A driver is forced to give way at an undirected intersection if:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Entering a county road, from a national road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Entering a national road, from a county, local or municipal road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Entering a secondary or local road, from a county road.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "12",
+            "images": [],
+            "question": "When leaving a location with your vehicle, you will have:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To avoid excessively forcing the engine",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To avoid jerking the vehicle controls",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To give way to vehicles traveling on the road, regardless of the direction of travel.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "13",
+            "images": [],
+            "question": "When governmental priority vehicles pass, with their warning sirens and flashing blue lights, you must:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Ride as close to the margin of the road in the direction of travel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Give way.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "14",
+            "images": [],
+            "question": "What obligations does a driver have, when entering or leaving a row of stationed (parked) vehicles?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To ensure that the distance between vehicles is sufficient for parking.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To signal and ensure that the maneuver can be performed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Not to perform the maneuver in the action area of the indicator “Stationing prohibited”.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "15",
+            "images": [],
+            "question": "Which of the three vehicle passes through the intersection last?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Motorcycle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Tram.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "16",
+            "images": [],
+            "question": "In the first intersection you will give way:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To vehicles coming from the right, if there no other regulations in the intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To vehicles coming from the left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To all vehicles coming from the left or right.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "17",
+            "images": [],
+            "question": "Specify the situations where vehicles listed below have the right of way (priority to pass):",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Vehicles already in the roundabout, over those who are preparing to enter the roundabout",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Public transport vehicles, which have begun moving from a station.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Vehicles executing a U-turn (turning maneuver).",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "18",
+            "images": [],
+            "question": "In this situation, you should you give way to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Vehicles traveling on the transversal road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Vehicles who come from the left side",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No vehicle.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "19",
+            "images": [],
+            "question": "What are your obligations when you see pedestrian crossings in your direction of travel?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Give way to pedestrians crossing from the other direction of travel as well",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed and slip through the pedestrians",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Give way to pedestrians who are crossing the pedestrian crossing toward your direction.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "20",
+            "images": [],
+            "question": "What do you do in the following intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Cross without giving way",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Cross after granting priority to the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Cross after granting priority to the left.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "21",
+            "images": [],
+            "question": "What is the sequence in which the three vehicles pass through the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "car, blue car, bus",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Blue car, red car, bus",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Bus, blue car, red car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "22",
+            "images": [],
+            "question": "What will you do in this case?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Accelerate to pass in front of the pedestrians",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Horn so that pedestrians do not engage in crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop, to allow pedestrians to cross.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "23",
+            "images": [],
+            "question": "What do you do in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Brake in advance to give way to pedestrians, who are crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Cross the street fast",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Cross the pedestrian crossing before they do.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "24",
+            "images": [],
+            "question": "Who has priority on the narrow road?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The car, as it circulates on the right side of the bus",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "bus, as it is not changing its direction of travel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The car, because it travels at a higher speed.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "25",
+            "images": [],
+            "question": "Which of the two vehicles will enter the intersection first?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The motorcycle, as it moves more quickly",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The motorcycle, as it moves forward",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The car, as it travels on a priority road.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "26",
+            "images": [],
+            "question": "What priority rule applies at undirected intersections outside towns?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Priority for the vehicle with higher speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Priority for the main road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Right priority.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "27",
+            "images": [],
+            "question": "What are your obligations under the circumstances?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To grant priority to pedestrians",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To horn, to warn pedestrians",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "To drive with caution, as the indicator pre-signals a pedestrian crossing.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "28",
+            "images": [],
+            "question": "What is the sequence in which vehicles move through the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Motorcycle, tram 1, tram 2, truck",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Motorcycle, truck, tram 2, tram 1",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Tram 1, tram 2, motorcycle, truck.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "29",
+            "images": [],
+            "question": "Do you have to give way to the gray car if it turns left?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Depends on the speed of the two vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "30",
+            "images": [],
+            "question": "What do you do in the present situation, if you are driving the green car?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Enter the intersection carefully and turn left only",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop and do not enter the intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You may turn right only.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "31",
+            "images": [],
+            "question": "What do you do when traveling on a public road and you meet the indicator ‘Priority over the opposite direction’?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop and give way to vehicles approaching from the opposite direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Keep moving, because you have the right of way",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop and grant the right of way to oversized vehicles approaching from the opposite direction.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "32",
+            "images": [],
+            "question": "In this case do you have to grant the right of way to the car coming from the right?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, because the right priority rule applies",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, because you are crossing a road with priority",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, because the color of the traffic light is green.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "33",
+            "images": [],
+            "question": "Which vehicles crossing the intersection have the right of way?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Truck and car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Motorcycle and tram",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Motorcycle and truck.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "34",
+            "images": [],
+            "question": "At marked pedestrian crossings, without traffic lights, if the road has one lane and pedestrians are on the sidewalk near the road and intend to cross, you must:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Drive at a speed not exceeding 30 km/h in towns and 50 km/h outside",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed abruptly and give way to pedestrians, who have the right to cross",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You have no obligation or legal liability in case of any accident.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "35",
+            "images": [],
+            "question": "What obligations do you have if you are driving the blue car?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Continue moving in the forward direction, without any obligation",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Give way to the red and green cars",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Give way only to the green car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "36",
+            "images": [],
+            "question": "How will you proceed, when making a right or left turn you intersect a cyclist traveling on a designated bicycle lane?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Give way to the cyclist",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Do not give way to the cyclist",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Adjust your speed so that you will not intersect the cyclist.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "37",
+            "images": [],
+            "question": "At a crossing, which one of the following signs grants vehicles the right of way:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Intersection with a road without priority",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Straight ahead",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Traffic in both directions.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "38",
+            "images": [],
+            "question": "You approach a forest road and from the right side of the road a vehicle is leaving the forest. Who has to wait?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You, because you accord right priority",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The vehicle leaving the forest",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The vehicle traveling at a higher speed.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "39",
+            "images": [],
+            "question": "Your vehicle is on an agricultural road and you intend to turn right, entering a main road. From the left, another vehicle is approaching. Who gives priority?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "It is not allowed to enter the main road from an agricultural road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The vehicle that is traveling on the main road because you are on the right side",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "40",
+            "images": [],
+            "question": "Which vehicle enters the intersection first?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The truck, because the car is turning left and intersecting its direction of travel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The car, as it comes from the right side of the truck",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The truck, because it doesn’t change its direction of travel.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "41",
+            "images": [],
+            "question": "In the first intersection:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You will give way to vehicles circulating from the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You have the right of way",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You will give the right of way to vehicles circulating from the left.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "42",
+            "images": [],
+            "question": "The right of way is given in the following situation:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "At the indicator “Priority for circulation from opposite direction”",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "At the indicator “Intersection with a road without priority\"",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "At the indicator “End of priority road\".",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "43",
+            "images": [],
+            "question": "In what sequence will the cars pass through the intersection with the yellow traffic lights flashing?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Red, green, blue",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Red, blue, green",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Green, blue, red.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "44 What is the order in which the vehicles pass through the intersection, if the lights are not working?",
+            "images": [],
+            "question": "What is the order in which the vehicles pass through the intersection, if the lights are not working?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Tram 1, tram 2, car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Car, tram 1, tram 2",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Tram 1, car, tram 2.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "45 How will you proceed in the intersection if you are driving on the priority road?",
+            "images": [],
+            "question": "How will you proceed in the intersection if you are driving on the priority road?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Give way to vehicles coming from the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Give way to all passing vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Do not give way to any vehicle and follow the traffic lights.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "46",
+            "images": [],
+            "question": "Which of the vehicles must give way to pedestrians?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The vehicle you are driving",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The vehicle that comes from the front",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Both vehicles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "47",
+            "images": [],
+            "question": "How do you proceed correctly in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You cross in front of the taxi",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You allow the taxi to pass",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You only grant right priority.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "48",
+            "images": [],
+            "question": "You turn left at the intersection. How should you proceed?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You give way to the vehicle on the left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You have priority over the black car on the left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You are not allowed to turn left.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "49",
+            "images": [],
+            "question": "What do you do in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Continue driving at the same speed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Accelerate to move quickly over the crosswalk",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop and give way to pedestrians.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "50",
+            "images": [],
+            "question": "Which car is placed correctly to cross the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "All cars",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Green and red car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Blue and yellow car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "51",
+            "images": [],
+            "question": "What is the sequence in which the vehicles pass through the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Motorcycle, car, truck",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Truck, car, motorcycle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Car, motorcycle, truck.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "52",
+            "images": [],
+            "question": "Which of the three vehicles do not have priority to pass?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Car and bus",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Bus and truck",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Truck and car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "53",
+            "images": [],
+            "question": "What is the sequence to pass through the intersection, if all the vehicles reach at the same time?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Truck, tram, car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Car, truck, tram",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Tram, car, truck.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "54",
+            "images": [],
+            "question": "To steer left:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The cars will bypass each other from the left of the imaginary center, without intersecting their paths.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The red car will give way",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The red car will pass behind the blue car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "55",
+            "images": [],
+            "question": "In this case:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You must give way to the truck",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You are allowed to turn in front of the truck",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You must allow only the car to pass.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "56",
+            "images": [],
+            "question": "If, at an intersection, a vehicle meets a green traffic light and the indicator “Give Way”, the vehicle shall:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Respect the significance of the green signal",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Respect the significance of the indicator",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Respect the significance of the green signal, giving way to vehicles traveling on the priority road.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "57",
+            "images": [],
+            "question": "At an undirected intersection between a country road and a local road, the right of way is granted to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Vehicles that drive on the country road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Vehicles that drive on the local road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Vehicles coming from the right side.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "58",
+            "images": [],
+            "question": "What are a driver’s obligations before entering the first street to the right, in a roundabout?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Bypass the roundabout and then steer to the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Signal the intention to perform the maneuver, ensure, engage closer to the right edge, and then enter that street",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Stop the vehicle, ensure and change direction to the right.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "59",
+            "images": [],
+            "question": "To whom must you grant the right of way if you are driving the car blue?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The bus, because it is a public transport vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The red car, as it does not change its direction of travel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Both vehicles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "60",
+            "images": [],
+            "question": "What should you keep in mind, if you intend to drive right after the car in front?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The pedestrians will you the right of way unconditionally",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Give way to pedestrians, who are walking in your direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Pedestrians are not allowed to cross this place.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "61",
+            "images": [],
+            "question": "In what sequence will the cars pass through the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Blue, red, yellow",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Red, blue, yellow",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yellow, red, blue.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "62",
+            "images": [],
+            "question": "What do you do in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Grant the right of way to vehicles entering the intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop the vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Drive at a speed slower than 30 km/h.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "63",
+            "images": [],
+            "question": "What is the sequence in which the vehicles will cross the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Motorcycle, bicycle, car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Car, motorcycle, bicycle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Bicycle, car, motorcycle",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "64",
+            "images": [],
+            "question": "How does a driver move forward through an undirected intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed and give way to all vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed and give way to traffic coming from the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Reduce speed and give way to vehicles traveling from the opposite direction and who change the direction of travel to the left.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "65",
+            "images": [],
+            "question": "How will you proceed in the following intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Give way only to traffic coming from the left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Give way only to traffic coming from the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Give way to all those entitled.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "66",
+            "images": [],
+            "question": "You intend to turn right. What do you do?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Pass in front of the pedestrians",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Give way to pedestrians",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Give way only to bicycles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "67",
+            "images": [],
+            "question": "What do you do in this situation, if you are driving the red car?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Negotiate the right of way with the other driver",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Give way",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Pass in front of the blue vehicle.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "68",
+            "images": [],
+            "question": "In the proximity of a bus station with a bay, you are driving on the lane next to the border. What do you do when a public transport vehicle is signaling its departure from the station?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "It is mandatory to stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed, and, if necessary, stop",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Increase speed.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "69",
+            "images": [],
+            "question": "In what sequence will the three vehicles pass through the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Bus, truck, car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Truck, bus, car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Car, bus, truck",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "70",
+            "images": [],
+            "question": "Which of the three vehicles will pass through the intersection first?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The tram, because it has the right of way",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The yellow car, because it is changing the direction of travel",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The red car, as it comes from the right of the other two vehicles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "71",
+            "images": [],
+            "question": "What obligations do you have at pedestrian crossings?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "To drive at reduced speed in order to avoid pedestrians who are crossing",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "To reduce speed if pedestrians are crossing to avoid a possible accident",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "If pedestrians are crossing, to grant them the right of way.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "72",
+            "images": [],
+            "question": "What is the sequence in which the vehicles cross the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Car, truck, motorcycle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Car, motorcycle, truck",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Truck, car, motorcycle",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "73",
+            "images": [],
+            "question": "Which vehicle will pass through the intersection first?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Tram 1",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Tram 2",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "74",
+            "images": [],
+            "question": "What will you do if you are in the red car and an official column is approaching?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Continue driving as you have the right of way in the roundabout",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop and grant priority to the column",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Turn right and leave the intersection",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "75",
+            "images": [],
+            "question": "You intend to turn right. What will you do with the pedestrians crossing the street correctly?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Turn without hesitation, because pedestrians are forced to wait",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Give way to pedestrians, who are walking in your direction",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Horn, so that the pedestrians allow you to pass.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "76",
+            "images": [],
+            "question": "In what sequence will the vehicles pass through the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Car, truck, motorcycle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Truck, motorcycle, car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Truck, car, motorcycle.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "77",
+            "images": [],
+            "question": "What should the driver of the green car do in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Overtake the bus from the right side after the red car has passed",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Pass between the bus and the red car as it moves forward",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Signal the bus to free the lane",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "78",
+            "images": [],
+            "question": "In this situation, do you have priority over oncoming vehicles?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The indicator means that traffic flows in both directions.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "79",
+            "images": [],
+            "question": "Which of the three vehicles passes through the intersection last?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Motorcycle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Red car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Green car.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "80",
+            "images": [],
+            "question": "What will you do in this situation, if the traffic lights do not work?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Grant the right of way to vehicles coming from the left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Grant the right of way to vehicles coming from the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You have priority.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "81",
+            "images": [],
+            "question": "What will you do in this situation?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Continue driving because you have the right of way.",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Allow pedestrians to cross the street",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Horn, for the pedestrians to stop, so you can move forward.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "82",
+            "images": [],
+            "question": "What should you do if you drive straight and the traffic light has the yellow flashing light?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop, because the red light will appear next",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Reduce speed and continue your way because you have priority",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Always stop.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "83",
+            "images": [],
+            "question": "What is the priority rule when crossing an undirected intersection between two roads of the same category?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Right priority",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Priority to the one that has arrived first",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Priority to the main road.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "84",
+            "images": [],
+            "question": "Which vehicle will cross in the intersection first?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Bike",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Truck.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "85",
+            "images": [],
+            "question": "Which vehicle will cross the intersection last?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Bus",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Truck.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "86",
+            "images": [],
+            "question": "To which car must you grant the right of way?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Both vehicles",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The car coming from the right.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "87",
+            "images": [],
+            "question": "If you drive in a roundabout, you must give way to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Vehicles about to enter the intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Buses and trolleybuses.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "88",
+            "images": [],
+            "question": "In what sequence will the vehicles cross the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Blue, red, green",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Blue, green, red",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Red, blue, green.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "89",
+            "images": [],
+            "question": "What are your obligations when a bus drives out of a station with a bay?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Drive with caution, but you have no obligation",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Speed in front of the bus",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Reduce speed, and, if necessary stop to allow the bus reenter traffic.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "90",
+            "images": [],
+            "question": "In what sequence will vehicles pass through the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Car, truck, motorcycle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Truck, car, motorcycle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Car, motorcycle, truck",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "91",
+            "images": [],
+            "question": "What is the correct way to leave the priority road?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "You have priority, because you are on a priority road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You give way to traffic coming from the front",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "You give way to traffic coming from the right.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "92",
+            "images": [],
+            "question": "Which of the three vehicles will pass through the intersection second?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Green car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Red car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Truck.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "93",
+            "images": [],
+            "question": "At a roundabout, drivers are prohibited to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Reduce speed, because it may jam the traffic",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop, except when traffic requirements are such",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "U-Turn, to bypass the roundabout.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "94",
+            "images": [],
+            "question": "What vehicles have the right of way in the roundabout?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "All vehicles in the roundabout, over those that are about to enter",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "All vehicles coming from front",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "All vehicles coming from the right.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "95",
+            "images": [],
+            "question": "The driver while driving behind a bus, meets a “Stop” indicator, he must:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Continue driving behind the bus, because the bus driver has already stopped and ensured",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Stop and ensure before crossing the intersection, even if this was done by the bus driver",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": ") Continue crossing immediately after the bus, because, in this case there is no danger.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "96",
+            "images": [],
+            "question": "What will you do if you are driving the car?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Give way to the tram",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Give way to the bus",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Give way to both, as they are public transport vehicles.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "97",
+            "images": [],
+            "question": "Is the driver required to give way, when changing direction to the left, while the green signal is on?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No, because the green signal gives him priority",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, except when the oncoming vehicle is a public transport vehicle",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes, to both, to vehicles coming from the opposite direction and pedestrians crossing the street the driver is about to enter.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "98",
+            "images": [],
+            "question": "When two drivers approach an intersection simultaneously, who has the right of way in case one encounters the indicator “Stop \"and other the indicator “give way“?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "The driver that meets the indicator “Give way“",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "The driver circulating from the right",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "The driver that meets “Stop “indicator.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "99",
+            "images": [],
+            "question": "What should you do, if you are driving the car?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Allow the truck to pass",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Allow the tram to pass",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Turn in front of the tram.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "100",
+            "images": [],
+            "question": "Are there situations when the driver has to give way to a bicycle or an animal-drawn vehicle?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "No, the legislation does not stipulate such situations",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "No, cars always have priority",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Yes.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "101",
+            "images": [],
+            "question": "At the undirected intersection of a county road and a village or local road, the right of way is granted to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Vehicles moving on the county road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Vehicles driving on the local or village road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Traffic coming from the right.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "102",
+            "images": [],
+            "question": "Cyclists and animal drawn vehicles are always required to give way?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Yes, because their speed is low",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Yes, if they travel on county or village roads",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "No, if the road signs do not provide so.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "103",
+            "images": [],
+            "question": "In what sequence will the four vehicles pass through the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Car, truck, motorcycle, bus",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Bus, truck, motorcycle, car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Car, bus, motorcycle, truck.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "104",
+            "images": [],
+            "question": "Which vehicle will pass through the intersection second?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Red car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Green car",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Truck.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "105",
+            "images": [],
+            "question": "What will you do in the first intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Give way to all vehicles in the intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Give way only to vehicles that come from the left",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Apply the right priority rule.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "106",
+            "images": [],
+            "question": "Not granting priority means:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Not complying with road signals that oblige or warn",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Non-compliance with signals at intersections",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Forcing those who have right of way to modify their speed or direction or stop suddenly.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "107",
+            "images": [],
+            "question": "In what sequence will the cars pass through the intersection?",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Red, green, blue",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "Green, blue, red",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Blue, green, red",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "questionsNumber": "108",
+            "images": [],
+            "question": "In this situation, you have to:",
+            "options": [
+                {
+                    "questionLetter": "A",
+                    "text": "Stop, ensure and give way before crossing the intersection",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "B",
+                    "text": "You do not have any obligation, because you are on a priority road",
+                    "correct": false
+                },
+                {
+                    "questionLetter": "C",
+                    "text": "Apply the right priority rule.",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

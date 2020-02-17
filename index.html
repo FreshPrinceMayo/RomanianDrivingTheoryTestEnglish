@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://unpkg.com/buefy/dist/buefy.min.css">
+</head>
+
+<style>
+    .correctAnswer {
+        font-weight: 700;
+        color: darkgreen !important;
+        opacity: 1 !important;
+    }
+
+    .incorrectSelection {
+        text-decoration: line-through;
+        color: red;
+    }
+
+    .correctNoSelection {
+        text-decoration: line-through;
+    }
+
+    [v-cloak]>* {
+        display: none;
+    }
+</style>
+
+<body>
+    <br />
+    <div id="app" v-cloak>
+
+        <div class="container">
+            <div class="columns">
+
+                <div class="column is-10">
+                    <div class="card" v-if="stepA">
+                        <div class="card-content">
+                            <b-field label="Select a Section">
+                                <div class="card" v-if="stepA">
+
+                                    <b-autocomplete v-model="name" :data="filteredDataObj" :open-on-focus="openOnFocus"
+                                        placeholder="Select Section" icon="" field="label"
+                                        @select="option => selected = option.id">
+                                        <template slot="empty">No results found</template>
+                                    </b-autocomplete>
+                                </div>
+                            </b-field>
+                        </div>
+                    </div>
+
+
+                    <div class="card" v-if="stepB">
+                        <div class="card-content" v-if="isLoaded">
+                            <br>
+                            <div class="block">
+                                <span v-for="image in currentQuestion.images">
+                                    <img :src="image" style="margin-left: auto;margin-right: auto;display: block;transform: scale(2.0);margin-top: 50px;margin-bottom: 50px;">
+                                </span>
+                            </div>
+                            <div class="block">
+                                <p class="subtitle is-6"></p>
+
+                                <br>
+                                <h1 class="title">{{currentQuestion.question}}</h1>
+                                <br>
+                                <div>
+                                    <div class="field" v-for="option in currentQuestion.options" style="margin:20px">
+                                        <b-checkbox size="is-large" v-model="checkboxGroup"
+                                            v-bind:class="getCss(option.questionLetter)"
+                                            :native-value="option.questionLetter" :disabled="checkBoxDisabled">
+                                            {{option.text}}
+                                        </b-checkbox>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="padding: 50px;">
+                            <button v-if="submit" class="button is-large is-fullwidth" @click="checkAnswers"
+                                :disabled="!optionSelected">Submit</button>
+                            <button v-if="next" class="button is-large is-fullwidth" @click="nextQuestion">Next</button>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="column is-2" v-if="stepB">
+                    <b-message>
+                        <span class="title">📋 {{answeredQuestions}}/{{questionCount}}</title>
+                            <br />
+                            <span class="title">✔️ {{correct}}</title>
+                                <br />
+                                <span class="title">❌ {{incorrect}}</title>
+                    </b-message>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://unpkg.com/vue"></script>
+    <script src="https://unpkg.com/buefy/dist/buefy.min.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.15/lodash.min.js" integrity="sha256-VeNaFBVDhoX3H+gJ37DpT/nTuZTdjYro9yBruHjVmoQ=" crossorigin="anonymous"></script>
+    <script src="index.js"></script>
+
+
+</body>
+
+</html>
