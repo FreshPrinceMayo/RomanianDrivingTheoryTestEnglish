@@ -9,7 +9,7 @@
                 {
                     "questionLetter": "A",
                     "text": "After the flashing red lights stop",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -36,7 +36,7 @@
                 {
                     "questionLetter": "B",
                     "text": "In a place with maximum visibility, without exceeding the indicator cross",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -53,7 +53,7 @@
                 {
                     "questionLetter": "A",
                     "text": "When the red light signals at the railway level crossing are off",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -85,7 +85,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Reduce speed and stop, where there is maximum visibility, without passing signs or stop markings.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -97,7 +97,7 @@
                 {
                     "questionLetter": "A",
                     "text": "When the alternative flash-fire red lights are operating and the white flashing light is off.",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -129,7 +129,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Reduce speed, make sure there is no train approaching from the left or right, then cross.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -151,7 +151,7 @@
                 {
                     "questionLetter": "C",
                     "text": "In front of the barrier.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -168,7 +168,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Stop in front of the semi-barrier",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -195,7 +195,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Reduce speed and make sure you can cross without any danger.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -217,7 +217,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Railway officers at level crossings.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -234,7 +234,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Comply with signals of railroad agents",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -256,7 +256,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Stop",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -283,7 +283,7 @@
                 {
                     "questionLetter": "C",
                     "text": "No",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -305,7 +305,7 @@
                 {
                     "questionLetter": "C",
                     "text": "It is 50 m from the railway crossing.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -317,7 +317,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Reduce speed and stop in front of the semi-barrier",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -349,7 +349,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Help in moving the vehicle off the tracks, or, if not possible, signal its presence.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -366,7 +366,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Stop",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -388,7 +388,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Stop the vehicle without exceeding indicator",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -410,7 +410,7 @@
                 {
                     "questionLetter": "B",
                     "text": "A train is approaching and the barriers will close automatically",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -427,7 +427,7 @@
                 {
                     "questionLetter": "A",
                     "text": "A railway level crossing with barriers, equipped with automatic signaling devices",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -449,7 +449,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Motor vehicle drivers will show caution",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -481,7 +481,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Reduce vehicle speed and cross carefully, after ensuring from the left and right that there is no train approaching.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -498,7 +498,7 @@
                 {
                     "questionLetter": "B",
                     "text": "To reduce speed",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -525,7 +525,7 @@
                 {
                     "questionLetter": "C",
                     "text": "The first at 150 m, the second at 100 m and the third at 50 m.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -542,7 +542,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Stop, because the barriers are down or will be lowered soon",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -564,7 +564,7 @@
                 {
                     "questionLetter": "B",
                     "text": "To comply with the meaning of their signals",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -581,7 +581,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Stop, without exceeding the cross sign, traverse only after you have ensured that there is no danger",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -608,7 +608,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Stop in front of the barrier",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -625,7 +625,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To immediately ask passengers to leave the vehicle. When this is not possible, signal the presence of the vehicle by any suitable means",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -652,7 +652,7 @@
                 {
                     "questionLetter": "B",
                     "text": "An industrial railway level crossing",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -679,7 +679,7 @@
                 {
                     "questionLetter": "C",
                     "text": "150, 100 and, respectively, 50 m.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -691,7 +691,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To drive at reduced speeds and cross the railroad, if the barrier or semi-barrier is high",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -713,7 +713,7 @@
                 {
                     "questionLetter": "A",
                     "text": "You are approaching a railway level crossing equipped with barriers",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",

@@ -5,28 +5,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://unpkg.com/buefy/dist/buefy.min.css">
+    <link rel="stylesheet" href="https://cdn.materialdesignicons.com/2.5.94/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="index.css">
 </head>
-
-<style>
-    .correctAnswer {
-        font-weight: 700;
-        color: darkgreen !important;
-        opacity: 1 !important;
-    }
-
-    .incorrectSelection {
-        text-decoration: line-through;
-        color: red;
-    }
-
-    .correctNoSelection {
-        text-decoration: line-through;
-    }
-
-    [v-cloak]>* {
-        display: none;
-    }
-</style>
 
 <body>
     <br />
@@ -38,7 +19,7 @@
                 <div class="column is-10">
                     <div class="card" v-if="stepA">
                         <div class="card-content">
-                            <b-field label="Select a Section">
+                            <b-field label="Select a section to practice">
                                 <div class="card" v-if="stepA">
 
                                     <b-autocomplete v-model="name" :data="filteredDataObj" :open-on-focus="openOnFocus"
@@ -48,7 +29,15 @@
                                     </b-autocomplete>
                                 </div>
                             </b-field>
+
                         </div>
+
+
+                       
+
+
+                        
+
                     </div>
 
 
@@ -88,13 +77,20 @@
                 </div>
 
                 <div class="column is-2" v-if="stepB">
-                    <b-message>
+                    <div style="margin-bottom: 20px;">
+                        <b-button icon-left="arrow-left" type="is-light" @click="reset">Go back</b-button>
+                    </div>
+                      
+                  
+                 
+                    <div>
                         <span class="title">📋 {{answeredQuestions}}/{{questionCount}}</title>
-                            <br />
-                            <span class="title">✔️ {{correct}}</title>
-                                <br />
-                                <span class="title">❌ {{incorrect}}</title>
-                    </b-message>
+                        <br />
+                        <span class="title">✔️ {{correct}}</title>
+                        <br />
+                        <span class="title">❌ {{incorrect}}</title>
+                    </div>
+                       
                 </div>
             </div>
         </div>

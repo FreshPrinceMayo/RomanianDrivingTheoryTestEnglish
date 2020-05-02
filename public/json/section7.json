@@ -9,7 +9,7 @@
                 {
                     "questionLetter": "A",
                     "text": "In intersections",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -36,7 +36,7 @@
                 {
                     "questionLetter": "B",
                     "text": "End of zone prohibiting Stopping",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -58,7 +58,7 @@
                 {
                     "questionLetter": "B",
                     "text": "One-way roads, if at least one lane remains free",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -80,7 +80,7 @@
                 {
                     "questionLetter": "B",
                     "text": "No",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -107,7 +107,7 @@
                 {
                     "questionLetter": "C",
                     "text": "No, standing in such places is prohibited.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -129,7 +129,7 @@
                 {
                     "questionLetter": "C",
                     "text": "In the action area of the indicator “Priority for opposite traffic \".",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -141,7 +141,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes, because there are no restrictions in the area",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -168,7 +168,7 @@
                 {
                     "questionLetter": "B",
                     "text": "No, because you are in front of a traffic light and the indicator bans this.",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -185,7 +185,7 @@
                 {
                     "questionLetter": "A",
                     "text": "It lasts for more than five minutes",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -217,7 +217,7 @@
                 {
                     "questionLetter": "C",
                     "text": "You stop in the place where you have maximum visibility and make sure, even if the same was done by the bus ahead of you.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -229,7 +229,7 @@
                 {
                     "questionLetter": "A",
                     "text": "None",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -251,7 +251,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -283,7 +283,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Stop where there is maximum visibility of the railway crossing, without exceeding signs or markings to stop.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -305,7 +305,7 @@
                 {
                     "questionLetter": "C",
                     "text": "After the bus leaves, stop at the point where visibility is maximum, ensure there is no danger and then continue on.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -322,7 +322,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Beginning zone of indicator ‘Prohibited stopping’",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -344,7 +344,7 @@
                 {
                     "questionLetter": "B",
                     "text": "When the traffic lights do not work",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -371,7 +371,7 @@
                 {
                     "questionLetter": "C",
                     "text": "No, because on this category of road stopping and parking is prohibited.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -393,7 +393,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Voluntarily park on the carriageway.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -405,7 +405,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes, if you provide a space of at least 1 m for pedestrians and if the road signs allow this",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -427,7 +427,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Car and truck",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -454,7 +454,7 @@
                 {
                     "questionLetter": "B",
                     "text": "No",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -481,7 +481,7 @@
                 {
                     "questionLetter": "C",
                     "text": "On access roads leading to properties adjacent to public roads.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -498,7 +498,7 @@
                 {
                     "questionLetter": "B",
                     "text": "No, because this space is reserved only for the bus to stop",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -515,7 +515,7 @@
                 {
                     "questionLetter": "A",
                     "text": "In a place with maximum visibility, without exceeding the indicator",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -542,7 +542,7 @@
                 {
                     "questionLetter": "B",
                     "text": "On road sectors where overtaking is forbidden by indicators",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -559,7 +559,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To engage the handbrake, switch of the engine and shift into a lower gear",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -586,7 +586,7 @@
                 {
                     "questionLetter": "B",
                     "text": "No, because it did not fully comply with the meaning of the indicator",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -608,7 +608,7 @@
                 {
                     "questionLetter": "B",
                     "text": "To stop on the carriageway",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -625,7 +625,7 @@
                 {
                     "questionLetter": "A",
                     "text": "No, because it is prohibited to leave a trailer on the road at night",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -657,7 +657,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Green car and red car as they respect the significance of the indicator.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -674,7 +674,7 @@
                 {
                     "questionLetter": "B",
                     "text": "The difference lies in the duration of immobilization of a vehicle",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -691,7 +691,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Stop in the place where you have the best visibility to ensure and continue if no another vehicle crosses the road",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -723,7 +723,7 @@
                 {
                     "questionLetter": "C",
                     "text": "In places where you would block another driver’s view of an indicator or light signal.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -740,7 +740,7 @@
                 {
                     "questionLetter": "B",
                     "text": "In roundabouts",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -757,7 +757,7 @@
                 {
                     "questionLetter": "A",
                     "text": "In special places marked by signs and road markings",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -784,7 +784,7 @@
                 {
                     "questionLetter": "B",
                     "text": "When the lights do not work",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -801,7 +801,7 @@
                 {
                     "questionLetter": "A",
                     "text": "No, if other vehicles are forced to pass over the continuous marking",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -823,7 +823,7 @@
                 {
                     "questionLetter": "A",
                     "text": "On access roads leading to properties adjacent to public roads",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",

@@ -1,0 +1,18 @@
+.correctAnswer {
+    font-weight: 700;
+    color: darkgreen !important;
+    opacity: 1 !important;
+}
+
+.incorrectSelection {
+    text-decoration: line-through;
+    color: red;
+}
+
+.correctNoSelection {
+    text-decoration: line-through;
+}
+
+[v-cloak]>* {
+    display: none;
+}

@@ -13,30 +13,79 @@ new Vue({
         "checkBoxA": "",
         "checkBoxB": "",
         "checkBoxC": "",
-        "submit": true,
-        "next": false,
+        "submit": null,
+        "next": null,
         "checkBoxDisabled": false,
-        "sections":
-            [
-                { "id": 1, "label": "1) DUTIES AND OBLIGATIONS OF DRIVERS" },
-                { "id": 2, "label": "2) ECOLOGIC AND PREVENTING DRIVING" },
-                { "id": 3, "label": "3) FIRST AID MEASURES" },
-                { "id": 4, "label": "4) MECHANICS" },
-                { "id": 5, "label": "5) POLICE SIGNALS" },
-                { "id": 6, "label": "6) RAILWAY CROSSINGS" },
-                { "id": 7, "label": "7) STOPPING STANDING AND PARKING" },
-                { "id": 8, "label": "8) TECHNICAL CONDITIONS" },
-                { "id": 9, "label": "9) OVERTAKING" },
-                { "id": 10, "label": "10) HIGHWAY AND DRIVING POSITION" },
-                { "id": 11, "label": "11) RIGHT OF WAY" },
-                { "id": 12, "label": "12) PENALTIES AND OFFENCES" },
-                { "id": 13, "label": "13) SPEED AND DISTANCE" },
-                { "id": 14, "label": "14) GENERAL RULES" },
-                { "id": 15, "label": "15) SIGNS AND ROAD MARKINGS" },
-                { "id": 16, "label": "16) LIGHT SIGNALS" },
-                { "id": 17, "label": "17) MANEUVERS IN TRAFFIC" }
+        "sections": [{
+                "id": 1,
+                "label": "1) DUTIES AND OBLIGATIONS OF DRIVERS"
+            },
+            {
+                "id": 2,
+                "label": "2) ECOLOGIC AND PREVENTING DRIVING"
+            },
+            {
+                "id": 3,
+                "label": "3) FIRST AID MEASURES"
+            },
+            {
+                "id": 4,
+                "label": "4) MECHANICS"
+            },
+            {
+                "id": 5,
+                "label": "5) POLICE SIGNALS"
+            },
+            {
+                "id": 6,
+                "label": "6) RAILWAY CROSSINGS"
+            },
+            {
+                "id": 7,
+                "label": "7) STOPPING STANDING AND PARKING"
+            },
+            {
+                "id": 8,
+                "label": "8) TECHNICAL CONDITIONS"
+            },
+            {
+                "id": 9,
+                "label": "9) OVERTAKING"
+            },
+            {
+                "id": 10,
+                "label": "10) HIGHWAY AND DRIVING POSITION"
+            },
+            {
+                "id": 11,
+                "label": "11) RIGHT OF WAY"
+            },
+            {
+                "id": 12,
+                "label": "12) PENALTIES AND OFFENCES"
+            },
+            {
+                "id": 13,
+                "label": "13) SPEED AND DISTANCE"
+            },
+            {
+                "id": 14,
+                "label": "14) GENERAL RULES"
+            },
+            {
+                "id": 15,
+                "label": "15) SIGNS AND ROAD MARKINGS"
+            },
+            {
+                "id": 16,
+                "label": "16) LIGHT SIGNALS"
+            },
+            {
+                "id": 17,
+                "label": "17) MANEUVERS IN TRAFFIC"
+            }
 
-            ],
+        ],
         "keepFirst": false,
         "openOnFocus": true,
         "selected": null,
@@ -61,8 +110,7 @@ new Vue({
 
             if (_.isEqual(this.answers.sort(), this.checkboxGroup.sort())) {
                 this.correct += 1;
-            }
-            else {
+            } else {
                 this.incorrect += 1;
             }
             this.answeredQuestions = this.correct + this.incorrect;
@@ -91,6 +139,17 @@ new Vue({
                     return this.checkBoxC;
             }
         },
+        reset:function()
+        {
+            this.selected = null;
+            this.isLoaded = false;
+            this.checkboxGroup = [];
+            this.checkBoxDisabled = false;
+            this.correct = 0;
+            this.incorrect = 0;
+            this.answeredQuestions = 0;
+            this.resetCheckBoxCss();
+        }
 
     },
     beforeMount() {
@@ -134,6 +193,8 @@ new Vue({
                     this.questions = _.shuffle(questionData);
                     this.questionCount = questionData.length;
                     this.isLoaded = true;
+                    this.next = false;
+                    this.submit = true;
                 });
             }
             return this.selected != null;

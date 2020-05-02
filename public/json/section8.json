@@ -14,7 +14,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Additional protection to occupants of a vehicle in the event of an impact",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -36,7 +36,7 @@
                 {
                     "questionLetter": "B",
                     "text": "When the technical condition of a vehicle damages public roads or affects the environment",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -53,7 +53,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Stop using the engine",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -80,7 +80,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Correspond to the technical conditions imposed and approved (homologated) by the competent authority",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -102,7 +102,7 @@
                 {
                     "questionLetter": "B",
                     "text": "When the vehicle is moving very slowly, for objective reasons",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -119,17 +119,17 @@
                 {
                     "questionLetter": "A",
                     "text": "When the noise, whether in motion or when stationary exceeds the legal limit allowed for that type of vehicle",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "When they do not follow rules regarding the transport of dangerous goods",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "When they have mounted warning sound devices other than those approved (homologated) by the competent authority.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -141,7 +141,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Radar jamming devices",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -168,7 +168,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Vehicles with braking and steering systems badly damaged",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -185,7 +185,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Weakening or breaking of the drive belt for the fan and water pump",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -212,7 +212,7 @@
                 {
                     "questionLetter": "B",
                     "text": "After more than 3 years of usage the antifreeze solution should be replaced completely, even if it’s density meets the requirements",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -234,7 +234,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Change in time into a lower gear",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -261,7 +261,7 @@
                 {
                     "questionLetter": "C",
                     "text": "90-95 ° C.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -283,7 +283,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Address the problem immediately at specialized workshops with trained personnel.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -300,7 +300,7 @@
                 {
                     "questionLetter": "B",
                     "text": "The car tends to swerve back to the outside of the curve",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -322,7 +322,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Start the engine without pressing on the accelerator and immediately start",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -344,7 +344,7 @@
                 {
                     "questionLetter": "B",
                     "text": "As a rule, before you hit the road",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -361,7 +361,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To the right, to the outside (the exterior) of a curve",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -383,7 +383,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Increased fuel consumption",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -410,7 +410,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Even small amounts of alcohol can reduce driving ability",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -432,7 +432,7 @@
                 {
                     "questionLetter": "B",
                     "text": "An intention to stop",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -454,7 +454,7 @@
                 {
                     "questionLetter": "B",
                     "text": "The steering requires greater physical effort, so you have to tow very carefully",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -481,7 +481,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Engage into a lower gear lever and use the hand brake.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -493,7 +493,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -520,7 +520,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Release the brake pedal and turn the steering wheel in the direction opposite to the skidding",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -542,7 +542,7 @@
                 {
                     "questionLetter": "B",
                     "text": "An excessive consumption of fuel",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -564,12 +564,12 @@
                 {
                     "questionLetter": "B",
                     "text": "They do not meet the technical conditions relating to road safety and environmental protection",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "The validity of the periodic technical inspection has expired.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -586,7 +586,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Special tires or snow chains",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -613,7 +613,7 @@
                 {
                     "questionLetter": "C",
                     "text": "When they are in good condition and meet the technical requirements established by law.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -625,7 +625,7 @@
                 {
                     "questionLetter": "A",
                     "text": "The braking equipment is faulty",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -635,7 +635,7 @@
                 {
                     "questionLetter": "C",
                     "text": "You mount lighting and signaling devices other than those approved by the competent authority.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -652,7 +652,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Too much air",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -669,17 +669,17 @@
                 {
                     "questionLetter": "A",
                     "text": "When the engine does not reach its operating temperature",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "When the exhaust smoke is black",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "When the engine functions with interruptions.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -701,7 +701,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Toxic gas from the vehicle is beyond the legally allowed limit.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -718,7 +718,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Avoid driving until you consult the doctor, and follow his counsel",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -740,7 +740,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Avoid contact with it, because it is toxic",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -767,7 +767,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Any device powered by the electric generator is used.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -779,7 +779,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Cooling",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -801,17 +801,17 @@
                 {
                     "questionLetter": "A",
                     "text": "The steering mechanism presents wear over the limits",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "The vehicle has inscriptions, designs, distinctive signs or advertisements likely to prevent or lessen the effectiveness of the vehicles lighting, or reading of the license plate numbers",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "The vehicle has accessories on the windshield or side windows that restrict or blur the vision of the driver.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -828,7 +828,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Water or fuel leakage into the oil bath/case",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -850,7 +850,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Periodically, by law",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -867,7 +867,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Braking distance",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -889,12 +889,12 @@
                 {
                     "questionLetter": "A",
                     "text": "Check and replenish the oil bath",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "Replace the oil after the expiration date",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -921,7 +921,7 @@
                 {
                     "questionLetter": "C",
                     "text": "For not more than 30 days from the date of damage.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -938,7 +938,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Pull the vehicle off the roadway, till a service team reaches the vehicle",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -960,7 +960,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Frontal collisions",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -982,7 +982,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Octane (CO)",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1004,7 +1004,7 @@
                 {
                     "questionLetter": "B",
                     "text": "That rear visibility through the rearview mirrors is provided",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1021,7 +1021,7 @@
                 {
                     "questionLetter": "A",
                     "text": "A light trailer, whose weight does not exceed 750 kg",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1031,7 +1031,7 @@
                 {
                     "questionLetter": "C",
                     "text": "A trailer, which along with the category B car should not exceed 4250 kg.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1043,17 +1043,17 @@
                 {
                     "questionLetter": "A",
                     "text": "To check the lights and signaling system",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "To verify the installation of air conditioning",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "To always maintain a clean windshield.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1075,7 +1075,7 @@
                 {
                     "questionLetter": "C",
                     "text": "The vehicle could skid sideways.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1087,7 +1087,7 @@
                 {
                     "questionLetter": "A",
                     "text": "If the vehicle had severe damage to the steering, as result of an accident",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1109,7 +1109,7 @@
                 {
                     "questionLetter": "A",
                     "text": "At high speed on a wet surface",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1131,17 +1131,17 @@
                 {
                     "questionLetter": "A",
                     "text": "Checking the firmness of the exhaust system;",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "Determining the concentration of CO when idling the engine;",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "Determining the concentration of CO at an engine speed of at least 2000 revolutions/minute",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1153,17 +1153,17 @@
                 {
                     "questionLetter": "A",
                     "text": "If there is enough fluid in the windshield washer reservoir;",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "If the light-signaling system properly works;",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "If tyre pressure is as per the technical book.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1175,17 +1175,17 @@
                 {
                     "questionLetter": "A",
                     "text": "Incomplete combustion of fuel",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "Imperfect sealing of fuel tank",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "Imperfect sealing of supply pipes.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1202,7 +1202,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Romanian Auto Register (RAR)",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1229,7 +1229,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Total laden weight declared admissible by a competent authority.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         }
