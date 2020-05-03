@@ -179,7 +179,7 @@
         },
         {
             "questionsNumber": "9",
-            "images": [],
+            "images": ["public/images/section6/9.jpg"],
             "question": "What do you do in the present situation?",
             "options": [
                 {
@@ -289,7 +289,7 @@
         },
         {
             "questionsNumber": "14",
-            "images": [],
+            "images": ["public/images/section6/14.jpg"],
             "question": "This indicator warns:",
             "options": [
                 {
@@ -355,7 +355,7 @@
         },
         {
             "questionsNumber": "17",
-            "images": [],
+            "images": ["public/images/section6/17.jpg"],
             "question": "What do you do in this situation?",
             "options": [
                 {
@@ -421,7 +421,7 @@
         },
         {
             "questionsNumber": "20",
-            "images": [],
+            "images": ["public/images/section6/20.jpg"],
             "question": "The additional panel indicates:",
             "options": [
                 {
@@ -487,7 +487,7 @@
         },
         {
             "questionsNumber": "23",
-            "images": [],
+            "images": ["public/images/section6/23.jpg"],
             "question": "What obligations do you have in the situation shown in the picture?",
             "options": [
                 {
@@ -641,7 +641,7 @@
         },
         {
             "questionsNumber": "30",
-            "images": [],
+            "images": ["public/images/section6/30.jpg"],
             "question": "indicator warns about:",
             "options": [
                 {
@@ -685,7 +685,7 @@
         },
         {
             "questionsNumber": "32",
-            "images": [],
+            "images": ["public/images/section6/32.jpg"],
             "question": "What obligations do you have in the present situation?",
             "options": [
                 {
@@ -707,7 +707,7 @@
         },
         {
             "questionsNumber": "33",
-            "images": [],
+            "images": ["public/images/section6/33.jpg"],
             "question": "In this situation, you are warned that:",
             "options": [
                 {

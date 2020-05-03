@@ -25,7 +25,7 @@
         },
         {
             "questionsNumber": "2",
-            "images": [],
+            "images": ["public/images/section13/2.jpg"],
             "question": "What are your obligations on meeting this indicator?",
             "options": [
                 {
@@ -443,7 +443,7 @@
         },
         {
             "questionsNumber": "21",
-            "images": [],
+            "images": ["public/images/section13/21.jpg"],
             "question": "The indicator means:",
             "options": [
                 {
@@ -707,7 +707,7 @@
         },
         {
             "questionsNumber": "33",
-            "images": [],
+            "images": ["public/images/section13/33.jpg"],
             "question": "The driver of the vehicle in the image should drive at a maximum the speed of:",
             "options": [
                 {
@@ -861,7 +861,7 @@
         },
         {
             "questionsNumber": "40",
-            "images": [],
+            "images": ["public/images/section13/40.jpg"],
             "question": "After a heavy rain, it is necessary to maintain a significantly larger distance from the vehicle circulating in front?",
             "options": [
                 {
@@ -949,7 +949,7 @@
         },
         {
             "questionsNumber": "44",
-            "images": [],
+            "images": ["public/images/section13/44.jpg","public/images/section13/44-1.jpg"],
             "question": "What is forbidden in this situation?",
             "options": [
                 {
@@ -1015,7 +1015,7 @@
         },
         {
             "questionsNumber": "47",
-            "images": [],
+            "images": ["public/images/section13/47.jpg","public/images/section13/47-1.jpg"],
             "question": "In this situation you must:",
             "options": [
                 {
@@ -1059,7 +1059,7 @@
         },
         {
             "questionsNumber": "49 What is the maximum speed at which you can drive?",
-            "images": [],
+            "images": ["public/images/section13/49.jpg","public/images/section13/49-1.jpg","public/images/section13/49-2.jpg"],
             "question": "What is the maximum speed at which you can drive?",
             "options": [
                 {

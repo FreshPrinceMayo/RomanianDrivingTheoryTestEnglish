@@ -289,7 +289,7 @@
         },
         {
             "questionsNumber": "14",
-            "images": [],
+            "images": ["public/images/section16/14.jpg","public/images/section16/14-1.jpg"],
             "question": "The indicator warns you:",
             "options": [
                 {
@@ -421,7 +421,7 @@
         },
         {
             "questionsNumber": "20",
-            "images": [],
+            "images": ["public/images/section16/20.jpg","public/images/section16/20-1.jpg"],
             "question": "What do you do in this situation, if the light and sound signals are not in operation?",
             "options": [
                 {
@@ -575,7 +575,7 @@
         },
         {
             "questionsNumber": "28",
-            "images": [],
+            "images": ["public/images/section16/28.jpg"],
             "question": "Which of the vehicles can continue moving?",
             "options": [
                 {
@@ -641,7 +641,7 @@
         },
         {
             "questionsNumber": "31",
-            "images": [],
+            "images": ["public/images/section16/31.jpg","public/images/section16/31-1.jpg"],
             "question": "What do you do in this situation?",
             "options": [
                 {
@@ -795,7 +795,7 @@
         },
         {
             "questionsNumber": "38",
-            "images": [],
+            "images": ["public/images/section16/38.jpg"],
             "question": "The green traffic light allows:",
             "options": [
                 {
@@ -839,7 +839,7 @@
         },
         {
             "questionsNumber": "40",
-            "images": [],
+            "images": ["public/images/section16/40.jpg","public/images/section16/40-1.jpg"],
             "question": "The car in front of you is crossing the intersection. What will you do?",
             "options": [
                 {
@@ -927,7 +927,7 @@
         },
         {
             "questionsNumber": "44",
-            "images": [],
+            "images": ["public/images/section16/44.jpg"],
             "question": "Which of the vehicles can cross the intersection?",
             "options": [
                 {
@@ -971,7 +971,7 @@
         },
         {
             "questionsNumber": "46",
-            "images": [],
+            "images": ["public/images/section16/46.jpg"],
             "question": "How is it correct to proceed when traffic lights are flashing yellow?",
             "options": [
                 {

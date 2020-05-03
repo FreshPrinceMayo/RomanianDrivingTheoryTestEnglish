@@ -25,7 +25,7 @@
         },
         {
             "questionsNumber": "2",
-            "images": [],
+            "images": ["public/images/section7/2.jpg"],
             "question": "What is this indicator with the additional panel?",
             "options": [
                 {
@@ -135,7 +135,7 @@
         },
         {
             "questionsNumber": "7",
-            "images": [],
+            "images": ["public/images/section7/7.jpg"],
             "question": "Is the car stationing (parking) properly?",
             "options": [
                 {
@@ -157,7 +157,7 @@
         },
         {
             "questionsNumber": "8",
-            "images": [],
+            "images": ["public/images/section7/8.jpg"],
             "question": "Is it allowed to stop in this situation?",
             "options": [
                 {
@@ -223,7 +223,7 @@
         },
         {
             "questionsNumber": "11",
-            "images": [],
+            "images": ["public/images/section7/11.jpg"],
             "question": "Which of the three vehicles is parked as per regulations?",
             "options": [
                 {
@@ -289,7 +289,7 @@
         },
         {
             "questionsNumber": "14",
-            "images": [],
+            "images": ["public/images/section7/14.jpg"],
             "question": "How do you proceed in the intersection, if you see the stop sign?",
             "options": [
                 {
@@ -311,7 +311,7 @@
         },
         {
             "questionsNumber": "15",
-            "images": [],
+            "images": ["public/images/section7/15.jpg"],
             "question": "What does the additional panel indicate?",
             "options": [
                 {
@@ -355,7 +355,7 @@
         },
         {
             "questionsNumber": "17",
-            "images": [],
+            "images": ["public/images/section7/17.jpg"],
             "question": "Has the car stopped as per regulations?",
             "options": [
                 {
@@ -421,7 +421,7 @@
         },
         {
             "questionsNumber": "20",
-            "images": [],
+            "images": ["public/images/section7/20.jpg"],
             "question": "Which vehicles are parked (stationed) as per regulations?",
             "options": [
                 {
@@ -487,7 +487,7 @@
         },
         {
             "questionsNumber": "23",
-            "images": [],
+            "images": ["public/images/section7/23.jpg"],
             "question": "Have you stopped correctly in this situation?",
             "options": [
                 {
@@ -509,7 +509,7 @@
         },
         {
             "questionsNumber": "24",
-            "images": [],
+            "images": ["public/images/section7/2.4jpg"],
             "question": "Where do you stop in the present situation?",
             "options": [
                 {
@@ -575,7 +575,7 @@
         },
         {
             "questionsNumber": "27",
-            "images": [],
+            "images": ["public/images/section7/27.jpg","public/images/section7/27-1.jpg"],
             "question": "Is the car parked properly immediately after the indicator?",
             "options": [
                 {
@@ -641,7 +641,7 @@
         },
         {
             "questionsNumber": "30",
-            "images": [],
+            "images": ["public/images/section7/30.jpg"],
             "question": "Which of the three cars is parked properly?",
             "options": [
                 {
@@ -685,7 +685,7 @@
         },
         {
             "questionsNumber": "32",
-            "images": [],
+            "images": ["public/images/section7/32.jpg"],
             "question": "How will you proceed on encountering the stop sign?",
             "options": [
                 {
@@ -795,7 +795,7 @@
         },
         {
             "questionsNumber": "37",
-            "images": [],
+            "images": ["public/images/section7/37.jpg"],
             "question": "Is parking allowed on a public road with a continuous longitudinal marking between the directions of movement?",
             "options": [
                 {

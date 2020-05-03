@@ -113,7 +113,7 @@
         },
         {
             "questionsNumber": "6",
-            "images": [],
+            "images": ["public/images/section14/6.jpg","public/images/section14/6-1.jpg"],
             "question": "On meeting the indicator, you will be required:",
             "options": [
                 {
@@ -443,7 +443,7 @@
         },
         {
             "questionsNumber": "21",
-            "images": [],
+            "images": ["public/images/section14/21.jpg"],
             "question": "When it rains will you switch on the rear fog lights?",
             "options": [
                 {
@@ -1015,7 +1015,7 @@
         },
         {
             "questionsNumber": "47",
-            "images": [],
+            "images": ["public/images/section14/47.jpg"],
             "question": "What is forbidden in this situation?",
             "options": [
                 {
@@ -1059,7 +1059,7 @@
         },
         {
             "questionsNumber": "49",
-            "images": [],
+            "images": ["public/images/section14/49.jpg","public/images/section14/49-1.jpg"],
             "question": "What do you do to use your cell phone when you do not have a hands-free system?",
             "options": [
                 {
@@ -1433,7 +1433,7 @@
         },
         {
             "questionsNumber": "66",
-            "images": [],
+            "images": ["public/images/section14/66.jpg"],
             "question": "What do you keep in mind to avoid an accident, in this case?",
             "options": [
                 {
@@ -1455,7 +1455,7 @@
         },
         {
             "questionsNumber": "67",
-            "images": [],
+            "images": ["public/images/section14/67.jpg"],
             "question": "In this case, besides the low beam you must use:",
             "options": [
                 {
@@ -1587,7 +1587,7 @@
         },
         {
             "questionsNumber": "73",
-            "images": [],
+            "images": ["public/images/section14/73.jpg"],
             "question": "Are you allowed to horn a cyclist before overtaking?",
             "options": [
                 {
@@ -1961,7 +1961,7 @@
         },
         {
             "questionsNumber": "90",
-            "images": [],
+            "images": ["public/images/section14/90.jpg"],
             "question": "How will you proceed if the intersection is blocked by congested traffic?",
             "options": [
                 {
@@ -2335,7 +2335,7 @@
         },
         {
             "questionsNumber": "107",
-            "images": [],
+            "images": ["public/images/section14/107.jpg"],
             "question": "A bus in front signals to exit from a station that has a bus bay. What do you do?",
             "options": [
                 {

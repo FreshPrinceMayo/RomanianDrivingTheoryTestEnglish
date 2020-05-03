@@ -70,7 +70,7 @@
         },
         {
             "questionsNumber": "4",
-            "images": [],
+            "images": ["public/images/section11/4.jpg"],
             "question": "Which of the three vehicles will pass through the intersection last?",
             "options": [
                 {
@@ -92,7 +92,7 @@
         },
         {
             "questionsNumber": "5",
-            "images": [],
+            "images": ["public/images/section11/5.jpg"],
             "question": "What will you do on meeting the indicator and this panel?",
             "options": [
                 {
@@ -158,7 +158,7 @@
         },
         {
             "questionsNumber": "8",
-            "images": [],
+            "images": ["public/images/section11/8.jpg"],
             "question": "What is order in which vehicles move through the intersection?",
             "options": [
                 {
@@ -180,7 +180,7 @@
         },
         {
             "questionsNumber": "9",
-            "images": [],
+            "images": ["public/images/section11/9.jpg"],
             "question": "Which vehicles have the right of way?",
             "options": [
                 {
@@ -202,7 +202,7 @@
         },
         {
             "questionsNumber": "10",
-            "images": [],
+            "images": ["public/images/section11/10.jpg"],
             "question": "What is the order in which vehicles pass through the intersection?",
             "options": [
                 {
@@ -312,7 +312,7 @@
         },
         {
             "questionsNumber": "15",
-            "images": [],
+            "images": ["public/images/section11/15.jpg"],
             "question": "Which of the three vehicle passes through the intersection last?",
             "options": [
                 {
@@ -334,7 +334,7 @@
         },
         {
             "questionsNumber": "16",
-            "images": [],
+            "images": ["public/images/section11/16.jpg","public/images/section11/16-1.jpg"],
             "question": "In the first intersection you will give way:",
             "options": [
                 {
@@ -378,7 +378,7 @@
         },
         {
             "questionsNumber": "18",
-            "images": [],
+            "images": ["public/images/section11/18.jpg"],
             "question": "In this situation, you should you give way to:",
             "options": [
                 {
@@ -422,7 +422,7 @@
         },
         {
             "questionsNumber": "20",
-            "images": [],
+            "images": ["public/images/section11/20.jpg"],
             "question": "What do you do in the following intersection?",
             "options": [
                 {
@@ -444,7 +444,7 @@
         },
         {
             "questionsNumber": "21",
-            "images": [],
+            "images": ["public/images/section11/21.jpg"],
             "question": "What is the sequence in which the three vehicles pass through the intersection?",
             "options": [
                 {
@@ -466,7 +466,7 @@
         },
         {
             "questionsNumber": "22",
-            "images": [],
+            "images": ["public/images/section11/22.jpg"],
             "question": "What will you do in this case?",
             "options": [
                 {
@@ -488,7 +488,7 @@
         },
         {
             "questionsNumber": "23",
-            "images": [],
+            "images": ["public/images/section11/23.jpg"],
             "question": "What do you do in this situation?",
             "options": [
                 {
@@ -510,7 +510,7 @@
         },
         {
             "questionsNumber": "24",
-            "images": [],
+            "images": ["public/images/section11/24.jpg"],
             "question": "Who has priority on the narrow road?",
             "options": [
                 {
@@ -532,7 +532,7 @@
         },
         {
             "questionsNumber": "25",
-            "images": [],
+            "images": ["public/images/section11/25.jpg"],
             "question": "Which of the two vehicles will enter the intersection first?",
             "options": [
                 {
@@ -576,7 +576,7 @@
         },
         {
             "questionsNumber": "27",
-            "images": [],
+            "images": ["public/images/section11/27.jpg","public/images/section11/27-1.jpg"],
             "question": "What are your obligations under the circumstances?",
             "options": [
                 {
@@ -598,7 +598,7 @@
         },
         {
             "questionsNumber": "28",
-            "images": [],
+            "images": ["public/images/section11/28.jpg"],
             "question": "What is the sequence in which vehicles move through the intersection?",
             "options": [
                 {
@@ -620,7 +620,7 @@
         },
         {
             "questionsNumber": "29",
-            "images": [],
+            "images": ["public/images/section11/29.jpg","public/images/section11/29-1.jpg"],
             "question": "Do you have to give way to the gray car if it turns left?",
             "options": [
                 {
@@ -642,7 +642,7 @@
         },
         {
             "questionsNumber": "30",
-            "images": [],
+            "images": ["public/images/section11/30.jpg"],
             "question": "What do you do in the present situation, if you are driving the green car?",
             "options": [
                 {
@@ -686,7 +686,7 @@
         },
         {
             "questionsNumber": "32",
-            "images": [],
+            "images": ["public/images/section11/32.jpg"],
             "question": "In this case do you have to grant the right of way to the car coming from the right?",
             "options": [
                 {
@@ -708,7 +708,7 @@
         },
         {
             "questionsNumber": "33",
-            "images": [],
+            "images": ["public/images/section11/33.jpg"],
             "question": "Which vehicles crossing the intersection have the right of way?",
             "options": [
                 {
@@ -752,7 +752,7 @@
         },
         {
             "questionsNumber": "35",
-            "images": [],
+            "images": ["public/images/section11/35.jpg"],
             "question": "What obligations do you have if you are driving the blue car?",
             "options": [
                 {
@@ -862,7 +862,7 @@
         },
         {
             "questionsNumber": "40",
-            "images": [],
+            "images": ["public/images/section11/40.jpg"],
             "question": "Which vehicle enters the intersection first?",
             "options": [
                 {
@@ -884,7 +884,7 @@
         },
         {
             "questionsNumber": "41",
-            "images": [],
+            "images": ["public/images/section11/41.jpg"],
             "question": "In the first intersection:",
             "options": [
                 {
@@ -928,7 +928,7 @@
         },
         {
             "questionsNumber": "43",
-            "images": [],
+            "images": ["public/images/section11/43.jpg"],
             "question": "In what sequence will the cars pass through the intersection with the yellow traffic lights flashing?",
             "options": [
                 {
@@ -949,8 +949,8 @@
             ]
         },
         {
-            "questionsNumber": "44 What is the order in which the vehicles pass through the intersection, if the lights are not working?",
-            "images": [],
+            "questionsNumber": "44",
+            "images": ["public/images/section11/44.jpg"],
             "question": "What is the order in which the vehicles pass through the intersection, if the lights are not working?",
             "options": [
                 {
@@ -971,8 +971,8 @@
             ]
         },
         {
-            "questionsNumber": "45 How will you proceed in the intersection if you are driving on the priority road?",
-            "images": [],
+            "questionsNumber": "45",
+            "images": ["public/images/section11/45.jpg","public/images/section11/45-1.jpg"],
             "question": "How will you proceed in the intersection if you are driving on the priority road?",
             "options": [
                 {
@@ -994,7 +994,7 @@
         },
         {
             "questionsNumber": "46",
-            "images": [],
+            "images": ["public/images/section11/46.jpg"],
             "question": "Which of the vehicles must give way to pedestrians?",
             "options": [
                 {
@@ -1016,7 +1016,7 @@
         },
         {
             "questionsNumber": "47",
-            "images": [],
+            "images": ["public/images/section11/47.jpg"],
             "question": "How do you proceed correctly in this situation?",
             "options": [
                 {
@@ -1038,7 +1038,7 @@
         },
         {
             "questionsNumber": "48",
-            "images": [],
+            "images": ["public/images/section11/48.jpg"],
             "question": "You turn left at the intersection. How should you proceed?",
             "options": [
                 {
@@ -1060,7 +1060,7 @@
         },
         {
             "questionsNumber": "49",
-            "images": [],
+            "images": ["public/images/section11/49.jpg"],
             "question": "What do you do in this situation?",
             "options": [
                 {
@@ -1082,7 +1082,7 @@
         },
         {
             "questionsNumber": "50",
-            "images": [],
+            "images": ["public/images/section11/50.jpg"],
             "question": "Which car is placed correctly to cross the intersection?",
             "options": [
                 {
@@ -1104,7 +1104,7 @@
         },
         {
             "questionsNumber": "51",
-            "images": [],
+            "images": ["public/images/section11/51.jpg"],
             "question": "What is the sequence in which the vehicles pass through the intersection?",
             "options": [
                 {
@@ -1126,7 +1126,7 @@
         },
         {
             "questionsNumber": "52",
-            "images": [],
+            "images": ["public/images/section11/52.jpg"],
             "question": "Which of the three vehicles do not have priority to pass?",
             "options": [
                 {
@@ -1148,7 +1148,7 @@
         },
         {
             "questionsNumber": "53",
-            "images": [],
+            "images": ["public/images/section11/53.jpg"],
             "question": "What is the sequence to pass through the intersection, if all the vehicles reach at the same time?",
             "options": [
                 {
@@ -1170,7 +1170,7 @@
         },
         {
             "questionsNumber": "54",
-            "images": [],
+            "images": ["public/images/section11/54.jpg"],
             "question": "To steer left:",
             "options": [
                 {
@@ -1192,7 +1192,7 @@
         },
         {
             "questionsNumber": "55",
-            "images": [],
+            "images": ["public/images/section11/55.jpg","public/images/section11/55-1.jpg"],
             "question": "In this case:",
             "options": [
                 {
@@ -1280,7 +1280,7 @@
         },
         {
             "questionsNumber": "59",
-            "images": [],
+            "images": ["public/images/section11/59.jpg"],
             "question": "To whom must you grant the right of way if you are driving the car blue?",
             "options": [
                 {
@@ -1302,7 +1302,7 @@
         },
         {
             "questionsNumber": "60",
-            "images": [],
+            "images": ["public/images/section11/60.jpg"],
             "question": "What should you keep in mind, if you intend to drive right after the car in front?",
             "options": [
                 {
@@ -1324,7 +1324,7 @@
         },
         {
             "questionsNumber": "61",
-            "images": [],
+            "images": ["public/images/section11/61.jpg"],
             "question": "In what sequence will the cars pass through the intersection?",
             "options": [
                 {
@@ -1346,7 +1346,7 @@
         },
         {
             "questionsNumber": "62",
-            "images": [],
+            "images": ["public/images/section11/62.jpg"],
             "question": "What do you do in this situation?",
             "options": [
                 {
@@ -1368,7 +1368,7 @@
         },
         {
             "questionsNumber": "63",
-            "images": [],
+            "images": ["public/images/section11/63.jpg"],
             "question": "What is the sequence in which the vehicles will cross the intersection?",
             "options": [
                 {
@@ -1412,7 +1412,7 @@
         },
         {
             "questionsNumber": "65",
-            "images": [],
+            "images": ["public/images/section11/65.jpg","public/images/section11/65-1.jpg"],
             "question": "How will you proceed in the following intersection?",
             "options": [
                 {
@@ -1434,7 +1434,7 @@
         },
         {
             "questionsNumber": "66",
-            "images": [],
+            "images": ["public/images/section11/66.jpg"],
             "question": "You intend to turn right. What do you do?",
             "options": [
                 {
@@ -1456,7 +1456,7 @@
         },
         {
             "questionsNumber": "67",
-            "images": [],
+            "images": ["public/images/section11/67.jpg"],
             "question": "What do you do in this situation, if you are driving the red car?",
             "options": [
                 {
@@ -1500,7 +1500,7 @@
         },
         {
             "questionsNumber": "69",
-            "images": [],
+            "images": ["public/images/section11/69.jpg"],
             "question": "In what sequence will the three vehicles pass through the intersection?",
             "options": [
                 {
@@ -1522,7 +1522,7 @@
         },
         {
             "questionsNumber": "70",
-            "images": [],
+            "images": ["public/images/section11/70.jpg"],
             "question": "Which of the three vehicles will pass through the intersection first?",
             "options": [
                 {
@@ -1566,7 +1566,7 @@
         },
         {
             "questionsNumber": "72",
-            "images": [],
+            "images": ["public/images/section11/72.jpg"],
             "question": "What is the sequence in which the vehicles cross the intersection?",
             "options": [
                 {
@@ -1588,7 +1588,7 @@
         },
         {
             "questionsNumber": "73",
-            "images": [],
+            "images": ["public/images/section11/73.jpg"],
             "question": "Which vehicle will pass through the intersection first?",
             "options": [
                 {
@@ -1610,7 +1610,7 @@
         },
         {
             "questionsNumber": "74",
-            "images": [],
+            "images": ["public/images/section11/74.jpg"],
             "question": "What will you do if you are in the red car and an official column is approaching?",
             "options": [
                 {
@@ -1632,7 +1632,7 @@
         },
         {
             "questionsNumber": "75",
-            "images": [],
+            "images": ["public/images/section11/75.jpg"],
             "question": "You intend to turn right. What will you do with the pedestrians crossing the street correctly?",
             "options": [
                 {
@@ -1654,7 +1654,7 @@
         },
         {
             "questionsNumber": "76",
-            "images": [],
+            "images": ["public/images/section11/76.jpg"],
             "question": "In what sequence will the vehicles pass through the intersection?",
             "options": [
                 {
@@ -1676,7 +1676,7 @@
         },
         {
             "questionsNumber": "77",
-            "images": [],
+            "images": ["public/images/section11/77.jpg"],
             "question": "What should the driver of the green car do in this situation?",
             "options": [
                 {
@@ -1698,7 +1698,7 @@
         },
         {
             "questionsNumber": "78",
-            "images": [],
+            "images": ["public/images/section11/78.jpg"],
             "question": "In this situation, do you have priority over oncoming vehicles?",
             "options": [
                 {
@@ -1720,7 +1720,7 @@
         },
         {
             "questionsNumber": "79",
-            "images": [],
+            "images": ["public/images/section11/79.jpg"],
             "question": "Which of the three vehicles passes through the intersection last?",
             "options": [
                 {
@@ -1742,7 +1742,7 @@
         },
         {
             "questionsNumber": "80",
-            "images": [],
+            "images": ["public/images/section11/80.jpg","public/images/section11/80-1.jpg"],
             "question": "What will you do in this situation, if the traffic lights do not work?",
             "options": [
                 {
@@ -1764,7 +1764,7 @@
         },
         {
             "questionsNumber": "81",
-            "images": [],
+            "images": ["public/images/section11/81.jpg"],
             "question": "What will you do in this situation?",
             "options": [
                 {
@@ -1786,7 +1786,7 @@
         },
         {
             "questionsNumber": "82",
-            "images": [],
+            "images": ["public/images/section11/82.jpg"],
             "question": "What should you do if you drive straight and the traffic light has the yellow flashing light?",
             "options": [
                 {
@@ -1830,7 +1830,7 @@
         },
         {
             "questionsNumber": "84",
-            "images": [],
+            "images": ["public/images/section11/84.jpg"],
             "question": "Which vehicle will cross in the intersection first?",
             "options": [
                 {
@@ -1852,7 +1852,7 @@
         },
         {
             "questionsNumber": "85",
-            "images": [],
+            "images": ["public/images/section11/85.jpg"],
             "question": "Which vehicle will cross the intersection last?",
             "options": [
                 {
@@ -1874,7 +1874,7 @@
         },
         {
             "questionsNumber": "86",
-            "images": [],
+            "images": ["public/images/section11/86.jpg"],
             "question": "To which car must you grant the right of way?",
             "options": [
                 {
@@ -1918,7 +1918,7 @@
         },
         {
             "questionsNumber": "88",
-            "images": [],
+            "images": ["public/images/section11/88.jpg"],
             "question": "In what sequence will the vehicles cross the intersection?",
             "options": [
                 {
@@ -1962,7 +1962,7 @@
         },
         {
             "questionsNumber": "90",
-            "images": [],
+            "images": ["public/images/section11/90.jpg"],
             "question": "In what sequence will vehicles pass through the intersection?",
             "options": [
                 {
@@ -1984,7 +1984,7 @@
         },
         {
             "questionsNumber": "91",
-            "images": [],
+            "images": ["public/images/section11/91.jpg","public/images/section11/91-1.jpg"],
             "question": "What is the correct way to leave the priority road?",
             "options": [
                 {
@@ -2006,7 +2006,7 @@
         },
         {
             "questionsNumber": "92",
-            "images": [],
+            "images": ["public/images/section11/92.jpg"],
             "question": "Which of the three vehicles will pass through the intersection second?",
             "options": [
                 {
@@ -2094,7 +2094,7 @@
         },
         {
             "questionsNumber": "96",
-            "images": [],
+            "images": ["public/images/section11/96.jpg"],
             "question": "What will you do if you are driving the car?",
             "options": [
                 {
@@ -2160,7 +2160,7 @@
         },
         {
             "questionsNumber": "99",
-            "images": [],
+            "images": ["public/images/section11/99.jpg"],
             "question": "What should you do, if you are driving the car?",
             "options": [
                 {
@@ -2248,7 +2248,7 @@
         },
         {
             "questionsNumber": "103",
-            "images": [],
+            "images": ["public/images/section11/103.jpg"],
             "question": "In what sequence will the four vehicles pass through the intersection?",
             "options": [
                 {
@@ -2270,7 +2270,7 @@
         },
         {
             "questionsNumber": "104",
-            "images": [],
+            "images": ["public/images/section11/104.jpg"],
             "question": "Which vehicle will pass through the intersection second?",
             "options": [
                 {
@@ -2292,7 +2292,7 @@
         },
         {
             "questionsNumber": "105",
-            "images": [],
+            "images": ["public/images/section11/105.jpg"],
             "question": "What will you do in the first intersection?",
             "options": [
                 {
@@ -2336,7 +2336,7 @@
         },
         {
             "questionsNumber": "107",
-            "images": [],
+            "images": ["public/images/section11/107.jpg"],
             "question": "In what sequence will the cars pass through the intersection?",
             "options": [
                 {
@@ -2358,7 +2358,7 @@
         },
         {
             "questionsNumber": "108",
-            "images": [],
+            "images": ["public/images/section11/108.jpg"],
             "question": "In this situation, you have to:",
             "options": [
                 {

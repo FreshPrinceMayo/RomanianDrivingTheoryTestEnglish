@@ -69,7 +69,7 @@
         },
         {
             "questionsNumber": "4",
-            "images": [],
+            "images": ["public/images/section10/4.jpg"],
             "question": "Are you properly placed to use the first exit on the highway?",
             "options": [
                 {
@@ -179,7 +179,7 @@
         },
         {
             "questionsNumber": "9",
-            "images": [],
+            "images": ["public/images/section10/9.jpg","public/images/section10/9-1.jpg"],
             "question": "The maximum authorized speed on highways for vehicles in categories A and B is:",
             "options": [
                 {
@@ -201,7 +201,7 @@
         },
         {
             "questionsNumber": "10",
-            "images": [],
+            "images": ["public/images/section10/10.jpg"],
             "question": "What is the significance of this road marking?",
             "options": [
                 {
@@ -245,7 +245,7 @@
         },
         {
             "questionsNumber": "12",
-            "images": [],
+            "images": ["public/images/section10/12.jpg","public/images/section10/12-1.jpg"],
             "question": "Is it allowed to do a U-turn on the highway?",
             "options": [
                 {
@@ -267,7 +267,7 @@
         },
         {
             "questionsNumber": "13",
-            "images": [],
+            "images": ["public/images/section10/13.jpg"],
             "question": "If you want to leave the highway:",
             "options": [
                 {
@@ -355,7 +355,7 @@
         },
         {
             "questionsNumber": "17",
-            "images": [],
+            "images": ["public/images/section10/17.jpg"],
             "question": "How do you proceed if you intend to leave the highway from this place?",
             "options": [
                 {
@@ -421,7 +421,7 @@
         },
         {
             "questionsNumber": "20",
-            "images": [],
+            "images": ["public/images/section10/20.jpg"],
             "question": "You want to leave the highway. What do you do in this situation?",
             "options": [
                 {
@@ -487,7 +487,7 @@
         },
         {
             "questionsNumber": "23",
-            "images": [],
+            "images": ["public/images/section10/23.jpg"],
             "question": "Which car continues to move through the intersection?",
             "options": [
                 {
@@ -553,7 +553,7 @@
         },
         {
             "questionsNumber": "26",
-            "images": [],
+            "images": ["public/images/section10/26.jpg"],
             "question": "What is the correct route to be taken by the car in the picture?",
             "options": [
                 {
@@ -685,7 +685,7 @@
         },
         {
             "questionsNumber": "32",
-            "images": [],
+            "images": ["public/images/section10/32.jpg","public/images/section10/32-1.jpg"],
             "question": "Which of the cars is stationing (parking) correctly?",
             "options": [
                 {
@@ -707,7 +707,7 @@
         },
         {
             "questionsNumber": "33",
-            "images": [],
+            "images": ["public/images/section10/33.jpg"],
             "question": "The indicator states that:",
             "options": [
                 {
