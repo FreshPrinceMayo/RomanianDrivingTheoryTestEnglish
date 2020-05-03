@@ -19,7 +19,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Is required to comply with the light signals, if another traffic light is installed at the entrance of the intersection and has a similar signal.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -31,7 +31,7 @@
                 {
                     "questionLetter": "A",
                     "text": "No vehicle, except for firefighters, ambulances and the police acting on urgent or intervening missions",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -63,7 +63,7 @@
                 {
                     "questionLetter": "C",
                     "text": "By the meaning of the light.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -85,7 +85,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Stop and wait for it to get decongested, and then proceed on the green light.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -107,7 +107,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Reduce speed and circulate respecting the rules applicable in that intersection.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -124,7 +124,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Obliges drivers to reduce speed and respect traffic rules applicable in that intersection",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -151,7 +151,7 @@
                 {
                     "questionLetter": "C",
                     "text": "To stop the vehicle before the stop marking, or at the marking for pedestrians, or at the light.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -173,7 +173,7 @@
                 {
                     "questionLetter": "C",
                     "text": "To reduce speed and take the vehicle off the lane or ride close to the kerb.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -195,7 +195,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Grant priority to such vehicles.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -207,7 +207,7 @@
                 {
                     "questionLetter": "A",
                     "text": "You can go forward or left",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -229,7 +229,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To stop immediately, close to the kerb or margin of the road, in the direction of travel",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -256,7 +256,7 @@
                 {
                     "questionLetter": "B",
                     "text": "To drive at reduced speeds",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -278,7 +278,7 @@
                 {
                     "questionLetter": "B",
                     "text": "The driver of the car behind the car, as he has not kept a safe distance",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -295,7 +295,7 @@
                 {
                     "questionLetter": "A",
                     "text": "That the next intersection is guided by light signals",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -317,7 +317,7 @@
                 {
                     "questionLetter": "A",
                     "text": "You are prohibited from entering the intersection",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -339,7 +339,7 @@
                 {
                     "questionLetter": "A",
                     "text": "It is forcing both, the drivers and pedestrians to stop",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -366,12 +366,12 @@
                 {
                     "questionLetter": "B",
                     "text": "You will drive at reduced speeds",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "You shall comply with the road signs and traffic rules applicable in that place.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -383,7 +383,7 @@
                 {
                     "questionLetter": "A",
                     "text": "In any direction, if there aren’t other signals indicating other directions",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -405,7 +405,7 @@
                 {
                     "questionLetter": "A",
                     "text": "You must comply with the traffic rules applicable in that intersection",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -427,7 +427,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Stop, without exceeding the railroad, ensure and keep moving if no train is approaching",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -449,7 +449,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Requires both vehicle drivers and pedestrians to stop",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -471,7 +471,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes, because the suspended traffic light is green",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -498,7 +498,7 @@
                 {
                     "questionLetter": "B",
                     "text": "To oncoming vehicles and pedestrians crossing the street he is entering",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -525,7 +525,7 @@
                 {
                     "questionLetter": "C",
                     "text": "To grant priority to the ambulance.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -547,7 +547,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Yes.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -564,7 +564,7 @@
                 {
                     "questionLetter": "B",
                     "text": "You should reduce speed and follow traffic rules",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -574,7 +574,7 @@
             ]
         },
         {
-            "questionsNumber": "28 Which of the vehicles can continue moving?",
+            "questionsNumber": "28",
             "images": [],
             "question": "Which of the vehicles can continue moving?",
             "options": [
@@ -586,7 +586,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Bus and truck",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -603,7 +603,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Traffic inspectors from the Ministry of Defense",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -625,7 +625,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Two",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -652,7 +652,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Stop and wait for the green light",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -679,7 +679,7 @@
                 {
                     "questionLetter": "C",
                     "text": "To travel only in that direction, regardless of the light signal.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -691,7 +691,7 @@
                 {
                     "questionLetter": "A",
                     "text": "At the traffic signals of the Ministry of Defense",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -718,7 +718,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Red or yellow",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -745,7 +745,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Respect the indication of light signal installed above the lane",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -762,7 +762,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Respect the indication of the traffic light",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -789,7 +789,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Reduce speed and comply with the signaling and traffic rules applicable in that area.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -811,7 +811,7 @@
                 {
                     "questionLetter": "C",
                     "text": "To drive forward or right.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -823,7 +823,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To reduce speed, move closer to the road margin in the direction of travel and grant priority",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -845,7 +845,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Execute the same maneuver, if there are no other obligations",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -877,7 +877,7 @@
                 {
                     "questionLetter": "C",
                     "text": "When they meet the “Straight or right” indicator.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -899,7 +899,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Grant priority to both, oncoming vehicles and pedestrians crossing your direction of travel.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -921,7 +921,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Prohibits from entering the intersection if the vehicle can be stopped safely.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -933,7 +933,7 @@
                 {
                     "questionLetter": "A",
                     "text": "None",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -960,7 +960,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Require drivers, regardless of the direction of travel, to stop",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -977,7 +977,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Reduce speed and cross the intersection",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",

@@ -9,7 +9,7 @@
                 {
                     "questionLetter": "A",
                     "text": "When the roadway is covered with slime",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -31,7 +31,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Not to exceed a speed of 50 km/h, as there is a potentially dangerous curve to the right",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -58,7 +58,7 @@
                 {
                     "questionLetter": "B",
                     "text": "50 km/h",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -80,7 +80,7 @@
                 {
                     "questionLetter": "B",
                     "text": "At a speed that allows stopping to grant priority to traffic participants who have this right",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -97,7 +97,7 @@
                 {
                     "questionLetter": "A",
                     "text": "90 km/h on highways, 80 km/h on expressways or European national roads and 70 km/h on other types of roads",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -124,7 +124,7 @@
                 {
                     "questionLetter": "B",
                     "text": "At railway level crossings",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -141,7 +141,7 @@
                 {
                     "questionLetter": "A",
                     "text": "In intersections.",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -168,7 +168,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Yes",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -185,7 +185,7 @@
                 {
                     "questionLetter": "A",
                     "text": "100 km/h",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -217,7 +217,7 @@
                 {
                     "questionLetter": "C",
                     "text": "At a speed not exceeding 30 km/h in towns and 50 km/h outside towns.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -229,7 +229,7 @@
                 {
                     "questionLetter": "A",
                     "text": "The speed must be adapted to the new lighting conditions",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -251,7 +251,7 @@
                 {
                     "questionLetter": "A",
                     "text": "When visibility is less than 100 m in conditions of fog, heavy rain and snow",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -273,7 +273,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Do not increase speed and drive on the right side of the road, allowing the car to overtake",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -300,7 +300,7 @@
                 {
                     "questionLetter": "B",
                     "text": "50 km / h",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -317,7 +317,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Drive only on the lane close to the margin",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -339,12 +339,12 @@
                 {
                     "questionLetter": "A",
                     "text": "Within the range of the warning indicator \"Accident\"",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "When visibility is less than 100 m, due to fog",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -366,7 +366,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Drive at reduced speeds and brake carefully to gauge how your vehicle reacts",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -393,7 +393,7 @@
                 {
                     "questionLetter": "C",
                     "text": "No.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -405,12 +405,12 @@
                 {
                     "questionLetter": "A",
                     "text": "At a speed not exceeding 50 km/h",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "At a speed which allows you to maneuver safely",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -427,17 +427,17 @@
                 {
                     "questionLetter": "A",
                     "text": "Of authorized workers on the public roads",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "Of railway officers",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "Of border guards.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -459,7 +459,7 @@
                 {
                     "questionLetter": "C",
                     "text": "A mandatory minimum.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -481,7 +481,7 @@
                 {
                     "questionLetter": "C",
                     "text": "110 km/h.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -493,7 +493,7 @@
                 {
                     "questionLetter": "A",
                     "text": "70 km/h",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -515,12 +515,12 @@
                 {
                     "questionLetter": "A",
                     "text": "To comply with the maximum speed which corresponds to the category of vehicle you drive",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "To comply with speed limits imposed by specific signaling",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -542,7 +542,7 @@
                 {
                     "questionLetter": "B",
                     "text": "When another vehicle is overtaking you",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -564,7 +564,7 @@
                 {
                     "questionLetter": "B",
                     "text": "20 km / h",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -586,12 +586,12 @@
                 {
                     "questionLetter": "B",
                     "text": "Not to increase speed",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "To drive as close as possible to the margin of the road or lane you are driving.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -603,7 +603,7 @@
                 {
                     "questionLetter": "A",
                     "text": "When you pass by organized groups, military columns or processions, when the road has only one lane in each direction",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -635,7 +635,7 @@
                 {
                     "questionLetter": "C",
                     "text": "90 km/h.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -657,7 +657,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Of not more than 5 km/h.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -669,12 +669,12 @@
                 {
                     "questionLetter": "A",
                     "text": "To comply with the statutory speed applicable to the road you travel",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "Adapt speed depending on road conditions so that you can perform any maneuver safely",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -691,7 +691,7 @@
                 {
                     "questionLetter": "A",
                     "text": "At railway level crossings with barriers",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -718,7 +718,7 @@
                 {
                     "questionLetter": "B",
                     "text": "90 km / h",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -745,7 +745,7 @@
                 {
                     "questionLetter": "C",
                     "text": "130 km / h.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -757,7 +757,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To drive at a speed, at least, equal to that prescribed by the indicator ‘Mandatory minimum speed’",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -779,7 +779,7 @@
                 {
                     "questionLetter": "A",
                     "text": "In the action area of the warning indicator ‘Children between the hours 07.00-22.00’",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -806,7 +806,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Maintain a proper distance from the car in front and watch out for other road users",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -823,7 +823,7 @@
                 {
                     "questionLetter": "A",
                     "text": "When another vehicle is overtaking you vehicle",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -855,7 +855,7 @@
                 {
                     "questionLetter": "C",
                     "text": "When the road is covered with frost, ice, snow, slime or wet cubic (cobble) stones.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -867,7 +867,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes, because the braking space increases",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -889,7 +889,7 @@
                 {
                     "questionLetter": "A",
                     "text": "At the indicator ‘Give Way’.",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -911,7 +911,7 @@
                 {
                     "questionLetter": "A",
                     "text": "130 km/h on highways, 100 km/h on expressways or European national roads and 90 km/h on other types of roads",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -938,7 +938,7 @@
                 {
                     "questionLetter": "B",
                     "text": "The speed should not exceed 30 km/h in towns and 50 km/h outside towns",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -965,7 +965,7 @@
                 {
                     "questionLetter": "C",
                     "text": "To drive at speeds greater than 60 km/h.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -977,7 +977,7 @@
                 {
                     "questionLetter": "A",
                     "text": "When you are overtaken",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1009,7 +1009,7 @@
                 {
                     "questionLetter": "C",
                     "text": "To stay in your lane and ensure your field of visibility.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1021,7 +1021,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Not to exceed the speed of 30 km/h between 7.00-22.00 am, being an area frequented by children",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1048,7 +1048,7 @@
                 {
                     "questionLetter": "B",
                     "text": "80 km/h",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1070,7 +1070,7 @@
                 {
                     "questionLetter": "B",
                     "text": "50 km/h",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1092,7 +1092,7 @@
                 {
                     "questionLetter": "B",
                     "text": "The speed that will surely give you the safety to stop and without losing control",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1109,7 +1109,7 @@
                 {
                     "questionLetter": "A",
                     "text": "10 km/h for trams and 30 km/h for all vehicles",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1131,7 +1131,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Not lesser than 30 km/h",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1163,7 +1163,7 @@
                 {
                     "questionLetter": "C",
                     "text": "20 km/h.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1175,7 +1175,7 @@
                 {
                     "questionLetter": "A",
                     "text": "A collision even at a speed of about 20 km/h increases the risk of injury",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1197,7 +1197,7 @@
                 {
                     "questionLetter": "A",
                     "text": "The road has only one lane for each direction and pedestrians engage to cross",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1219,7 +1219,7 @@
                 {
                     "questionLetter": "A",
                     "text": "When animals move alongside traffic on the road",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1246,7 +1246,7 @@
                 {
                     "questionLetter": "B",
                     "text": "80 km / h",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1273,7 +1273,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Up to 30 km/h in towns and 50 km/h outside towns.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1290,7 +1290,7 @@
                 {
                     "questionLetter": "B",
                     "text": "90 km / h",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1307,7 +1307,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Because the tyre grip decreases and the braking space increases",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1334,12 +1334,12 @@
                 {
                     "questionLetter": "B",
                     "text": "At the signals of border policemen",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "At the indicator ‘Dive Way’.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1356,7 +1356,7 @@
                 {
                     "questionLetter": "B",
                     "text": "A speed of 20 km/h",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1383,7 +1383,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Loss of steering control.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         }

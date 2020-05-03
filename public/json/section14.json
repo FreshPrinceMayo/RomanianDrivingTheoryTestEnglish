@@ -9,7 +9,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Members of school traffic patrols at pedestrian crossings near schools;",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -31,7 +31,7 @@
                 {
                     "questionLetter": "A",
                     "text": "In front of access roads leading to properties adjacent to public roads",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -41,19 +41,19 @@
                 {
                     "questionLetter": "C",
                     "text": "On slopes and ramps.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
         {
-            "questionsNumber": "3 Is it allowed to stand (park) on the roadway during the night on an unlit country road?",
+            "questionsNumber": "3",
             "images": [],
             "question": "Is it allowed to stand (park) on the roadway during the night on an unlit country road?",
             "options": [
                 {
                     "questionLetter": "A",
                     "text": "Yes, if the position (parking) lights are on",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -75,7 +75,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Throwing objects, substances or other goods from the vehicle",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -102,7 +102,7 @@
                 {
                     "questionLetter": "B",
                     "text": "No",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -119,7 +119,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To move carefully as it follows a curve to the left",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -151,7 +151,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Using the low beam.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -163,7 +163,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Whenever necessary to avoid any immediate danger",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -190,7 +190,7 @@
                 {
                     "questionLetter": "B",
                     "text": "No",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -207,7 +207,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Signals, instructions and directives of traffic cops; special signs, light or sound warnings from priority traffic regime vehicles; temporary signs",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -239,7 +239,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Devices that disrupt the operation of traffic surveillance equipment.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -251,7 +251,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Not to exceed the maximum authorized total mass recorded in the certificate of incorporation",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -261,7 +261,7 @@
                 {
                     "questionLetter": "C",
                     "text": "To be registered and comply with technical regulations.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -278,7 +278,7 @@
                 {
                     "questionLetter": "B",
                     "text": "To stop the vehicle",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -295,12 +295,12 @@
                 {
                     "questionLetter": "A",
                     "text": "A technically approved (homologated) flexible connection of 3-5 m, if the steering mechanism and brakes are not defective",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "A rigid bar, up to 4 m long",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -327,7 +327,7 @@
                 {
                     "questionLetter": "C",
                     "text": "From at least 25 m.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -349,7 +349,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Use the low beam and signal by changing low beam and high beam, when passing through undirected intersections.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -361,17 +361,17 @@
                 {
                     "questionLetter": "A",
                     "text": "A fire extinguisher",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "A first aid medical kit",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "Two reflective triangles.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -393,7 +393,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Allow the inspection of the technical condition of the vehicle and the goods transported.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -410,7 +410,7 @@
                 {
                     "questionLetter": "B",
                     "text": "When it has serious damage to the steering system",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -432,7 +432,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Yes, if the drivers of other vehicles have to cross over that mark",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -459,7 +459,7 @@
                 {
                     "questionLetter": "C",
                     "text": "No.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -471,12 +471,12 @@
                 {
                     "questionLetter": "A",
                     "text": "Children under 3 years, but transported in approved restraints",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "Drivers when performing the reverse maneuver or when stationary",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -493,7 +493,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes, only after the driver or passenger has ensured that it is not dangerous for the traffic",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -515,7 +515,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Can diminish a driver’s attention leading to risky situations during driving",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -547,7 +547,7 @@
                 {
                     "questionLetter": "C",
                     "text": "The driver refuses to identify himself.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -569,7 +569,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Cubic (cobble) stone roads.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -586,7 +586,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Stop the vehicle outside the roadway",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -608,7 +608,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Taxis, when boarding passengers, if traffic permits",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -625,7 +625,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Children are allowed to get in or descend only from the sidewalk",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -657,7 +657,7 @@
                 {
                     "questionLetter": "C",
                     "text": "To notify the nearest police station about obstacles or events that threaten traffic safety.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -679,7 +679,7 @@
                 {
                     "questionLetter": "C",
                     "text": "The examiner during the practical exam test.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -696,7 +696,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Have his identity card, driving license, registration certificate, and, where appropriate, professional certificate and other documents required by the law;",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -723,7 +723,7 @@
                 {
                     "questionLetter": "C",
                     "text": "The driver in front can brake or stop unexpectedly to ask for directions.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -745,7 +745,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Declare the loss, theft or destruction of registration certificate to the issuing authority, within 48h.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -762,7 +762,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Low-beam",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -789,7 +789,7 @@
                 {
                     "questionLetter": "C",
                     "text": "On motorways, expressways and national European roads.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -801,12 +801,12 @@
                 {
                     "questionLetter": "A",
                     "text": "By using the parking (position) lights",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "By installing the reflective triangles and using the emergency (blinking) lights",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -828,7 +828,7 @@
                 {
                     "questionLetter": "B",
                     "text": "By maintaining clean headlights at all times",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -850,7 +850,7 @@
                 {
                     "questionLetter": "B",
                     "text": "The instability of the vehicle increases during crosswinds",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -872,7 +872,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Focus attention, but adopt a relaxed driving posture, with full control over all road maneuvers which impact the safety of your trip",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -899,7 +899,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Keeps driving with the short beam, reduces speed and stops if necessary.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -921,7 +921,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Yes, by the driver and the passengers occupying seats equipped with seatbelts.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -938,7 +938,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Release the throttle, hold the steering wheel firmly in the direction of travel, being prepared to stabilize the vehicle after the impact by smoothly handling the steering wheel",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -965,7 +965,7 @@
                 {
                     "questionLetter": "C",
                     "text": "If an oncoming vehicle is approaching, at a distance of at least 200 m.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -982,7 +982,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Switch on the low beam",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1009,7 +1009,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Ambulances, with special light and sound signals.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1021,7 +1021,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To stop or station (park)",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1048,7 +1048,7 @@
                 {
                     "questionLetter": "B",
                     "text": "More than 30 days have passed from the date of damage",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1070,7 +1070,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Stop in the parking lot of a service complex",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1092,7 +1092,7 @@
                 {
                     "questionLetter": "B",
                     "text": "All persons",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1114,7 +1114,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Medicines or substances with a psychoactive effect",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1141,7 +1141,7 @@
                 {
                     "questionLetter": "C",
                     "text": "For occupants in the front seat to keep pets in their arms.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1158,7 +1158,7 @@
                 {
                     "questionLetter": "B",
                     "text": "When the vehicle is immobilized on the carriageway or while you are towed",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1175,7 +1175,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Being rested, and, for the vehicle to be in good technical condition",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1197,7 +1197,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Vehicles towing other vehicles or when transporting dangerous goods",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1219,7 +1219,7 @@
                 {
                     "questionLetter": "A",
                     "text": "The speed is increased",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1246,7 +1246,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Signaling the reverse movement with the reversing lights of the vehicle",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1273,7 +1273,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Use the low beam at a distance of at least 100 m.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1290,7 +1290,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Yes, if the trailer weight doesn’t exceed 750 kg",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1317,7 +1317,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Fine and penalty points.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1334,7 +1334,7 @@
                 {
                     "questionLetter": "B",
                     "text": "A vehicle not exceeding 3500 kg, whose number of seats, excluding that of the driver’s is not more than 8",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1361,7 +1361,7 @@
                 {
                     "questionLetter": "C",
                     "text": "In the back seat of the vehicle with the seatbelt fixed and adapted to their weight and size.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1378,7 +1378,7 @@
                 {
                     "questionLetter": "B",
                     "text": "When the vehicle is not insured against third party property damage in traffic accidents, as specified by the law",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1395,7 +1395,7 @@
                 {
                     "questionLetter": "A",
                     "text": "You drive at a speed that is safe, by maintaining a constant driving pace",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1427,7 +1427,7 @@
                 {
                     "questionLetter": "C",
                     "text": "To notify the nearest police station about events that endanger traffic safety.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1444,7 +1444,7 @@
                 {
                     "questionLetter": "B",
                     "text": "The person may turn around and run on the crosswalk without any reason",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1461,7 +1461,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Fog lights",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1488,7 +1488,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Travel with heightened attention",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1510,7 +1510,7 @@
                 {
                     "questionLetter": "B",
                     "text": "When signaled by traffic school patrols at pedestrian crossings near schools",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1527,7 +1527,7 @@
                 {
                     "questionLetter": "A",
                     "text": "The lighter vehicle",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1554,12 +1554,12 @@
                 {
                     "questionLetter": "B",
                     "text": "Persons who possess a document to this effect, issued by a specialized medical institution",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "Women with visible pregnancy.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1581,7 +1581,7 @@
                 {
                     "questionLetter": "C",
                     "text": "With the direction indicating lights.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1593,7 +1593,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes, if the distance is more than 25 m",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1615,17 +1615,17 @@
                 {
                     "questionLetter": "A",
                     "text": "Motorcycles and mopeds",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "Vehicles accompanying military vehicles or transporting groups of people",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "Vehicles towing other vehicles or when transporting dangerous goods.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1637,7 +1637,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To use mobile phones while driving, without the hands-free system",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1659,7 +1659,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Before leaving on a trip, when the tires are cold",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1691,7 +1691,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Anticipate and counter reckless driving maneuvers by other drivers and always follow the rules.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1713,7 +1713,7 @@
                 {
                     "questionLetter": "C",
                     "text": "At least 200 m.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1730,7 +1730,7 @@
                 {
                     "questionLetter": "B",
                     "text": "To open the door only when traffic permits",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1752,7 +1752,7 @@
                 {
                     "questionLetter": "B",
                     "text": "In the annexure to a vehicle’s registration certificate",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1774,7 +1774,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Yes, but only in areas where regulations permit",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1791,17 +1791,17 @@
                 {
                     "questionLetter": "A",
                     "text": "At a distance of less than 50 m from railway level crossings",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "On mandatory pedestrian lanes",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "On railway or tramway platforms, if it is impeding rail or tram traffic.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1813,7 +1813,7 @@
                 {
                     "questionLetter": "A",
                     "text": "On one-way streets",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1835,7 +1835,7 @@
                 {
                     "questionLetter": "A",
                     "text": "The intention to change the direction of travel to the left",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1867,7 +1867,7 @@
                 {
                     "questionLetter": "C",
                     "text": "You live in that area.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1884,7 +1884,7 @@
                 {
                     "questionLetter": "B",
                     "text": "To reduce the speed in time, to avoid hasty driving maneuvers",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1901,7 +1901,7 @@
                 {
                     "questionLetter": "A",
                     "text": "At the issuing unit",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1933,7 +1933,7 @@
                 {
                     "questionLetter": "C",
                     "text": "When the owner provides proof of dismantling, scrapping or giving away a vehicle to specialized units, for dismantling.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1945,7 +1945,7 @@
                 {
                     "questionLetter": "A",
                     "text": "No",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1967,7 +1967,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Stop and wait for the intersection to be decongested and then continue moving if the traffic lights are still green",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1989,7 +1989,7 @@
                 {
                     "questionLetter": "A",
                     "text": "With all lights off",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -2011,7 +2011,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To drive with the approved beginners sign stuck on the windshield",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -2043,7 +2043,7 @@
                 {
                     "questionLetter": "C",
                     "text": "No.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -2060,7 +2060,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Pedestrians can use the full width of the carriageway",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -2077,7 +2077,7 @@
                 {
                     "questionLetter": "A",
                     "text": "At pedestrian crossings or less than 25 m, before and after them",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -2104,7 +2104,7 @@
                 {
                     "questionLetter": "B",
                     "text": "No",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -2121,7 +2121,7 @@
                 {
                     "questionLetter": "A",
                     "text": "During the hours of training with students",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -2143,7 +2143,7 @@
                 {
                     "questionLetter": "A",
                     "text": "A positive attitude in traffic, calmness, knowledge and politeness",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -2165,12 +2165,12 @@
                 {
                     "questionLetter": "A",
                     "text": "At a distance of less than 25 m before and after public transport stations",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "At a distance of less than 25 m from the corner of the intersection",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -2187,7 +2187,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To drive on the lane located close to the margin",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -2219,7 +2219,7 @@
                 {
                     "questionLetter": "C",
                     "text": "The vehicle has a failure or is being towed.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -2231,7 +2231,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To stop the vehicle promptly when a border guard signals so",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -2253,7 +2253,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To ensure that it will not affect the ability to drive",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -2280,7 +2280,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Require you to stop the vehicle immediately to allow the pedestrian to cross",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -2302,7 +2302,7 @@
                 {
                     "questionLetter": "B",
                     "text": "In the action area of the indicator ‘Stopping prohibited’ until the first intersection",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -2319,12 +2319,12 @@
                 {
                     "questionLetter": "A",
                     "text": "It exceeds the maximum allowed weight, registered in the registration certificate",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "The tires are of different sizes and characteristics, than those in the registration certificate",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -2346,7 +2346,7 @@
                 {
                     "questionLetter": "B",
                     "text": "You reduce speed and stop if necessary, to permit its departure from the bus station",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -2363,7 +2363,7 @@
                 {
                     "questionLetter": "A",
                     "text": "When they are towing other vehicles",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -2395,7 +2395,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Whenever necessary to avoid any immediate danger.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         }

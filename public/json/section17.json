@@ -9,7 +9,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Signal your return and maneuver safely to reenter the lane",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -36,7 +36,7 @@
                 {
                     "questionLetter": "B",
                     "text": "In junctions (intersections) where it is necessary to maneuver back and forth",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -58,7 +58,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Route 2",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -75,7 +75,7 @@
                 {
                     "questionLetter": "A",
                     "text": "At the intersection prior to which it is installed",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -107,7 +107,7 @@
                 {
                     "questionLetter": "C",
                     "text": "No.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -124,7 +124,7 @@
                 {
                     "questionLetter": "B",
                     "text": "No",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -151,7 +151,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Truck, car, trolley, motorcycle.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -168,7 +168,7 @@
                 {
                     "questionLetter": "B",
                     "text": "You stop and grant priority to the official vehicles.",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -195,7 +195,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Ensure from the back and signal the intention to move sequentially from the first lane to the second, and then the third.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -212,7 +212,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Allow the drivers of public transport vehicles to perform maneuvers to re-enter the lane, if the station is provided with a bay",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -229,7 +229,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To signal the change of direction of travel and grant priority to pedestrians crossing the street",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -256,7 +256,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Turn left",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -273,7 +273,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes, because the signal is green",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -305,7 +305,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Signal the intention to perform the maneuver, ensure, engage closer to the right edge of the road and then turn right.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -322,7 +322,7 @@
                 {
                     "questionLetter": "B",
                     "text": "The distance between the place where he has signaled his intention to overtake and the place where the vehicle changes position to start overtaking",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -349,7 +349,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Red car.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -366,7 +366,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Blue car",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -383,12 +383,12 @@
                 {
                     "questionLetter": "A",
                     "text": "When the driver is positioned in the right lane",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "When the street you are about to enter has the indicator ‘Circulation prohibited in both directions’.",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -415,7 +415,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Signal the changing of direction and grant priority to pedestrians.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -437,7 +437,7 @@
                 {
                     "questionLetter": "C",
                     "text": "In places where the firmness of the road does not allow.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -454,7 +454,7 @@
                 {
                     "questionLetter": "B",
                     "text": "The distance from signaling the intent to perform the maneuver and the place from where you change the direction of travel",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -476,7 +476,7 @@
                 {
                     "questionLetter": "B",
                     "text": "You allow the vehicle to perform the maneuver safely",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -493,7 +493,7 @@
                 {
                     "questionLetter": "A",
                     "text": "On the emergency lane",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -525,7 +525,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Release the accelerator pedal and turn slightly to the right.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -547,7 +547,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Only straight or right.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -564,7 +564,7 @@
                 {
                     "questionLetter": "B",
                     "text": "On the only remaining available lane, by leaving the tram route free",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -591,7 +591,7 @@
                 {
                     "questionLetter": "C",
                     "text": "When changing lanes, the direction of travel or when overtaking.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -603,7 +603,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Enter the intersection slowly and carefully with heightened attention",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -635,7 +635,7 @@
                 {
                     "questionLetter": "C",
                     "text": "In this place it is not permitted to park.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -652,7 +652,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Route 2",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -669,7 +669,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To signal in time and make sure that you perform the maneuver without disrupting traffic or endangering other road users",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -701,7 +701,7 @@
                 {
                     "questionLetter": "C",
                     "text": "The distance between the place where you signal the intention to overtake and the place where the maneuver begins.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -718,7 +718,7 @@
                 {
                     "questionLetter": "B",
                     "text": "You can be the first to cross",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -745,7 +745,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Route 3.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -757,7 +757,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To turn (u-turn) the vehicle",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -779,7 +779,7 @@
                 {
                     "questionLetter": "A",
                     "text": "On ramps (slopes), if visibility is less than 50 m",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -789,7 +789,7 @@
                 {
                     "questionLetter": "C",
                     "text": "At pedestrian crossings.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -801,7 +801,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Reduce speed and, if necessary, stop",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -828,7 +828,7 @@
                 {
                     "questionLetter": "B",
                     "text": "The left or right lane at a distance of at least 50 m",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -855,7 +855,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Yes.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -867,7 +867,7 @@
                 {
                     "questionLetter": "A",
                     "text": "In intersections that are not directed by light signals or traffic policemen",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -889,7 +889,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To allow vehicles traveling on the left lane to pass",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -911,7 +911,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -933,12 +933,12 @@
                 {
                     "questionLetter": "A",
                     "text": "In places with the indicator “Forbidden Return “",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "In places where stopping is prohibited, except for intersections",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -965,7 +965,7 @@
                 {
                     "questionLetter": "C",
                     "text": "At intersections where left turns are prohibited.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -987,7 +987,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Yes, because it is stationed (parked) on a pedestrian crossing and this is forbidden.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -999,7 +999,7 @@
                 {
                     "questionLetter": "A",
                     "text": "All participants in traffic, regardless of the situation",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1026,7 +1026,7 @@
                 {
                     "questionLetter": "B",
                     "text": "During the entire execution of the maneuver",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1048,7 +1048,7 @@
                 {
                     "questionLetter": "B",
                     "text": "No, because during the day you can apply the right priority rule",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1070,7 +1070,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Reduce speed",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1087,7 +1087,7 @@
                 {
                     "questionLetter": "A",
                     "text": "The lane nearest to the axis of the road, at a distance of at least 50 m",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1119,7 +1119,7 @@
                 {
                     "questionLetter": "C",
                     "text": "All four cars.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1136,7 +1136,7 @@
                 {
                     "questionLetter": "B",
                     "text": "In the action area of the indicator ‘Overtaking forbidden’",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1158,7 +1158,7 @@
                 {
                     "questionLetter": "B",
                     "text": "On the right lane, at a distance of at least 50 m",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1185,7 +1185,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Lane 4.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1202,7 +1202,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Prior to turning, the truck initially moves to the left, because of its size (gauge)",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1224,7 +1224,7 @@
                 {
                     "questionLetter": "B",
                     "text": "By turning left of the imaginary center of the intersection without intersecting the paths of oncoming vehicles that turn left",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1246,7 +1246,7 @@
                 {
                     "questionLetter": "B",
                     "text": "No, because it is within range of the indicator ‘Stopping prohibited’",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1263,7 +1263,7 @@
                 {
                     "questionLetter": "A",
                     "text": "In this case you are not permitted to change lanes due to the continuous line",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1290,7 +1290,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Green, red, blue",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1317,7 +1317,7 @@
                 {
                     "questionLetter": "C",
                     "text": "The front and back.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1339,7 +1339,7 @@
                 {
                     "questionLetter": "C",
                     "text": "When the lane on which the vehicle is moving is signaled by an indicator and directional marker to go forward.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1361,7 +1361,7 @@
                 {
                     "questionLetter": "C",
                     "text": "On pedestrian crossings.",
-                    "correct": false
+                    "correct": true    
                 }
             ]
         },
@@ -1373,7 +1373,7 @@
                 {
                     "questionLetter": "A",
                     "text": "When the rear visibility is not ensured",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1405,7 +1405,7 @@
                 {
                     "questionLetter": "C",
                     "text": "You cannot turn left, because you are on the lane to move forward or right and the green light obliges you to do so.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1422,7 +1422,7 @@
                 {
                     "questionLetter": "B",
                     "text": "You ensure and change direction to the right",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",

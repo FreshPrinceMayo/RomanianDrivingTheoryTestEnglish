@@ -9,12 +9,12 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes, if the vehicle in front has properly engaged to change the direction of travel to the left",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "Yes, if enough space was created this for maneuver",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -36,7 +36,7 @@
                 {
                     "questionLetter": "B",
                     "text": "In any place and situation where visibility does not allow for such a maneuver",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -58,7 +58,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Yes, because the discontinuous line permits this maneuver",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -75,7 +75,7 @@
                 {
                     "questionLetter": "A",
                     "text": "On roads where a column of cars has formed, forcing you to enter oncoming traffic",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -107,7 +107,7 @@
                 {
                     "questionLetter": "C",
                     "text": "In curves where visibility is reduced below 50 m.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -119,17 +119,17 @@
                 {
                     "questionLetter": "A",
                     "text": "In intersections marked with a priority indicator",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "In intersections directed by lights",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "In intersections directed by police.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -141,7 +141,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Animal-drawn vehicles, bicycles and motorcycles without sidecars",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -163,12 +163,12 @@
                 {
                     "questionLetter": "A",
                     "text": "At pedestrian crossings, signaled by indicators or markers",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "Less than 50 m from railway level crossings",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -190,7 +190,7 @@
                 {
                     "questionLetter": "B",
                     "text": "After granting priority to pedestrians and when the tram doors have closed",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -212,12 +212,12 @@
                 {
                     "questionLetter": "B",
                     "text": "On pedestrian crossings, at railway level crossings and less than 50 m from them",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "In situations where oncoming vehicles are forced to execute a maneuver to avoid a collision.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -229,7 +229,7 @@
                 {
                     "questionLetter": "A",
                     "text": "No",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -261,7 +261,7 @@
                 {
                     "questionLetter": "C",
                     "text": "At pedestrian crossings with signs and markings.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -278,7 +278,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Using the direction indicator lights",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -305,7 +305,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Yes, when there is not enough space for overtaking between the right rail of the tracks and the border.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -327,7 +327,7 @@
                 {
                     "questionLetter": "C",
                     "text": "You drive behind it until you can overtake the vehicle safely.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -349,7 +349,7 @@
                 {
                     "questionLetter": "C",
                     "text": "From the right.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -361,7 +361,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To ensure that the maneuver can be performed safely, signal the intention to change direction and then overtake",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -393,7 +393,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Yes.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -415,7 +415,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Yes.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -427,7 +427,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -449,7 +449,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -481,7 +481,7 @@
                 {
                     "questionLetter": "C",
                     "text": "To reduce speed.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -493,7 +493,7 @@
                 {
                     "questionLetter": "A",
                     "text": "The driver of the bus, as he is forcing the car to make a dangerous maneuver over the continuous line",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -515,7 +515,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes, if during the maneuver the speed is not higher than that stated on the indicator",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -547,7 +547,7 @@
                 {
                     "questionLetter": "C",
                     "text": "In unattended intersections.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -569,7 +569,7 @@
                 {
                     "questionLetter": "C",
                     "text": "No, because the bike overtakes the truck.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -591,7 +591,7 @@
                 {
                     "questionLetter": "C",
                     "text": "No, because the continuous line forbids.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -613,7 +613,7 @@
                 {
                     "questionLetter": "C",
                     "text": "You drive behind the animal-drawn vehicle until you have good visibility and can overtake safely.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -625,7 +625,7 @@
                 {
                     "questionLetter": "A",
                     "text": "In unattended intersections and signaled pedestrian crossings",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -652,7 +652,7 @@
                 {
                     "questionLetter": "B",
                     "text": "No, because the station has no platform for pedestrians",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -679,7 +679,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Yes.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -701,7 +701,7 @@
                 {
                     "questionLetter": "C",
                     "text": "No, because you are on a curve.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -718,7 +718,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Comply with the law",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -745,7 +745,7 @@
                 {
                     "questionLetter": "C",
                     "text": "By a fine and the suspension of the right to drive the vehicle.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -767,7 +767,7 @@
                 {
                     "questionLetter": "C",
                     "text": "To ensure and signal the intention to overtake.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -784,7 +784,7 @@
                 {
                     "questionLetter": "B",
                     "text": "On signaled pedestrian crossings",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -811,7 +811,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Reduce speed immediately and move closer to the right edge of the carriageway, to allow the vehicle to overtake and reenter the lane.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -823,7 +823,7 @@
                 {
                     "questionLetter": "A",
                     "text": "When you cross the continuous longitudinal marking",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -855,7 +855,7 @@
                 {
                     "questionLetter": "C",
                     "text": "No, because overtaking is prohibited in such circumstances.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -877,7 +877,7 @@
                 {
                     "questionLetter": "C",
                     "text": "At the indicator ‘Overtaking forbidden’.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -889,7 +889,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes, if you ensure that the maneuver can be executed after signaling properly",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -911,7 +911,7 @@
                 {
                     "questionLetter": "A",
                     "text": "No, as you have to maneuver on a bridge",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -933,12 +933,12 @@
                 {
                     "questionLetter": "A",
                     "text": "When the road is one-way",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "When there isn’t enough space for overtaking between the rails of the tram and the right margin",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -955,7 +955,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes, if you ensure and signal",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -987,7 +987,7 @@
                 {
                     "questionLetter": "C",
                     "text": "No, as a row of vehicles have stopped at the railway crossing and cannot be overtaken.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1004,7 +1004,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Yes, if the vehicle intends to turn left, and in case of trams",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1031,7 +1031,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Yes.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1043,7 +1043,7 @@
                 {
                     "questionLetter": "A",
                     "text": "No, because he did not ensure and did not signal his intention to overtake",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1070,7 +1070,7 @@
                 {
                     "questionLetter": "B",
                     "text": "The maneuver by a vehicle to pass in front of another vehicle or beside an obstacle located on the same direction of movement, by changing the direction of travel and exiting the lane or row of vehicles where it was originally travelling",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1087,7 +1087,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1119,7 +1119,7 @@
                 {
                     "questionLetter": "C",
                     "text": "No, as the indicator does not permit, as you are approaching a bridge",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1136,7 +1136,7 @@
                 {
                     "questionLetter": "B",
                     "text": "No, if the vehicle from the opposite direction is required to perform a maneuver to avoid a collision",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1153,7 +1153,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes, the law does not prohibit",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1180,7 +1180,7 @@
                 {
                     "questionLetter": "B",
                     "text": "No, because it is forbidden in this situation",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1202,7 +1202,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Yes, if the road is wide enough, and by overtaking you do not go over the road axis",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1219,7 +1219,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Both",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1241,7 +1241,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes, because the car signaled its intention to turn left and the remaining space allows the truck to pass from the right side",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1268,7 +1268,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Yes, if the intersections are controlled/directed.",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1290,7 +1290,7 @@
                 {
                     "questionLetter": "B",
                     "text": "He should not overtake",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1312,7 +1312,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Yes, because the discontinuous line is nearest to the direction of travel",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1334,7 +1334,7 @@
                 {
                     "questionLetter": "B",
                     "text": "No",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1356,7 +1356,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Yes",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1373,7 +1373,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes, he is proceeding correctly",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1405,7 +1405,7 @@
                 {
                     "questionLetter": "C",
                     "text": "He waits for the lane to be free to continue driving.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1417,7 +1417,7 @@
                 {
                     "questionLetter": "A",
                     "text": "From the left side",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1444,12 +1444,12 @@
                 {
                     "questionLetter": "B",
                     "text": "When nearing an uphill climb, when the visibility is less than 50 m",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "At an intersection which is not controlled/directed.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1471,7 +1471,7 @@
                 {
                     "questionLetter": "C",
                     "text": "At an intersection which is not controlled/directed.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1483,7 +1483,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Create conditions for him to overtake, go closer to the right side of the road",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1510,7 +1510,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Reduce speed and engage more to the right",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1527,12 +1527,12 @@
                 {
                     "questionLetter": "A",
                     "text": "Near an uphill climb, when visibility is reduced below 50 m",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "In curves, if visibility is reduced below 50 m",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1559,7 +1559,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Yes, when vehicles in front turn left and there is sufficient space on the right to overtake.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1576,7 +1576,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Failure to respect rules regarding overtaking",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1603,7 +1603,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Ensure that it can be done safely and signal the intention to change the direction of travel.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1615,7 +1615,7 @@
                 {
                     "questionLetter": "A",
                     "text": "You wait until you pass that intersection, even if you lose time planned for the trip",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",

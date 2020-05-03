@@ -20,7 +20,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Vehicles circulating on the national road.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -42,7 +42,7 @@
                 {
                     "questionLetter": "C",
                     "text": "All the vehicles you intersect.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -54,7 +54,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Priority for traffic from the opposite direction",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -76,7 +76,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Car",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -98,7 +98,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Stop, ensure and give way to all vehicles",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -120,7 +120,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Give way to pedestrians and vehicles that are in motion",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -142,7 +142,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes, to pedestrians crossing the road in his driving direction",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -169,7 +169,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Tram car, trolley",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -191,7 +191,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Motorcycle and truck",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -213,7 +213,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Bike, car, tram",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -235,7 +235,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Entering a national road, from a county, local or municipal road",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -262,7 +262,7 @@
                 {
                     "questionLetter": "C",
                     "text": "To give way to vehicles traveling on the road, regardless of the direction of travel.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -274,17 +274,17 @@
                 {
                     "questionLetter": "A",
                     "text": "Reduce speed",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "Ride as close to the margin of the road in the direction of travel",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "Give way.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -301,7 +301,7 @@
                 {
                     "questionLetter": "B",
                     "text": "To signal and ensure that the maneuver can be performed",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -323,7 +323,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Car",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -340,7 +340,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To vehicles coming from the right, if there no other regulations in the intersection",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -362,7 +362,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Vehicles already in the roundabout, over those who are preparing to enter the roundabout",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -384,7 +384,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Vehicles traveling on the transversal road",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -416,7 +416,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Give way to pedestrians who are crossing the pedestrian crossing toward your direction.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -428,7 +428,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Cross without giving way",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -450,7 +450,7 @@
                 {
                     "questionLetter": "A",
                     "text": "car, blue car, bus",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -482,7 +482,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Stop, to allow pedestrians to cross.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -494,7 +494,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Brake in advance to give way to pedestrians, who are crossing",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -521,7 +521,7 @@
                 {
                     "questionLetter": "B",
                     "text": "bus, as it is not changing its direction of travel",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -548,7 +548,7 @@
                 {
                     "questionLetter": "C",
                     "text": "The car, as it travels on a priority road.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -570,7 +570,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Right priority.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -592,7 +592,7 @@
                 {
                     "questionLetter": "C",
                     "text": "To drive with caution, as the indicator pre-signals a pedestrian crossing.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -609,7 +609,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Motorcycle, truck, tram 2, tram 1",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -636,7 +636,7 @@
                 {
                     "questionLetter": "C",
                     "text": "No",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -653,7 +653,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Stop and do not enter the intersection",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -675,7 +675,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Keep moving, because you have the right of way",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -702,7 +702,7 @@
                 {
                     "questionLetter": "C",
                     "text": "No, because the color of the traffic light is green.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -724,7 +724,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Motorcycle and truck.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -736,7 +736,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Drive at a speed not exceeding 30 km/h in towns and 50 km/h outside",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -763,7 +763,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Give way to the red and green cars",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -780,7 +780,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Give way to the cyclist",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -802,7 +802,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Intersection with a road without priority",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -829,7 +829,7 @@
                 {
                     "questionLetter": "B",
                     "text": "The vehicle leaving the forest",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -856,7 +856,7 @@
                 {
                     "questionLetter": "C",
                     "text": "You.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -873,7 +873,7 @@
                 {
                     "questionLetter": "B",
                     "text": "The car, as it comes from the right side of the truck",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -895,7 +895,7 @@
                 {
                     "questionLetter": "B",
                     "text": "You have the right of way",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -912,7 +912,7 @@
                 {
                     "questionLetter": "A",
                     "text": "At the indicator “Priority for circulation from opposite direction”",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -944,7 +944,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Green, blue, red.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -966,7 +966,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Tram 1, car, tram 2.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -988,7 +988,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Do not give way to any vehicle and follow the traffic lights.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1010,7 +1010,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Both vehicles.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1027,7 +1027,7 @@
                 {
                     "questionLetter": "B",
                     "text": "You allow the taxi to pass",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1049,7 +1049,7 @@
                 {
                     "questionLetter": "B",
                     "text": "You have priority over the black car on the left",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1076,7 +1076,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Stop and give way to pedestrians.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1088,7 +1088,7 @@
                 {
                     "questionLetter": "A",
                     "text": "All cars",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1120,7 +1120,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Car, motorcycle, truck.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1142,7 +1142,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Truck and car.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1154,7 +1154,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Truck, tram, car",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1176,7 +1176,7 @@
                 {
                     "questionLetter": "A",
                     "text": "The cars will bypass each other from the left of the imaginary center, without intersecting their paths.",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1198,7 +1198,7 @@
                 {
                     "questionLetter": "A",
                     "text": "You must give way to the truck",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1220,7 +1220,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Respect the significance of the green signal",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1242,7 +1242,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Vehicles that drive on the country road",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1269,7 +1269,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Signal the intention to perform the maneuver, ensure, engage closer to the right edge, and then enter that street",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1296,7 +1296,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Both vehicles.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1313,7 +1313,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Give way to pedestrians, who are walking in your direction",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1335,7 +1335,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Red, blue, yellow",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1357,7 +1357,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Stop the vehicle",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1379,7 +1379,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Car, motorcycle, bicycle",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1401,7 +1401,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Reduce speed and give way to traffic coming from the right",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1428,7 +1428,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Give way to all those entitled.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1445,7 +1445,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Give way to pedestrians",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1467,7 +1467,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Give way",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1489,7 +1489,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Reduce speed, and, if necessary, stop",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1516,7 +1516,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Car, bus, truck",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1528,7 +1528,7 @@
                 {
                     "questionLetter": "A",
                     "text": "The tram, because it has the right of way",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1560,7 +1560,7 @@
                 {
                     "questionLetter": "C",
                     "text": "If pedestrians are crossing, to grant them the right of way.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1582,7 +1582,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Truck, car, motorcycle",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1604,7 +1604,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Car.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1621,7 +1621,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Stop and grant priority to the column",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1643,7 +1643,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Give way to pedestrians, who are walking in your direction",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1660,7 +1660,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Car, truck, motorcycle",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1682,7 +1682,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Overtake the bus from the right side after the red car has passed",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1704,7 +1704,7 @@
                 {
                     "questionLetter": "A",
                     "text": "No",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1731,7 +1731,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Red car",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1758,7 +1758,7 @@
                 {
                     "questionLetter": "C",
                     "text": "You have priority.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1775,7 +1775,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Allow pedestrians to cross the street",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1797,7 +1797,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Reduce speed and continue your way because you have priority",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1814,7 +1814,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Right priority",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1836,7 +1836,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Car",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1863,7 +1863,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Bus",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1890,7 +1890,7 @@
                 {
                     "questionLetter": "C",
                     "text": "The car coming from the right.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1902,7 +1902,7 @@
                 {
                     "questionLetter": "A",
                     "text": "No vehicle",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1929,7 +1929,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Blue, green, red",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1956,7 +1956,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Reduce speed, and, if necessary stop to allow the bus reenter traffic.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1978,7 +1978,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Car, motorcycle, truck",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -2000,7 +2000,7 @@
                 {
                     "questionLetter": "C",
                     "text": "You give way to traffic coming from the right.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -2012,7 +2012,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Green car",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -2039,7 +2039,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Stop, except when traffic requirements are such",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -2056,7 +2056,7 @@
                 {
                     "questionLetter": "A",
                     "text": "All vehicles in the roundabout, over those that are about to enter",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -2083,7 +2083,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Stop and ensure before crossing the intersection, even if this was done by the bus driver",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -2105,7 +2105,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Give way to the bus",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -2132,7 +2132,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Yes, to both, to vehicles coming from the opposite direction and pedestrians crossing the street the driver is about to enter.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -2149,7 +2149,7 @@
                 {
                     "questionLetter": "B",
                     "text": "The driver circulating from the right",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -2171,7 +2171,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Allow the tram to pass",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -2198,7 +2198,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Yes.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -2210,7 +2210,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Vehicles moving on the county road",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -2242,7 +2242,7 @@
                 {
                     "questionLetter": "C",
                     "text": "No, if the road signs do not provide so.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -2264,7 +2264,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Car, bus, motorcycle, truck.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -2281,7 +2281,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Green car",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -2308,7 +2308,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Apply the right priority rule.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -2330,7 +2330,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Forcing those who have right of way to modify their speed or direction or stop suddenly.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -2347,7 +2347,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Green, blue, red",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -2364,7 +2364,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Stop, ensure and give way before crossing the intersection",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",

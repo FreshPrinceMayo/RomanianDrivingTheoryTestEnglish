@@ -14,7 +14,7 @@
                 {
                     "questionLetter": "B",
                     "text": "He removes the vehicle from the roadway and notifies the police within 24 hours",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -31,7 +31,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Contravention fine, withholding the registration certificate and driving license in order to suspend the right to drive",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -53,7 +53,7 @@
                 {
                     "questionLetter": "A",
                     "text": "If the braking system is damaged",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -75,7 +75,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes, with the consent of the policemen investigating the accident",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -97,7 +97,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Penally",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -119,7 +119,7 @@
                 {
                     "questionLetter": "A",
                     "text": "By a fine and penalty points",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -141,7 +141,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Failure to respond to police signals of a passing police motorcade",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -163,7 +163,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Driving under the influence of alcohol",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -195,7 +195,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Repairing a vehicle involved in an accident, without police authorization.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -207,7 +207,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Failure to grant priority to vehicles, if it resulted in an accident resulting in property damage",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -239,7 +239,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Accumulating at least 15 penalty points, again.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -251,7 +251,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Driving under the influence of alcohol, having below 0.8 g/l of pure alcohol in the blood",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -278,7 +278,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Penally",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -295,7 +295,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Driving an unregistered motor vehicle on a public highway",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -305,7 +305,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Driving a vehicle on a public road with a fake registration number.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -322,7 +322,7 @@
                 {
                     "questionLetter": "B",
                     "text": "For driving without one registration number plate",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -339,7 +339,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Driving in the opposite direction, unless the overtaking is performed legally",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -371,7 +371,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Overtaking a row of vehicles stopped at a red light.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -388,7 +388,7 @@
                 {
                     "questionLetter": "B",
                     "text": "When you do not grant the right of way to pedestrians",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -415,7 +415,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Fine, penalty points, and suspension of the right to drive.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -437,7 +437,7 @@
                 {
                     "questionLetter": "C",
                     "text": "More than 0.40 mg / l of pure alcohol.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -459,7 +459,7 @@
                 {
                     "questionLetter": "C",
                     "text": "No.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -481,7 +481,7 @@
                 {
                     "questionLetter": "C",
                     "text": "The driver refuses to identify himself.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -503,7 +503,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Failing to respect the “Stop” indicator installed at a railway level crossing.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -515,7 +515,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -547,7 +547,7 @@
                 {
                     "questionLetter": "C",
                     "text": "In case of not reporting at the police station, an accident with vehicle damage, within 24 hours.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -569,7 +569,7 @@
                 {
                     "questionLetter": "C",
                     "text": "No, because the offense is a crime.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -586,7 +586,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Lack of pulse",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -603,7 +603,7 @@
                 {
                     "questionLetter": "A",
                     "text": "The driving license is withdrawn",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -630,7 +630,7 @@
                 {
                     "questionLetter": "B",
                     "text": "An offense (CONTRAVENTIE), punishable by imprisonment",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -647,7 +647,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Driving under the influence of alcohol",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -679,7 +679,7 @@
                 {
                     "questionLetter": "C",
                     "text": "When exceeding the speed limit by 50 km/h.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -691,17 +691,17 @@
                 {
                     "questionLetter": "A",
                     "text": "Failing to stop at the stop indicator installed at railway level crossings",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "Exceeding the speed limit by 31-40 km/h for that category the vehicle",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "Exceeding the speed limit by 10 to 20 km/h for that category of vehicle.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -718,7 +718,7 @@
                 {
                     "questionLetter": "B",
                     "text": "For offenses resulting in death or serious injury to persons, committed by breaking traffic rules",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -735,7 +735,7 @@
                 {
                     "questionLetter": "A",
                     "text": "The vehicle has not performed the technical inspection",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -757,7 +757,7 @@
                 {
                     "questionLetter": "A",
                     "text": "It is polluting above the threshold allowed by law, while moving or when stationary",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -767,7 +767,7 @@
                 {
                     "questionLetter": "C",
                     "text": "The registration number plates are damaged.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -784,7 +784,7 @@
                 {
                     "questionLetter": "B",
                     "text": "When the engine pollutes over the legal limit",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -806,7 +806,7 @@
                 {
                     "questionLetter": "B",
                     "text": "0.8 g/l",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -828,7 +828,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Transported immediately to a medical facility",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -850,7 +850,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Criminal offense and cancellation of driving license",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -872,7 +872,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Contravention fine and suspension of the right to drive",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -894,12 +894,12 @@
                 {
                     "questionLetter": "B",
                     "text": "At the expiration of the suspension period, after passing the knowledge verification test",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "When the report of offence is annulled by a final judgment of the courts.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -916,7 +916,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Not to aggravate injuries",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -933,7 +933,7 @@
                 {
                     "questionLetter": "A",
                     "text": "After a conviction by final judgment for an offence regarding driving",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -955,17 +955,17 @@
                 {
                     "questionLetter": "A",
                     "text": "Installation or modification of road signs, changing their position without legal authorization",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "Organizing or participating, as drivers of cars or animal drawn vehicles, in unauthorized road races",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "Blocking a public road intentionally and putting the safety of traffic in great danger. .",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -982,12 +982,12 @@
                 {
                     "questionLetter": "B",
                     "text": "When data in the certificate of registration is not consistent with the technical characteristics of the vehicle",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "When one does not have auto liability insurance.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1009,7 +1009,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Not without the consent of the police authorities.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1021,17 +1021,17 @@
                 {
                     "questionLetter": "A",
                     "text": "For not giving priority",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "If the driving license is damaged",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "If the driving license shows changes, deletions or additions.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1043,12 +1043,12 @@
                 {
                     "questionLetter": "A",
                     "text": "Failure to stop at the signal of the police",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "For failing to comply with the legal provisions relating to overtaking",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -1065,7 +1065,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Criminal",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1087,17 +1087,17 @@
                 {
                     "questionLetter": "A",
                     "text": "When the technical inspection has expired",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "If the noise exceeds the legal limit allowed, whether moving or stationary",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "When the engine emits noxious pollutants over the legal limits allowed.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1119,7 +1119,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Accumulating 15 penalty points.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1141,7 +1141,7 @@
                 {
                     "questionLetter": "C",
                     "text": "By a fine and suspension of the right to drive the vehicle.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1153,7 +1153,7 @@
                 {
                     "questionLetter": "A",
                     "text": "When the number registration plates do not comply with standards applicable",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1175,7 +1175,7 @@
                 {
                     "questionLetter": "A",
                     "text": "The registration number is false",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -1202,7 +1202,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Yes, if the vehicle or trailer show technical malfunctions that threaten traffic safety",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",

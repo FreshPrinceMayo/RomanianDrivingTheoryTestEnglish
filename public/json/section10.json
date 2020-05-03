@@ -9,7 +9,7 @@
                 {
                     "questionLetter": "A",
                     "text": "When overtaking other vehicles and the other lanes are occupied",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -36,7 +36,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Yes, if the combination can exceed the speed of 50 km/h",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -58,7 +58,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Yes, if it can exceed the speed of 50 km/h",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -75,7 +75,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes, because you are driving on the right lane",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -97,12 +97,12 @@
                 {
                     "questionLetter": "A",
                     "text": "You will speed up, as the lane is specially created for this purpose",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
                     "text": "You will give way to vehicles that move on the first lane and do not hinder their circulation",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -124,7 +124,7 @@
                 {
                     "questionLetter": "B",
                     "text": "A reduction in fuel consumption",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -141,7 +141,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Leave the highway while the vehicle is functioning, stop on the emergency lane and signal",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -173,7 +173,7 @@
                 {
                     "questionLetter": "C",
                     "text": "To signal in time and engage into the exit lane (deceleration).",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -195,7 +195,7 @@
                 {
                     "questionLetter": "C",
                     "text": "130 km / h.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -207,7 +207,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Marking of a deceleration lane",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -229,7 +229,7 @@
                 {
                     "questionLetter": "A",
                     "text": "No",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -251,7 +251,7 @@
                 {
                     "questionLetter": "A",
                     "text": "No",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -283,7 +283,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Reduce speed and drive on the deceleration lane created for this purpose;",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -300,12 +300,12 @@
                 {
                     "questionLetter": "B",
                     "text": "Learning to drive a vehicle",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
                     "text": "Testing prototypes of chassis and motor vehicles.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -322,7 +322,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Those who, by construction or other reasons, cannot exceed 50 km/h",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -344,7 +344,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Reverse",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -366,7 +366,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Signal and engage on the exit lane",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -383,7 +383,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Those by construction, which cannot exceed a speed of 50 km/h",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -393,7 +393,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Tractors and self-propelled agricultural machines.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -405,7 +405,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Yes",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -432,7 +432,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Signal your intention, ensure that you perform the maneuver safely and drive on the deceleration lane",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -449,7 +449,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To give way to vehicles that run on the first lane of the highway, without disturbing their circulation in any way",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -471,7 +471,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To stay on the emergency lane, unless justified",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -503,7 +503,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Blue car.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -520,7 +520,7 @@
                 {
                     "questionLetter": "B",
                     "text": "He signals his intention to leave the place, ensuring he can perform the maneuver without disturbing traffic, without jeopardizing the safety of others, while granting the right of way to vehicles traveling on the road",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -537,7 +537,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Public transport vehicles and authorized governmental vehicles travelling on urgent missions",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -569,7 +569,7 @@
                 {
                     "questionLetter": "C",
                     "text": "Either of the two, if it complies with all provisions of the law.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -591,7 +591,7 @@
                 {
                     "questionLetter": "C",
                     "text": "In any situation.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -603,7 +603,7 @@
                 {
                     "questionLetter": "A",
                     "text": "Can use the tram lane without inconveniencing its circulation",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -625,7 +625,7 @@
                 {
                     "questionLetter": "A",
                     "text": "To see and be seen, without disturbing other road users",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -652,7 +652,7 @@
                 {
                     "questionLetter": "B",
                     "text": "On slopes where visibility is less than 50 m",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -669,7 +669,7 @@
                 {
                     "questionLetter": "A",
                     "text": "On a one-way street, if at least one lane remains free",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "B",
@@ -696,7 +696,7 @@
                 {
                     "questionLetter": "B",
                     "text": "Blue blue",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
@@ -723,7 +723,7 @@
                 {
                     "questionLetter": "C",
                     "text": "On the left lane vehicles may travel if their speed is at least that which is mentioned.",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -740,7 +740,7 @@
                 {
                     "questionLetter": "B",
                     "text": "To have a comfortable position, with the head leaning against the headrest and with both hands on the wheel",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "questionLetter": "C",
